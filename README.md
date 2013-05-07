@@ -2,7 +2,7 @@
 layout: cv
 title: andrei neculau cv
 ---
-# andrei **neculau**
+# **andrei** neculau
 
 
 
@@ -10,8 +10,8 @@ title: andrei neculau cv
 
 > 1984-05-04
 
-> Sickla Allé 13  
-> Nacka 13165  
+> Sickla Allé 13<br>
+> Nacka 13165<br>
 > Sweden
 
 > <a href="tel:+46-763-400-378">+46 763 400 378</a>
@@ -22,6 +22,9 @@ title: andrei neculau cv
 > [github](https://github.com/andreineculau)
 > [twitter](https://twitter.com/andreineculau)
 > [shelfari](http://shelfari.com/andreineculau)
+> [last.fm](http://www.last.fm/user/andreineculau)
+> [delicious](https://delicious.com/andrei.neculau)
+> [timeline](http://timeline.andreineculau.com)
 > [.com](http://andreineculau.com)
 
 
@@ -44,7 +47,7 @@ title: andrei neculau cv
 > * Pascal
 > * FoxPro
 > * ...
-> * CISCO CNA
+> * certified <span class="more" title="Cisco Certified Network Associate 961/1000">CCNA</span>
 > * JavaScript & co.
 > * Prolog
 > * Erlang & co.
@@ -58,13 +61,15 @@ title: andrei neculau cv
 
 ## IT experience
 
-#### `2011 -     ` **Klarna AB, Stockholm, <accronym title="Sweden">SWE</accronym>** `Developer`
-> Engineering [Klarna Checkout](https://klarna.com/sv/salj-med-klarna/vara-tjanster/klarna-checkout) - prototype, documentation, frontend. Engineering support tools and designing the [Klarna Checkout REST API](https://docs.klarna.com/en/rest-api#api-overview) and other REST APIs.
+#### `2011 -     ` **[Klarna AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://klarna.com)** `Developer`
+> Engineering [Klarna Checkout](https://klarna.com/sv/salj-med-klarna/vara-tjanster/klarna-checkout) - full-blown front/backend <abbrev title="Finite State Machine">FSM</abbrev> prototype, interaction and API documentation, GUI.
+
+> Engineering support tools and designing the [Klarna Checkout REST API](https://docs.klarna.com/en/rest-api#api-overview) and other REST APIs.
 
 > *rest, http, api, js, coffeescript, i18n, l10n, testing, scripting, erlang*
 
-#### `2001 -     ` **Life-Link Friendship-Schools, Uppsala, <accronym title="Sweden">SWE</accronym>** `IT Consultant`
-> Frontoffice and backoffice duties. Designing and engineering 3 major websites.
+#### `2001 -     ` **[Life-Link Friendship-Schools, Uppsala, <accronym title="Sweden">SWE</accronym>](http://life-link.org)** `IT handyman`
+> Front- and backoffice duties. Designing and engineering 3 major websites.
 
 > *php, asp, perl, css, js, sencha, photoshop, cms*
 
@@ -93,8 +98,22 @@ title: andrei neculau cv
 
 > *REST, API, HTTP, client, server, webmachine, erlang, js*
 
+#### `2009 - 2010` **Snowdrop** `Father`
+> Snowdrop is an academic Information System that merges information from various course management systems in order to provide quick access to vital student information, like messages and schedule.
+
+> *squace, browser, php, xml, mobile, data mining*
+
+> * `2010`[Snowdrop 2.0](http://www.youtube.com/watch?v=DiGBvFx9ePY&list=PLm2MmlTdwWv2631fRJgHc7JPB4ju_rvyc)
+> * `2009` [Snowdrop 1.0 (Codename Klover)](http://www.youtube.com/watch?v=oqe5WCO_Ydw)
+
 #### `2009 - 2009` **[Promote Knowledge Management](http://vimeo.com/couchmode/album/2007694/sort:preset/45768175)** `Concept`
 > A series of videos playing with audio, video and concepts in order to highlight a knowledge management course.
+
+#### `2008 - 2009` **Labs** `Widgets`
+> * [Exchange Rate Dashboard](http://labs.andreineculau.com/cursbnr/)
+> * [Google Maps Dashboard](http://labs.andreineculau.com/maps/)
+> * [Skyscanner quick links](http://labs.andreineculau.com/skyscanner/)
+> * [Mobile tyda.se](http://labs.andreineculau.com/m.tyda.se/)
 
 #### `2008 - 2009` **[Induction to Kista IT University - KTH & SU](http://dsv.su.se.andreineculau.com)** `Facilitator`
 > *knowledge management, wiki, facebook*
@@ -108,20 +127,22 @@ title: andrei neculau cv
 
 ## education
 
-#### `2008 - 2010` **[Royal Institute of Technology](http://www.kth.se/en), Stockholm, <accronym title="Sweden">SWE</accronym>** `M.Sc.`
+#### `2008 - 2010` **[Royal Institute of Technology, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.kth.se/en)** `M.Sc.`
 > Engineering and Management of Information Systems.
 
-#### `2007 - 2007` **[University of Humanities and Economics](http://www.ahe.lodz.pl/en), Lodz, <accronym title="Poland">POL</accronym>** `Erasmus`
+#### `2007 - 2007` **[University of Humanities and Economics, Lodz, <accronym title="Poland">POL</accronym>](http://www.ahe.lodz.pl/en)** `Erasmus`
 > Corporate Finance Management, H.R. Management, Social Role of Media, Public Discourses, Conflicts and International Negotiations
 
-#### `2004 - 2008` **[Romanian-American University](http://www.rau.ro/index.php?newlang=english), Bucharest, <accronym title="Romania">ROU</accronym>** `B.Sc.`
+#### `2004 - 2008` **[Romanian-American University, Bucharest, <accronym title="Romania">ROU</accronym>](http://www.rau.ro/index.php?newlang=english)** `B.Sc.`
 > Computer Science for Business Management. Graduated with the highest GPA in the programme.
 
 
 
 ## papers
 
-#### `2010` **[Course Analytics - Leveraging course assessment through data mining of student satisfaction](https://daisy.dsv.su.se/fil/visa?id=57498)** `Master Thesis`
+#### `2010` **[Course Analytics](https://daisy.dsv.su.se/fil/visa?id=57498)** `Master Thesis`
+> Leveraging course assessment through data mining of student satisfaction
+
 > *academic quality, academic evaluation, service satisfaction, educational data mining, importance-performance analysis, teaching eﬀectiveness, php, squace, xml*
 
 #### `2009` **[Split Infinitives in Prolog](http://www.rebe.rau.ro/RePEc/rau/jisomg/WI09/JISOM-WI09-A5.pdf)**
@@ -144,13 +165,13 @@ title: andrei neculau cv
 
 #### `2008` **Web 2.0 Application for Medical Clinique Management** `Honors Thesis`
 
-<div class="page-break"></div>
-
 
 
 ## mixed experience
 
-#### `2002 - 2007` **miscellaneous** *Delegate, Speaker*
+#### `2001 - 2007` **.** `Delegate, Speaker`
+> *international citizenship, sustainability, youth engagement*
+
 > * `2007` UNESCO ASPnet Conference, Amman, <accronym title="Jordan">JOR</accronym>
 > * `2007` Life-Link Friendship-Schools Conference, Sigtuna, <accronym title="Sweden">SWE</accronym>
 > * `2007` UNESCO ASPnet Training Workshop, Amman, <accronym title="Jordan">JOR</accronym>
@@ -161,9 +182,9 @@ title: andrei neculau cv
 > * `2002` Brat<accronym title="Model of United Nations">MUN</accronym>, Bratislava, <accronym title="Slovakia">SVK</accronym>
 > * `2001` Life-Link Friendship-Schools Conference, Sigtuna, <accronym title="Sweden">SWE</accronym>
 
-> international citizenship, sustainability, youth engagement
+#### `2002 - 2006` **.** `Group Leader`
+> *event planning, youth engagement*
 
-#### `2002 - 2006` **miscellaneous** *Group Leader*
 > * `2006` Where do I belong to II, Norfolk, <accronym title="United Kingdom">GBR</accronym>
 > * `2005` Where do I belong to, Brno, <accronym title="Czech Republic">CZE</accronym>
 > * `2003` Island <accronym title="Model of United Nations General Assembly">M.U.N.G.A.</accronym>, Isle of Wight, <accronym title="United Kingdom">GBR</accronym>
