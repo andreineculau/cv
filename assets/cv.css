@@ -1,0 +1,147 @@
+/*
+Elements
+*/
+
+/* Given name */
+h1 {
+    font-weight:100;
+    letter-spacing:-2px;
+    margin-bottom:40px;
+}
+
+/* Family name */
+h1 strong {
+    margin-left:-0.15em;
+}
+
+/* About */
+h1 + blockquote {
+    float:left;
+    text-align:right;
+    border:0px;
+    padding:0px;
+    margin:0px;
+    margin-left:-230px;
+    margin-top:-40px;
+    width:200px;
+    font-size:14px;
+}
+
+h1 + blockquote h2 {
+    /*font-size:17px;*/
+    color:#999999;
+}
+
+h1 + blockquote p,
+h1 + blockquote li {
+    font-size:14px;
+    font-weight:300;
+    line-height:1.25;
+}
+
+h1 + blockquote p {
+    margin-bottom:0.5em;
+}
+
+/* Category */
+#content > h2 {
+}
+
+/* Headline */
+#content > h4 {}
+
+/* Period */
+#content > h4 > code:first-child {
+}
+
+/* Title */
+#content > h4 > code:first-child + strong {
+}
+
+/* Subtitle */
+#content > h4 > code:first-child + strong + code {
+    float:right;
+}
+
+/* Description */
+#content > h4 + blockquote {
+    border:0px;
+    font-size:14px;
+    color:#666666;
+    padding-left:100px;
+}
+
+#content > h4 + blockquote * {
+    font-size:14px;
+    line-height:1.25;
+    font-weight:300;
+}
+
+#content > h4 + blockquote > ul {}
+
+#content > h4 + blockquote > ul > li > code:first-child {
+    font-size:10px;
+}
+
+
+/*
+Styles
+*/
+body,
+code,
+a {
+    color:#444444;
+}
+
+a {
+    text-decoration:underline;
+}
+
+ul {
+    list-style-type:none;
+    margin-left:0px;
+}
+
+h2 {
+    margin:40px 0;
+}
+
+abbrev,
+accronym,
+span.more {
+    border-bottom:.1em dotted;
+}
+
+.page-break {
+    display:none;
+}
+
+
+/*
+Print
+*/
+
+@media print {
+    h1 + blockquote {
+        float:none;
+        margin:0;
+        width:auto;
+        text-align:left;
+    }
+    #content > h4 > code:first-child + strong + code {
+        float:none;
+    }
+    h2 {
+        margin:10px 0;
+    }
+    h4 {
+        font-size:14px;
+    }
+    a[href]:after {
+        content: none !important;
+    }
+    .page-break {
+        display:block;
+        page-break-before:always;
+    }
+}
