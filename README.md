@@ -45,6 +45,7 @@ title: andrei neculau cv
 > * Commodore 64 Basic
 > * Q-Basic
 > * Pascal
+> * C++
 > * FoxPro
 > * ...
 > * certified <span class="more" title="Cisco Certified Network Associate 961/1000">CCNA</span>
@@ -54,6 +55,7 @@ title: andrei neculau cv
 > * [HyperREST](http://hyperrest.com)
 > * ...
 > * [*you name it*](http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html)
+> * but more importantly, I'm [an automation/DRY geek](https://plus.google.com/+BrunoOliveira/posts/MGxauXypb1Y)
 
 <div class="page-break"></div>
 
