@@ -132,11 +132,15 @@ title: andrei neculau cv
 #### `2008 - 2010` **[Royal Institute of Technology, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.kth.se/en)** `M.Sc.`
 > Engineering and Management of Information Systems.
 
+> Data Warehousing, Web mining, Logic Programming, Knowledge Management, ERP Systems, Requirements Engineering, etc.
+
 #### `2007 - 2007` **[University of Humanities and Economics, Lodz, <accronym title="Poland">POL</accronym>](http://www.ahe.lodz.pl/en)** `Erasmus`
 > Corporate Finance Management, H.R. Management, Social Role of Media, Public Discourses, Conflicts and International Negotiations
 
 #### `2004 - 2008` **[Romanian-American University, Bucharest, <accronym title="Romania">ROU</accronym>](http://www.rau.ro/index.php?newlang=english)** `B.Sc.`
 > Computer Science for Business Management. Graduated with the highest GPA in the programme.
+
+> Database, Programming, Web programming, Networking, IT System Design, Expert Systems, Strategic Management, Probability Calculus, Numerical Methods, Statistics, Accounting, Finances, etc.
 
 
 
