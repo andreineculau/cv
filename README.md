@@ -38,7 +38,6 @@ title: andrei neculau cv
 > * notions of Spanish & French
 
 
-
 > ## programming
 
 > * since 7 years old
@@ -47,15 +46,21 @@ title: andrei neculau cv
 > * Pascal
 > * C++
 > * FoxPro
+> * Perl
+> * VBScript
+> * PHP
+> * MySQL
 > * ...
 > * certified <span class="more" title="Cisco Certified Network Associate 961/1000">CCNA</span>
 > * JavaScript & co.
+> * BASH
 > * Prolog
 > * Erlang & co.
 > * [HyperREST](http://hyperrest.com)
 > * ...
 > * [*you name it*](http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html)
 > * but more importantly, I'm [an automation/DRY geek](https://plus.google.com/+BrunoOliveira/posts/MGxauXypb1Y)
+> * [doing the hard things](http://sealedabstract.com/rants/do-hard-things/)
 
 <div class="page-break"></div>
 
