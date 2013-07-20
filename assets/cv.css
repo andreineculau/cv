@@ -2,6 +2,10 @@
 Elements
 */
 
+body {
+    padding-bottom:50px;
+}
+
 h1 + blockquote,
 h1 + blockquote p,
 h1 + blockquote li,
