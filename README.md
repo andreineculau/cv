@@ -21,7 +21,7 @@ title: andrei neculau cv
 > [linkedin](http://se.linkedin.com/in/andreineculau)
 > [github](https://github.com/andreineculau)
 > [twitter](https://twitter.com/andreineculau)
-> [shelfari](http://shelfari.com/andreineculau)
+> [goodreads](http://goodreads.com/andreineculau)
 > [last.fm](http://www.last.fm/user/andreineculau)
 > [delicious](https://delicious.com/andrei.neculau)
 > [timeline](http://timeline.andreineculau.com)
