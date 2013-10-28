@@ -68,12 +68,15 @@ title: andrei neculau cv
 
 ## IT experience
 
-#### `2011 -     ` **[Klarna AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://klarna.com)** `Developer`
+#### `2013 -     ` **[Videoplaza AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://videoplaza.com)** `Software Engineer`
+> ?
+
+#### `2011 - 2013` **[Klarna AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://klarna.com)** `Developer`
 > Engineering [Klarna Checkout](https://klarna.com/sv/salj-med-klarna/vara-tjanster/klarna-checkout) - full-blown front/backend <abbrev title="Finite State Machine">FSM</abbrev> prototype, interaction and API documentation, GUI.
 
 > Engineering support tools and designing the [Klarna Checkout REST API](https://docs.klarna.com/en/rest-api#api-overview) and other REST APIs.
 
-> *rest, http, api, js, coffeescript, i18n, l10n, testing, scripting, erlang*
+> *rest, http, hypermedia, api, js, coffeescript, sdk, gui, ux, i18n, l10n, testing, scripting, erlang*
 
 #### `2001 -     ` **[Life-Link Friendship-Schools, Uppsala, <accronym title="Sweden">SWE</accronym>](http://life-link.org)** `IT handyman`
 > Front- and backoffice duties. Designing and engineering 3 major websites.
