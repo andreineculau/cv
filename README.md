@@ -154,7 +154,7 @@ title: andrei neculau cv
 
 ## papers
 
-#### `2010` **[Course Analytics](https://daisy.dsv.su.se/fil/visa?id=57498)** `Master Thesis`
+#### `2010` **[Course Analytics](http://files.andreineculau.com/education/kth/2.3/Thesis_3_CourseAnalytics_Final.pdf)** `Master Thesis`
 > Leveraging course assessment through data mining of student satisfaction
 
 > *academic quality, academic evaluation, service satisfaction, educational data mining, importance-performance analysis, teaching eﬀectiveness, php, squace, xml*
