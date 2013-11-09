@@ -131,6 +131,12 @@ title: andrei neculau cv
 #### `2009 - 2009` **[Promote Knowledge Management](http://vimeo.com/couchmode/album/2007694/sort:preset/45768175)** `Concept`
 > A series of videos playing with audio, video and concepts in order to highlight a knowledge management course.
 
+<iframe src="//player.vimeo.com/video/45768175?portrait=0" width="210" height="158" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="//player.vimeo.com/video/45768176?portrait=0" width="210" height="158" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="//player.vimeo.com/video/45768258?portrait=0" width="210" height="158" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 #### `2008 - 2009` **Labs** `Widgets`
 > * [Exchange Rate Dashboard](http://labs.andreineculau.com/cursbnr/)
 > * [Google Maps Dashboard](http://labs.andreineculau.com/maps/)
