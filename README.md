@@ -138,10 +138,10 @@ title: andrei neculau cv
 <iframe src="//player.vimeo.com/video/45768258?portrait=0" width="210" height="158" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 #### `2008 - 2009` **Labs** `Widgets`
-> * [Exchange Rate Dashboard](http://labs.andreineculau.com/cursbnr/)
-> * [Google Maps Dashboard](http://labs.andreineculau.com/maps/)
-> * [Skyscanner quick links](http://labs.andreineculau.com/skyscanner/)
-> * [Mobile tyda.se](http://labs.andreineculau.com/m.tyda.se/)
+* [Exchange Rate Dashboard](http://labs.andreineculau.com/cursbnr/)
+* [Google Maps Dashboard](http://labs.andreineculau.com/maps/)
+* [Skyscanner quick links](http://labs.andreineculau.com/skyscanner/)
+* [Mobile tyda.se](http://labs.andreineculau.com/m.tyda.se/)
 
 #### `2008 - 2009` **[Induction to Kista IT University - KTH & SU](http://dsv.su.se.andreineculau.com)** `Facilitator`
 > *knowledge management, wiki, facebook*
