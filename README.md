@@ -56,7 +56,8 @@ title: andrei neculau cv
 > * BASH
 > * Prolog
 > * Erlang & co.
-> * [HyperREST](http://hyperrest.com)
+> * [HyperREST](https://github.com/hyperrest)
+> * [for-GET HTTP](https://github.com/for-GET)
 > * ...
 > * [*you name it*](http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html)
 > * but more importantly, I'm [an automation/DRY geek](https://plus.google.com/+BrunoOliveira/posts/MGxauXypb1Y)
@@ -103,10 +104,21 @@ title: andrei neculau cv
 
 ## projects
 
-#### `2012 -     ` **[HyperREST](http://hyperrest.com)** `Father`
-> A set of blog posts and software covering the how-to envision-spec-mock-consume-serve a REST API.
+#### `2013 -     ` **[for-GET HTTP](https://vimeo.com/78030876)** `Father`
+> [A Github organization](https://github.com/for-GET) covering PEG grammars, ASTs, parsegens, HTTP algorithms and an FSM for a non-opinionated and comprehensive-spec-coverage HTTP framework, focusing on semantics, and less on the syntax.
 
-> *REST, API, HTTP, client, server, webmachine, erlang, js*
+> *HTTP, PEG, grammar, AST, parser, generator, FSM, server, coffeescript, nodejs, webmachine, erlang*
+
+<iframe src="//player.vimeo.com/video/78030876?portrait=0" width="210" height="118" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe width="157" height="118" src="//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="210" height="118" src="//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0" frameborder="0" allowfullscreen></iframe>
+
+#### `2012 -     ` **[HyperREST](http://hyperrest.com)** `Father`
+> [A Github organization](https://github.com/hyperrest) covering a set of blog posts and software focused on how-to envision-spec-mock-consume-serve a REST/hypermedia API.
+
+> *REST, API, HTTP, hypermedia, client, server, coffeescript, nodejs*
 
 #### `2009 - 2010` **Snowdrop** `Father`
 > Snowdrop is an academic Information System that merges information from various course management systems in order to provide quick access to vital student information, like messages and schedule.

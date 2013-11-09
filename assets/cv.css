@@ -213,7 +213,7 @@ Print
         font-size:14px;
     }
     a[href]:after {
-        content: none !important;
+        content:none !important;
     }
     .page-break {
         display:block;
@@ -234,5 +234,8 @@ Print
     }
     h1 + blockquote li + li:before {
         content:", "
+    }
+    iframe {
+        display:none;
     }
 }
