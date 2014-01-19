@@ -20,6 +20,7 @@ title: andrei neculau cv
 
 > [linkedin](http://se.linkedin.com/in/andreineculau)
 > [github](https://github.com/andreineculau)
+> [report card](http://osrc.dfm.io/andreineculau)
 > [twitter](https://twitter.com/andreineculau)
 > [goodreads](http://goodreads.com/andreineculau)
 > [last.fm](http://www.last.fm/user/andreineculau)
