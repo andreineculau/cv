@@ -70,8 +70,19 @@ title: andrei neculau cv
 
 ## IT experience
 
-#### `2013 -     ` **[Tail-f AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://tail-f.com)** `UI Developer`
+#### `2014 -     ` **[Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://cisco.com)** `UI Developer`
+> Still engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/), but within Cisco's Cloud & Virtualization Group.
+> Cisco acquired Tail-f in 2014 - [read more](http://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems).
+
+#### `2013 - 2014` **[Tail-f Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://tail-f.com)** `UI Developer`
 > Engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/).
+
+> *nodejs, erlang, http, api, js, sencha, git, svn, jenkins, docker, yang...*
+
+#### `2001 -     ` **[Life-Link Friendship-Schools, Uppsala, <accronym title="Sweden">SWE</accronym>](http://life-link.org)** `IT handyman`
+> Front- and backoffice duties. Designing and engineering 3 major websites.
+
+> *php, asp, perl, css, js, sencha, photoshop, cms*
 
 #### `2013 - 2013` **[Videoplaza AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://videoplaza.com)** `Software Engineer`
 
@@ -81,11 +92,6 @@ title: andrei neculau cv
 > Engineering support tools and designing the [Klarna Checkout REST API](https://docs.klarna.com/en/rest-api#api-overview) and other REST APIs.
 
 > *rest, http, hypermedia, api, js, coffeescript, sdk, gui, ux, i18n, l10n, testing, scripting, erlang*
-
-#### `2001 -     ` **[Life-Link Friendship-Schools, Uppsala, <accronym title="Sweden">SWE</accronym>](http://life-link.org)** `IT handyman`
-> Front- and backoffice duties. Designing and engineering 3 major websites.
-
-> *php, asp, perl, css, js, sencha, photoshop, cms*
 
 #### `2010 - 2011` **Media & News Stockholm AB, Stockholm, <accronym title="Sweden">SWE</accronym>** `System Developer`
 > Engineering a customized social network on top of [SocialEngine](http://blog.andreineculau.com/2011/01/an-developers-review-on-webligos-socialengine/).
