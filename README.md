@@ -80,7 +80,7 @@ title: andrei neculau cv
 
 ## IT experience
 
-#### `2014 -     ` **[Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://cisco.com)** `UI Developer`
+#### `2014 -     ` **[Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://cisco.com)** `Engineer`
 > Still engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/), but within Cisco's Cloud & Virtualization Group.
 > Cisco acquired Tail-f in 2014 - [read more](http://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems).
 
