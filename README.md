@@ -2,6 +2,16 @@
 layout: cv
 title: andrei neculau cv
 ---
+<div id="timeline-wrapper">
+<div id="timeline" class="modal hide fade" tabindex="-1" role="dialog">
+  <div class="modal-body">
+    <iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AgnBrIpF5CiOdFBzMnNGMV9qX2tlQjFMVlJEN1M2cFE&font=Pacifico-Arimo&maptype=osm&lang=en&start_at_end=true&hash_bookmark=true&height=650' width='100%' height='650' frameborder='0'></iframe>
+  </div>
+</div>
+
+<center><a href="#timeline" role="button" class="btn" data-toggle="modal">click for an interactive timeline of</a></center>
+</div>
+
 # **andrei** neculau
 
 

@@ -2,6 +2,19 @@
 Elements
 */
 
+#timeline {
+    width: 1024px;
+    margin-left: -512px;
+    top: 0px;
+    border-radius: 0px;
+}
+
+#timeline .modal-body {
+    height: 650px;
+    max-height: 650px;
+    overflow-y: hidden;
+}
+
 body {
     padding-bottom:50px;
 }
@@ -202,6 +215,9 @@ Desktop
 Print
 */
 @media print {
+    #timeline-wrapper {
+        display: none;
+    }
     #content > h4 + blockquote,
     #content > h4 + blockquote * {
         font-size:10px;
