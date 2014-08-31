@@ -162,10 +162,10 @@ title: andrei neculau cv
 * [Skyscanner quick links](http://labs.andreineculau.com/skyscanner/)
 * [Mobile tyda.se](http://labs.andreineculau.com/m.tyda.se/)
 
-#### `2008 - 2009` **[Induction to Kista IT University - KTH & SU](http://dsv.su.se.andreineculau.com)** `Facilitator`
+#### `2008 - 2009` **Induction to Kista IT University - KTH & SU** `Facilitator`
 > *knowledge management, wiki, facebook*
 
-#### `2008 - 2009` **[Support Community for <span class="more" title="Admissions to Higher Studies in Sweden">studera.nu</span>](http://studera.nu.andreineculau.com)** `Facilitator`
+#### `2008 - 2009` **Support Community for <span class="more" title="Admissions to Higher Studies in Sweden">studera.nu</span>** `Facilitator`
 > *knowledge management, wiki, facebook*
 
 <div class="page-break"></div>
