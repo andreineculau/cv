@@ -20,8 +20,8 @@ title: andrei neculau cv
 
 > 1984-05-04
 
-> Sickla Allé 13<br>
-> Nacka 13165<br>
+> Järla Gårdsväg 19<br>
+> SE-131 61 Nacka<br>
 > Sweden
 
 > <a href="tel:+46-763-400-378">+46 763 400 378</a>
