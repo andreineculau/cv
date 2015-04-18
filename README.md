@@ -91,7 +91,7 @@ title: andrei neculau cv
 
 > *sencha/extjs, coffeescript, node.js, erlang, http, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform...*
 
-#### `2001 -     ` **[Life-Link Friendship-Schools, Uppsala, <accronym title="Sweden">SWE</accronym>](http://life-link.org)** `IT handyman`
+#### `2001 - 2014` **[Life-Link Friendship-Schools, Uppsala, <accronym title="Sweden">SWE</accronym>](http://life-link.org)** `IT handyman`
 > Front- and backoffice duties. Designing and engineering 3 major websites.
 
 > *php, asp, perl, css, js, sencha, photoshop, cms*
