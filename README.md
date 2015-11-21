@@ -86,7 +86,7 @@ title: andrei neculau cv
 
 > *erlang, http, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform...*
 
-#### `2013 - 2014` **[Tail-f Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://tail-f.com)** `UI Developer`
+#### `2013 - ____` **[Tail-f Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://tail-f.com)** `UI Developer`
 > Engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/).
 
 > *sencha/extjs, coffeescript, node.js, erlang, http, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform...*
