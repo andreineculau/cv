@@ -5,7 +5,7 @@ title: andrei neculau cv
 <div id="timeline-wrapper">
 <div id="timeline" class="modal hide fade" tabindex="-1" role="dialog">
   <div class="modal-body">
-    <iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AgnBrIpF5CiOdFBzMnNGMV9qX2tlQjFMVlJEN1M2cFE&font=Rancho-Gudea&maptype=HYBRID&lang=en&start_at_end=true&hash_bookmark=true&gmap_key=AIzaSyDF7hA7nubc497Nus0XUQtbHE79IfFSVmE&height=650' width='100%' height='650' frameborder='0'></iframe>
+    <iframe src="http://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=0AgnBrIpF5CiOdFBzMnNGMV9qX2tlQjFMVlJEN1M2cFE&start_at_end=true&width=990&height=650" width="100%" height="650" frameborder="0"></iframe>
   </div>
 </div>
 
