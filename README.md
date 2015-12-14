@@ -30,13 +30,15 @@ title: andrei neculau cv
 
 > [linkedin](http://se.linkedin.com/in/andreineculau)
 > [github](https://github.com/andreineculau)
-> [report card](http://osrc.dfm.io/andreineculau)
 > [twitter](https://twitter.com/andreineculau)
 > [goodreads](http://goodreads.com/andreineculau)
-> [last.fm](http://www.last.fm/user/andreineculau)
 > [delicious](https://delicious.com/andrei.neculau)
+> [last.fm](http://www.last.fm/user/andreineculau)
+> [spotify](https://play.spotify.com/user/andrei.neculau)
+> [npm](https://www.npmjs.com/~andreineculau)
 > [timeline](http://timeline.andreineculau.com)
 > [.com](http://andreineculau.com)
+> [public key](https://keybase.io/andreineculau/key.asc)
 
 
 
