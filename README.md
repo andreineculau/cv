@@ -82,15 +82,20 @@ title: andrei neculau cv
 
 ## IT experience
 
-#### `2014 - ____` **[Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://cisco.com)** `Engineer`
-> Switched focus from a mixed frontend/backend focus to backend duties.  
+#### `2014 - 2016` **[Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://cisco.com)** `Engineer`
+> Switched focus to backend and infrastructure duties, like:  
+> - Erlang-based JSON-RPC API design and implementation  
+> - set up Jenkins infrastructure and delivery pipeline for Continuous Integration  
+> - switch development environment from SVN to GIT  
+> - set up GIT on Atlassian Stash/BitBucket Server and Gitolite  
+> - tooling  
 > Still engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/), but within Cisco's Cloud & Virtualization Group.
 > Cisco acquired Tail-f in 2014 - [read more](http://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems).
 
-> *erlang, http, json-rpc, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform...*
+> *erlang, yaws, http, json-rpc, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform...*
 
-#### `2013 - ____` **[Tail-f Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://tail-f.com)** `UI Developer`
-> Engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/).
+#### `2013 - 2016` **[Tail-f Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://tail-f.com)** `UI Developer`
+> Engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/) with a mix of frontend/backend duties.
 
 > *sencha/extjs, coffeescript, node.js, erlang, http, json-rpc, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform...*
 
