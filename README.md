@@ -82,6 +82,11 @@ title: andrei neculau cv
 
 ## IT experience
 
+#### `2016 - ____` **[Tobii AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://cisco.com)** `Software Developer`
+> TBA
+
+> *tba*
+
 #### `2014 - 2016` **[Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://cisco.com)** `Engineer`
 > Switched focus to backend and infrastructure duties, like:  
 > - Erlang-based JSON-RPC API design and implementation  
