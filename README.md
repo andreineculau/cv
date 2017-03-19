@@ -82,9 +82,18 @@ title: andrei neculau cv
 ## IT experience
 
 #### `2016 - ____` **[Tobii AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://cisco.com)** `Software Developer`
-> TBA
+> Setting up the grounds of Tobii's EyeTracking Cloud Services and CI/CD within Tobii Pro, like (but not limited to):  
+> - currently working/experimenting on the AWS platform. Alternatives to follow  
+> - currently working/experimenting in a serverless environment. Alternatives to follow  
+> - set up infrastructure as code, based on CloudFormation  
+> - set up build system based on GNU Make  
+> - set up TeamCity pipeline for Continuous Integration  
+> - node.js bindings for eyetracking dynamic-link libraries  
+> - shitloads of tooling
 
-> *tba*
+> Tobii Pro is the research solution division within Tobii. We help business and science professionals gain real insights into human behavior with leading eye tracking solutions and services.
+
+> aws, infrastructure as code, http, node.js, es6/typescript, teamcity/jenkins/katt, git, erlang
 
 #### `2014 - 2016` **[Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://cisco.com)** `Engineer`
 > Switched focus to backend and infrastructure duties, like:  
