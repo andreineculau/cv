@@ -32,7 +32,6 @@ title: andrei neculau cv
 > [github](https://github.com/andreineculau)
 > [twitter](https://twitter.com/andreineculau)
 > [goodreads](http://goodreads.com/andreineculau)
-> [delicious](https://delicious.com/andrei.neculau)
 > [last.fm](http://www.last.fm/user/andreineculau)
 > [spotify](https://play.spotify.com/user/andrei.neculau)
 > [npm](https://www.npmjs.com/~andreineculau)
