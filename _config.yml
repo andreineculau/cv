@@ -1,7 +1,7 @@
 #github.com
 safe: true
 lsi: false
-pygments: true
+highlighter: rouge
 source: "."
 destination: ./_site
 #plugins: ./_plugins
