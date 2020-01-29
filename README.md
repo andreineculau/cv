@@ -214,30 +214,30 @@ title: andrei neculau cv
 
 ## papers
 
-#### `2010` **[Course Analytics](http://files.andreineculau.com/education/kth/2.3/Thesis_3_CourseAnalytics_Final.pdf)** `Master Thesis`
+#### `2010` **[Course Analytics](https://github.com/andreineculau/cv/raw/gh-pages/papers/master_thesis.pdf)** `Master Thesis`
 > Leveraging course assessment through data mining of student satisfaction
 
 > *academic quality, academic evaluation, service satisfaction, educational data mining, importance-performance analysis, teaching eﬀectiveness, php, squace, xml*
 
-#### `2009` **[Split Infinitives in Prolog](http://www.rebe.rau.ro/RePEc/rau/jisomg/WI09/JISOM-WI09-A5.pdf)**
+#### `2009` **[Split Infinitives in Prolog](http://www.rebe.rau.ro/RePEc/rau/jisomg/WI09/JISOM-WI09-A5.pdf)** [(copy)](https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-WI09-A5.pdf)
 > Published in Journal of Information Systems & Operations Management
 
 > *split infinitives, logic programming, prolog*
 
-#### `2009` **[Alignment of Business and IS/IT Strategy at Telenor Sweden](http://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A1.pdf)**
+#### `2009` **[Alignment of Business and IS/IT Strategy at Telenor Sweden](http://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A1.pdf)** [(copy)](https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A1.pdf)
 > Published in Journal of Information Systems & Operations Management
 
 > *strategic alignment, IS/IT strategy, business strategy, organizational strategy, case study, Telenor*
 
-#### `2009` **[Science is a runner. Philosophy?](http://files.andreineculau.com/education/kth/1.3/POS-IC2002_-_Essay.pdf)**
+#### `2009` **[Science is a runner. Philosophy?](https://github.com/andreineculau/cv/raw/gh-pages/papers/Science-is-a-runner-Philosophy.pdf)**
 > *philosophy, science, essay*
 
-#### `2009` **[Towards Enhanced E-collaboration in Academia](http://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A4.pdf)**
+#### `2009` **[Towards Enhanced E-collaboration in Academia](http://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A4.pdf)** [(copy)](https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A4.pdf)
 > Published in Journal of Information Systems & Operations Management
 
 > *e-collaboration, academia, requirements, boundaries, holistic*
 
-#### `2008` **Web 2.0 Application for Medical Clinique Management** `Honors Thesis`
+#### `2008` **[Web 2.0 Application for Medical Clinique Management](https://github.com/andreineculau/cv/raw/gh-pages/papers/bachelor_thesis.pdf)** `Honors Thesis`
 
 
 
