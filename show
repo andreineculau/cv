@@ -3,12 +3,12 @@ set -euo pipefail
 
 URL=https://raw.githubusercontent.com/andreineculau/cv/gh-pages/index.lynx
 if which curl &>/dev/null; then
-    curl -q -fsS ${URL}
+    curl -q -fsS ${URL} | ${PAGER:-less}
     exit 0
 fi
 
 if which wget &>/dev/null; then
-    wget –no-config -O - ${URL}
+    wget –no-config -O - ${URL} | ${PAGER:-less}
     exit 0
 fi
 
