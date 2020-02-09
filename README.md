@@ -81,21 +81,37 @@ title: andrei neculau cv
 
 ## IT experience
 
-#### `2016 - ____` **[Tobii AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://cisco.com)** `Software Developer`
-> Setting up the grounds of Tobii's EyeTracking Cloud Services and CI/CD within Tobii Pro, like (but not limited to):  
-> - currently working/experimenting on the AWS platform. Alternatives to follow  
-> - currently working/experimenting in a serverless environment. Alternatives to follow  
-> - set up infrastructure as code, based on CloudFormation  
-> - set up build system based on GNU Make  
-> - set up TeamCity pipeline for Continuous Integration  
+#### `2020 - ____` **[Normative/Meta Mind AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.normative.io)** `Lead Plumber`
+> Magic. TBD
+
+Normative is a "Sustainability Reporting Made Really Easy".
+
+> *TBD*
+
+#### `2016 - 2020` **[Tobii AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Software Developer`
+> Set up the grounds of Tobii Pro's Cloud Services, like (but not limited to):  
+> - helped bootstrap and run a high-ingestion adtech monitoring platform connecting 1000+ panelists  
+> - helped bootstrap an adtech analytics + dashboard product  
+> - helped bootstrap a video conferencing + screen sharing + eyetracking product  
+> - helped bootstrap various cloud-based products  
+> - comprehensive integrations with Amazon Web Services  
+> - set up high grade identity authentication and authorization via AWS IAM  
+> - set up runtime engine around a serverless architecture using AWS Lambda  
+> - set up infrastructure as code, based on Google Cloud Platform's principles, but using AWS CloudFormation  
+> - set up complex build system based on GNU Make and Bash shell scripts  
+> - set up development environments under MacOS and Linux  
+> - set up a platform-agnostic Continuous Integration and Continuous Deployment in Travis CI, Teamcity, CircleCI and Github Actions  
+> - utility belts for Make, Bash, JavaScript, TypeScript, Eslint, Babel, etc.  
+> - utility library for running AWS Lambdas locally  
+> - utility library for using vanilla HTTP frameworks on AWS Lambdas  
 > - node.js bindings for eyetracking dynamic-link libraries  
 > - shitloads of tooling
 
 > Tobii Pro is the research solution division within Tobii. We help business and science professionals gain real insights into human behavior with leading eye tracking solutions and services.
 
-> aws, infrastructure as code, http, node.js, es6/typescript, teamcity/jenkins/katt, git, erlang
+> *aws, infrastructure as code, http, node.js, es6/typescript, travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang*
 
-#### `2014 - 2016` **[Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://cisco.com)** `Engineer`
+#### `2014 - 2016` **[Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.cisco.com)** `Engineer`
 > Switched focus to backend and infrastructure duties, like:  
 > - Erlang-based JSON-RPC API design and implementation  
 > - set up Jenkins infrastructure and delivery pipeline for Continuous Integration  
@@ -107,7 +123,7 @@ title: andrei neculau cv
 
 > *erlang, yaws, http, json-rpc, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform...*
 
-#### `2013 - 2016` **[Tail-f Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](http://tail-f.com)** `UI Developer`
+#### `2013 - 2016` **[Tail-f Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://tail-f.com)** `UI Developer`
 > Engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/) with a mix of frontend/backend duties.
 
 > *sencha/extjs, coffeescript, node.js, erlang, http, json-rpc, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform...*
@@ -120,9 +136,9 @@ title: andrei neculau cv
 #### `2013 - 2013` **[Videoplaza AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://videoplaza.com)** `Software Engineer`
 
 #### `2011 - 2013` **[Klarna AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://klarna.com)** `Developer`
-> Engineering [Klarna Checkout](https://klarna.com/sv/salj-med-klarna/vara-tjanster/klarna-checkout) - full-blown front/backend <abbrev title="Finite State Machine">FSM</abbrev> prototype, interaction and API documentation, GUI.
+> Engineering [Klarna Checkout](https://www.klarna.com/se/foretag/products/checkout/) - full-blown front/backend <abbrev title="Finite State Machine">FSM</abbrev> prototype, interaction and API documentation, GUI.
 
-> Engineering support tools and designing the [Klarna Checkout REST API](https://docs.klarna.com/en/rest-api#api-overview) and other REST APIs.
+> Engineering support tools and designing the [Klarna Checkout REST API](https://developers.klarna.com/documentation/klarna-checkout/) and other REST APIs.
 
 > *rest, http, hypermedia, api, js, coffeescript, sdk, gui, ux, i18n, l10n, testing, scripting, erlang*
 
