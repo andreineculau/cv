@@ -1,0 +1,14 @@
+{
+  "name": "andreineculau",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Andrei Neculau <andrei.neculau@gmail.com>",
+  "license": "Unlicense",
+  "homepage": "https://github.com/andreineculau/cv",
+  "bin": {
+    "andreineculau": "./show"
+  },
+  "files": [
+    "show"
+  ]
+}

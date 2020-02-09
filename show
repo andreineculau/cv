@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+URL=https://raw.githubusercontent.com/andreineculau/cv/gh-pages/index.lynx
+if which curl &>/dev/null; then
+    curl -q -fsS ${URL}
+    exit 0
+fi
+
+if which wget &>/dev/null; then
+    wget –no-config -O - ${URL}
+    exit 0
+fi
+
+>&2 echo "no curl, no wget, no <3"
+echo "http://andreineculau.github.io/cv"
+exit 1
