@@ -6,4 +6,4 @@ set -euo pipefail
 
 # jekyll serve -d _site --watch --force_polling -H 0.0.0.0 -P 4000
 jekyll build -d _site
-cp _site/index.html ./
+cp _site/README.html ./
