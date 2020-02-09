@@ -84,7 +84,7 @@ title: andrei neculau cv
 #### `2020 - ____` **[Normative/Meta Mind AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.normative.io)** `Lead Plumber`
 > Magic. TBD
 
-Normative is a "Sustainability Reporting Made Really Easy".
+> Normative is a "Sustainability Reporting Made Really Easy".
 
 > *TBD*
 
