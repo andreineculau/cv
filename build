@@ -8,4 +8,4 @@ set -euo pipefail
 jekyll build -d _site
 cp _site/README.html ./index.html
 
-lynx -dump index.html > index.lynx
+lynx -dump --display_charset=utf-8 index.html > index.lynx
