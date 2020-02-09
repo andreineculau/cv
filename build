@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# gem install github-pages
+# gem install redcarpet
+
+# jekyll serve -d _site --watch --force_polling -H 0.0.0.0 -P 4000
+jekyll build -d _site
+cp _site/index.html ./
