@@ -20,8 +20,8 @@ title: andrei neculau cv
 
 > 1984-05-04
 
-> Höjdvägen 17<br>
-> SE-132 42 Nacka<br>
+> Ringvägen 1<br>
+> SE-133 39 Saltsjöbaden<br>
 > Sweden
 
 > <a href="tel:+46-763-400-378">+46 763 400 378</a>
