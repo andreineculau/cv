@@ -79,14 +79,16 @@ title: andrei neculau cv
 
 ## IT experience
 
-#### `2020 - ____` **[Normative/Meta Mind AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.normative.io)** `Lead Plumber`
-> Magic. TBD
+#### `2020 - ____` **[Tobii Dynavox AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiidynavox.com)** `Senior Software Engineer`
+> Freelancer
 
+#### `2020 - ____` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Senior Software Engineer`
+> Freelancer
+
+#### `2020 - 2020` **[Normative/Meta Mind AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.normative.io)** `Lead Backend Engineer`
 > Normative is about "Sustainability Reporting Made Really Easy".
 
-> *TBD*
-
-#### `2016 - 2020` **[Tobii AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Software Developer`
+#### `2016 - 2020` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Software Developer`
 > Set up the grounds of Tobii Pro's Cloud Services, like (but not limited to):  
 > - helped bootstrap and run a high-ingestion adtech monitoring platform connecting 1000+ panelists  
 > - helped bootstrap an adtech analytics + dashboard product  
