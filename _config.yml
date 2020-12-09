@@ -1,0 +1,83 @@
+#github.com
+safe: true
+lsi: false
+highlighter: rouge
+source: "."
+destination: ./_site
+#plugins: ./_plugins
+
+#others
+host: 0.0.0.0
+port: 4000
+baseurl: &base_url /cv
+base_url: *base_url
+#url: http://localhost:4000
+timezone: Europe/Stockholm
+
+future: false
+show_drafts: false
+markdown: redcarpet
+permalink: none
+relative_permalinks: false
+paginate: true
+#exclude:
+#include:
+#limit_posts:
+
+maruku:
+  use_tex: false
+  use_divs: false
+  png_engine: blahtex
+  png_dir: images/latex
+  png_url: /images/latex
+
+rdiscount:
+  extensions: []
+
+redcarpet:
+  extensions:
+    - no_intra_emphasis
+    - tables
+    - fenced_code_blocks
+    - autolink
+    - strikethrough
+    - lax_html_blocks
+    - space_after_headers
+    - superscript
+    #- no_intraemphasis
+    #- fenced_code
+    #- gh_blockcode
+  render_options:
+    - filter_html
+    - no_images
+    - no_links
+    - no_styles
+    - safe_links_only
+    - with_toc_data
+    - hard_wrap
+    - xhtml
+
+kramdown:
+  auto_id_prefix: ""
+  auto_ids: true
+  entity_output: as_char
+  footnote_nr: 1
+  html_to_native: false
+  latex_headers: ["section", "subsection", "subsubsection", "paragraph", "subparagraph", "subparagraph"]
+  line_width: 72
+  parse_block_html: false
+  parse_span_html: false
+  remove_block_html_tags: true
+  remove_span_html_tags: true
+  smart_quotes: ["lsquo", "rsquo", "ldquo", "rdquo"]
+  template: ""
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_wrap: div
+    coderay_line_numbers: inline
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: style
