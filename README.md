@@ -34,6 +34,12 @@
 
 
 
+> ## personality
+
+> * [personality profile](./assets/alva-labs-ab-personality.pdf)
+> * [logic ability](./assets/alva-labs-ab-logic.pdf)
+
+
 > ## languages
 
 > * full professional English (<span class="more" title="iBT 108/120">TOEFL certified</span>)
@@ -88,6 +94,7 @@
 
 #### `2020 - ____` **[Tobii Dynavox AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiidynavox.com)** `Senior Software Engineer`
 > Freelancer
+
 
 #### `2020 - ____` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Senior Software Engineer`
 > Freelancer
