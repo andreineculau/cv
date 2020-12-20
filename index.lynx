@@ -215,9 +215,17 @@ Developer
 
 projects
 
-2013 - ____ [36]for-GET HTTP Father
+2020 - ____ [36]rokmoln Father
 
-     [37]A Github organization covering PEG grammars, ASTs, parsegens,
+     [37]A Github organization covering GIT setups, cross-platform CI/CD,
+     cross-platform build system, cross-cloud infrastructure as code.
+
+     gitops, aws, cloud, devops, ci, cd, gnu, make, bash, linux, darwin,
+     windows, git
+
+2013 - ____ [38]for-GET HTTP Father
+
+     [39]A Github organization covering PEG grammars, ASTs, parsegens,
      HTTP algorithms and an FSM for a non-opinionated and
      comprehensive-spec-coverage HTTP framework, focusing on semantics,
      and less on the syntax.
@@ -225,15 +233,15 @@ projects
      HTTP, PEG, grammar, AST, parser, generator, FSM, server,
      coffeescript, nodejs, webmachine, erlang
 
-   IFRAME: [38]//player.vimeo.com/video/78030876?portrait=0
+   IFRAME: [40]//player.vimeo.com/video/78030876?portrait=0
 
-   IFRAME: [39]//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0
+   IFRAME: [41]//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0
 
-   IFRAME: [40]//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0
+   IFRAME: [42]//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0
 
-2012 - ____ [41]HyperREST Father
+2012 - ____ [43]HyperREST Father
 
-     [42]A Github organization covering a set of blog posts and software
+     [44]A Github organization covering a set of blog posts and software
      focused on how-to envision-spec-mock-consume-serve a REST/hypermedia
      API.
 
@@ -246,26 +254,26 @@ projects
      access to vital student information, like messages and schedule.
 
      squace, browser, php, xml, mobile, data mining
-     * 2010[43]Snowdrop 2.0
-     * 2009 [44]Snowdrop 1.0 (Codename Klover)
+     * 2010[45]Snowdrop 2.0
+     * 2009 [46]Snowdrop 1.0 (Codename Klover)
 
-2009 - 2009 [45]Promote Knowledge Management Concept
+2009 - 2009 [47]Promote Knowledge Management Concept
 
      A series of videos playing with audio, video and concepts in order
      to highlight a knowledge management course.
 
-   IFRAME: [46]//player.vimeo.com/video/45768175?portrait=0
+   IFRAME: [48]//player.vimeo.com/video/45768175?portrait=0
 
-   IFRAME: [47]//player.vimeo.com/video/45768176?portrait=0
+   IFRAME: [49]//player.vimeo.com/video/45768176?portrait=0
 
-   IFRAME: [48]//player.vimeo.com/video/45768258?portrait=0
+   IFRAME: [50]//player.vimeo.com/video/45768258?portrait=0
 
 2008 - 2009 Labs Widgets
 
-     * [49]Exchange Rate Dashboard
-     * [50]Google Maps Dashboard
-     * [51]Skyscanner quick links
-     * [52]Mobile tyda.se
+     * [51]Exchange Rate Dashboard
+     * [52]Google Maps Dashboard
+     * [53]Skyscanner quick links
+     * [54]Mobile tyda.se
 
 2008 - 2009 Induction to Kista IT University - KTH & SU Facilitator
 
@@ -277,19 +285,19 @@ projects
 
 education
 
-2008 - 2010 [53]Royal Institute of Technology, Stockholm, SWE M.Sc.
+2008 - 2010 [55]Royal Institute of Technology, Stockholm, SWE M.Sc.
 
      Engineering and Management of Information Systems.
 
      Data Warehousing, Web mining, Logic Programming, Knowledge
      Management, ERP Systems, Requirements Engineering, etc.
 
-2007 - 2007 [54]University of Humanities and Economics, Lodz, POL Erasmus
+2007 - 2007 [56]University of Humanities and Economics, Lodz, POL Erasmus
 
      Corporate Finance Management, H.R. Management, Social Role of Media,
      Public Discourses, Conflicts and International Negotiations
 
-2004 - 2008 [55]Romanian-American University, Bucharest, ROU B.Sc.
+2004 - 2008 [57]Romanian-American University, Bucharest, ROU B.Sc.
 
      Computer Science for Business Management. Graduated with the highest
      GPA in the programme.
@@ -300,7 +308,7 @@ education
 
 papers
 
-2010 [56]Course Analytics Master Thesis
+2010 [58]Course Analytics Master Thesis
 
      Leveraging course assessment through data mining of student
      satisfaction
@@ -309,31 +317,31 @@ papers
      educational data mining, importance-performance analysis, teaching
      eﬀectiveness, php, squace, xml
 
-2009 [57]Split Infinitives in Prolog [58](copy)
+2009 [59]Split Infinitives in Prolog [60](copy)
 
      Published in Journal of Information Systems & Operations Management
 
      split infinitives, logic programming, prolog
 
-2009 [59]Alignment of Business and IS/IT Strategy at Telenor Sweden
-[60](copy)
+2009 [61]Alignment of Business and IS/IT Strategy at Telenor Sweden
+[62](copy)
 
      Published in Journal of Information Systems & Operations Management
 
      strategic alignment, IS/IT strategy, business strategy,
      organizational strategy, case study, Telenor
 
-2009 [61]Science is a runner. Philosophy?
+2009 [63]Science is a runner. Philosophy?
 
      philosophy, science, essay
 
-2009 [62]Towards Enhanced E-collaboration in Academia [63](copy)
+2009 [64]Towards Enhanced E-collaboration in Academia [65](copy)
 
      Published in Journal of Information Systems & Operations Management
 
      e-collaboration, academia, requirements, boundaries, holistic
 
-2008 [64]Web 2.0 Application for Medical Clinique Management Honors Thesis
+2008 [66]Web 2.0 Application for Medical Clinique Management Honors Thesis
 
 mixed experience
 
@@ -395,32 +403,34 @@ References
   33. https://www.klarna.com/se/foretag/products/checkout/
   34. https://developers.klarna.com/documentation/klarna-checkout/
   35. http://blog.andreineculau.com/2011/01/an-developers-review-on-webligos-socialengine/
-  36. https://vimeo.com/78030876
-  37. https://github.com/for-GET
-  38. file://player.vimeo.com/video/78030876?portrait=0
-  39. file://www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0
-  40. file://www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0
-  41. http://hyperrest.com/
-  42. https://github.com/hyperrest
-  43. http://www.youtube.com/watch?v=DiGBvFx9ePY&list=PLm2MmlTdwWv2631fRJgHc7JPB4ju_rvyc
-  44. http://www.youtube.com/watch?v=oqe5WCO_Ydw
-  45. http://vimeo.com/couchmode/album/2007694/sort:preset/45768175
-  46. file://player.vimeo.com/video/45768175?portrait=0
-  47. file://player.vimeo.com/video/45768176?portrait=0
-  48. file://player.vimeo.com/video/45768258?portrait=0
-  49. http://labs.andreineculau.com/cursbnr/
-  50. http://labs.andreineculau.com/maps/
-  51. http://labs.andreineculau.com/skyscanner/
-  52. http://labs.andreineculau.com/m.tyda.se/
-  53. http://www.kth.se/en
-  54. http://www.ahe.lodz.pl/en
-  55. http://www.rau.ro/index.php?newlang=english
-  56. https://github.com/andreineculau/cv/raw/gh-pages/papers/master_thesis.pdf
-  57. http://www.rebe.rau.ro/RePEc/rau/jisomg/WI09/JISOM-WI09-A5.pdf
-  58. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-WI09-A5.pdf
-  59. http://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A1.pdf
-  60. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A1.pdf
-  61. https://github.com/andreineculau/cv/raw/gh-pages/papers/Science-is-a-runner-Philosophy.pdf
-  62. http://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A4.pdf
-  63. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A4.pdf
-  64. https://github.com/andreineculau/cv/raw/gh-pages/papers/bachelor_thesis.pdf
+  36. https://github.com/rokmoln
+  37. https://github.com/rokmoln
+  38. https://vimeo.com/78030876
+  39. https://github.com/for-GET
+  40. file://player.vimeo.com/video/78030876?portrait=0
+  41. file://www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0
+  42. file://www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0
+  43. http://hyperrest.com/
+  44. https://github.com/hyperrest
+  45. http://www.youtube.com/watch?v=DiGBvFx9ePY&list=PLm2MmlTdwWv2631fRJgHc7JPB4ju_rvyc
+  46. http://www.youtube.com/watch?v=oqe5WCO_Ydw
+  47. http://vimeo.com/couchmode/album/2007694/sort:preset/45768175
+  48. file://player.vimeo.com/video/45768175?portrait=0
+  49. file://player.vimeo.com/video/45768176?portrait=0
+  50. file://player.vimeo.com/video/45768258?portrait=0
+  51. http://labs.andreineculau.com/cursbnr/
+  52. http://labs.andreineculau.com/maps/
+  53. http://labs.andreineculau.com/skyscanner/
+  54. http://labs.andreineculau.com/m.tyda.se/
+  55. http://www.kth.se/en
+  56. http://www.ahe.lodz.pl/en
+  57. http://www.rau.ro/index.php?newlang=english
+  58. https://github.com/andreineculau/cv/raw/gh-pages/papers/master_thesis.pdf
+  59. http://www.rebe.rau.ro/RePEc/rau/jisomg/WI09/JISOM-WI09-A5.pdf
+  60. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-WI09-A5.pdf
+  61. http://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A1.pdf
+  62. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A1.pdf
+  63. https://github.com/andreineculau/cv/raw/gh-pages/papers/Science-is-a-runner-Philosophy.pdf
+  64. http://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A4.pdf
+  65. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A4.pdf
+  66. https://github.com/andreineculau/cv/raw/gh-pages/papers/bachelor_thesis.pdf

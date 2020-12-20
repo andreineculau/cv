@@ -204,6 +204,12 @@
 
 ## projects
 
+#### `2020 - ____` **[rokmoln](https://github.com/rokmoln)** `Father`
+> [A Github organization](https://github.com/rokmoln) covering GIT setups, cross-platform CI/CD, cross-platform build system, cross-cloud infrastructure as code.
+
+> *gitops, aws, cloud, devops, ci, cd, gnu, make, bash, linux, darwin, windows, git*
+
+
 #### `2013 - ____` **[for-GET HTTP](https://vimeo.com/78030876)** `Father`
 > [A Github organization](https://github.com/for-GET) covering PEG grammars, ASTs, parsegens, HTTP algorithms and an FSM for a non-opinionated and comprehensive-spec-coverage HTTP framework, focusing on semantics, and less on the syntax.
 
