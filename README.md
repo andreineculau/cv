@@ -208,11 +208,11 @@
 
 > *HTTP, PEG, grammar, AST, parser, generator, FSM, server, coffeescript, nodejs, webmachine, erlang*
 
-<iframe width="210" height="118" frameborder="0" src="//player.vimeo.com/video/78030876?portrait=0" allowfullscreen></iframe>
+<iframe width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/78030876?portrait=0" allowfullscreen></iframe>
 
-<iframe width="157" height="118" frameborder="0" src="//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0" allowfullscreen></iframe>
+<iframe width="30%" height="100" frameborder="0" src="//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0" allowfullscreen></iframe>
 
-<iframe width="210" height="118" frameborder="0" src="//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0" allowfullscreen></iframe>
+<iframe width="30%" height="100" frameborder="0" src="//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0" allowfullscreen></iframe>
 
 
 #### `2012 - ____` **[HyperREST](http://hyperrest.com)** `Father`
@@ -233,11 +233,11 @@
 #### `2009 - 2009` **[Promote Knowledge Management](http://vimeo.com/couchmode/album/2007694/sort:preset/45768175)** `Concept`
 > A series of videos playing with audio, video and concepts in order to highlight a knowledge management course.
 
-<iframe width="210" height="158" frameborder="0" src="//player.vimeo.com/video/45768175?portrait=0" allowfullscreen></iframe>
+<iframe width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768175?portrait=0" allowfullscreen></iframe>
 
-<iframe width="210" height="158" frameborder="0" src="//player.vimeo.com/video/45768176?portrait=0" allowfullscreen></iframe>
+<iframe width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768176?portrait=0" allowfullscreen></iframe>
 
-<iframe width="210" height="158" frameborder="0" src="//player.vimeo.com/video/45768258?portrait=0" allowfullscreen></iframe>
+<iframe width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768258?portrait=0" allowfullscreen></iframe>
 
 
 #### `2008 - 2009` **Labs** `Widgets`
