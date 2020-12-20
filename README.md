@@ -97,60 +97,61 @@
 
 
 #### `2016 - 2020` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Software Engineer in AdTech (Lead)`
-> I'm a central part of Tobii Pro Pulse, see https://www.tobiipro.com/pulse/
->
-> Pulse is a unique service that captures >5GB worth of online attention data a day,
-> from >1200 people that are passively browsing the Swedish online,
-> extensively monitoring metrics related to the ads and brands that they are exposed to.
-> See for example https://github.com/tobiipro/data-eng-task/blob/master/overview-tobii-attention-data.md
->
-> From a technical perspective this means I have successfully:
-> - developed a complex browser WebExtension that monitors areas of interests (specifically, but not technically limited to ads) on any website,
->   gathering metrics, meta and eyetracking data on an event-driven and message-intensive platform.
-> - implemented a high-load ingestion pipeline on Amazon Web Services via API Gateway, Lambda, SQS, S3, Kinesis, Firehose
-> - set up a data analytics pipeline on AWS via S3 and Athena
-> - contributed to a data retrieval API on AWS via API Gateway, Lambda, Athena
-> - contributed to monitoring solutions via CloudWatch and Datadog, along with Slack integrations
-> - bootstrapped and contributed to a dashboard solution using Auth0, Vuejs and Chartjs that uses modular data retrieval.
->   Hosted on AWS S3 and CloudFront
+> I'm a central part of [Tobii Pro Pulse](https://www.tobiipro.com/pulse/).<br>
+> <br>
+> Pulse is a unique service that captures >5GB worth of online attention data a day,<br>
+> from >1200 people that are passively browsing the Swedish online,<br>
+> extensively monitoring metrics related to the ads and brands that they are exposed to.<br>
+> See [example](https://github.com/tobiipro/data-eng-task/blob/master/overview-tobii-attention-data.md)<br>
+> <br>
+> From a technical perspective this means I have successfully:<br>
+> \- developed a complex browser WebExtension that monitors areas of interests (specifically, but not technically limited to ads) on any website,
+>    gathering metrics, meta and eyetracking data on an event-driven and message-intensive platform.<br>
+> \- implemented a high-load ingestion pipeline on Amazon Web Services via API Gateway, Lambda, SQS, S3, Kinesis, Firehose<br>
+> \- set up a data analytics pipeline on AWS via S3 and Athena<br>
+> \- contributed to a data retrieval API on AWS via API Gateway, Lambda, Athena<br>
+> \- contributed to monitoring solutions via CloudWatch and Datadog, along with Slack integrations<br>
+> \- bootstrapped and contributed to a dashboard solution using Auth0, Vuejs and Chartjs that uses modular data retrieval.
+>    Hosted on AWS S3 and CloudFront
 
-> Tobii Pro is the research solution division within Tobii.
+> Tobii Pro is the research solution division within Tobii.<br>
 > We help business and science professionals gain real insights into human behavior with leading eye tracking solutions and services.
 
 > *aws, gitops, devops, infrastructure as code, http, node.js, es6/typescript, travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang*
 
 
 #### `2016 - 2020` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Cloud/DevOps Engineer on AWS (Lead)`
-> I have successfully set up the grounds of Tobii Pro's Cloud Services and CI/CD, like (but not limited to):
-> - set the team up on Amazon Web Services from ~scratch
->   - infrastructure as code all the way using CloudFormation, see https://github.com/tobiipro/support-firecloud/tree/master/repo/cfn
->     following an idea from Google Cloud Platform actually (generate json/yaml templates with real code; a back-to-basics version of AWS CDK if you will)
->   - IAM by the book, see https://github.com/tobiipro/support-firecloud/blob/master/doc/aws-iam.md
->   - set up several projects with serverless (AWS Lambda) environments, utilizing services like:
->      Nodejs/Babel/Typescript/Python Lambdas, Lambda Layers, CloudWatch, CloudTrail
->      S3, DynamoDB, Athena
->      Kinesis, Firehose, SQS, SNS
->      CloudFront, API Gateway, Route53
-> - set up a modular and language-independent build system based on GNU Make, see https://github.com/tobiipro/support-firecloud/tree/master/repo/mk
-> - set up CI/CD solutions
->   - currently on TravisCI and Github
->   - previously TeamCity pipelines
-> - set up crypto/secrets solutions via GPG, Keybase, transcrypt
+> I have successfully set up the grounds of Tobii Pro's Cloud Services and CI/CD, like (but not limited to):<br>
+> \- set the team up on Amazon Web Services from ~scratch<br>
+> \- \- infrastructure as code all the way using CloudFormation, see [more info](https://github.com/tobiipro/support-firecloud/tree/master/repo/cfn)<br>
+>     following an idea from Google Cloud Platform actually (generate json/yaml templates with real code; a back-to-basics version of AWS CDK if you will)<br>
+> \- \- IAM by the book, see [more info](https://github.com/tobiipro/support-firecloud/blob/master/doc/aws-iam.md)<br>
+> \- \- set up several projects with serverless (AWS Lambda) environments, utilizing services like:
+>      Nodejs/Babel/Typescript/Python Lambdas, Lambda Layers, CloudWatch, CloudTrail,
+>      S3, DynamoDB, Athena,
+>      Kinesis, Firehose, SQS, SNS,
+>      CloudFront, API Gateway, Route53<br>
+> \- set up a modular and language-independent build system based on GNU Make, see [more info](https://github.com/tobiipro/support-firecloud/tree/master/repo/mk)<br>
+> \- set up CI/CD solutions<br>
+> \- \- currently on TravisCI and Github<br>
+> \- \- previously TeamCity pipelines<br>
+> \- set up crypto/secrets solutions via GPG, Keybase, transcrypt
 
-> Tobii Pro is the research solution division within Tobii.
+> Tobii Pro is the research solution division within Tobii.<br>
 > We help business and science professionals gain real insights into human behavior with leading eye tracking solutions and services.
 
 > *aws, gitops, devops, infrastructure as code, http, node.js, es6/typescript, travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang*
 
 
 #### `2014 - 2016` **[Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.cisco.com)** `Engineer`
-> Switched focus to backend and infrastructure duties, like:
-> - Erlang-based JSON-RPC API design and implementation
-> - set up Jenkins infrastructure and delivery pipeline for Continuous Integration
-> - switch development environment from SVN to GIT
-> - set up GIT on Atlassian Stash/BitBucket Server and Gitolite
-> - tooling
-> Still engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/), but within Cisco's Cloud & Virtualization Group.
+> Switched focus to backend and infrastructure duties, like:<br>
+> \- Erlang-based JSON-RPC API design and implementation<br>
+> \- set up Jenkins infrastructure and delivery pipeline for Continuous Integration<br>
+> \- switch development environment from SVN to GIT<br>
+> \- set up GIT on Atlassian Stash/BitBucket Server and Gitolite<br>
+> \- tooling
+
+> Still engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/), but within Cisco's Cloud & Virtualization Group.<br>
 > Cisco acquired Tail-f in 2014 - [read more](http://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems).
 
 > *erlang, yaws, http, json-rpc, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform...*
@@ -172,7 +173,8 @@
 
 
 #### `2011 - 2013` **[Klarna AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://klarna.com)** `Developer`
-> Engineering [Klarna Checkout](https://www.klarna.com/se/foretag/products/checkout/) - full-blown front/backend <abbrev title="Finite State Machine">FSM</abbrev> prototype, interaction and API documentation, GUI.
+> Engineering [Klarna Checkout](https://www.klarna.com/se/foretag/products/checkout/) -
+> full-blown front/backend <abbrev title="Finite State Machine">FSM</abbrev> prototype, interaction and API documentation, GUI.
 
 > Engineering support tools and designing the [Klarna Checkout REST API](https://developers.klarna.com/documentation/klarna-checkout/) and other REST APIs.
 
@@ -190,9 +192,9 @@
 
 
 #### `2000 - 2005` **miscellaneous** `Web Developer/Designer`
-> * `2002 - 2005` Island <accronym title="Model of United Nations General Assembly">M.U.N.G.A.</accronym>, Isle of Wight, <accronym title="United Kingdom">GBR</accronym>
-> * `2002 - 2004` Romanian Red Cross, Galati, <accronym title="Romania">ROU</accronym>
-> * `2004 - 2004` Data-Soft S.A., Galati, <accronym title="Romania">ROU</accronym>
+> * `2002 - 2005` Island <accronym title="Model of United Nations General Assembly">M.U.N.G.A.</accronym>, Isle of Wight, <accronym title="United Kingdom">GBR</accronym><br>
+> * `2002 - 2004` Romanian Red Cross, Galati, <accronym title="Romania">ROU</accronym><br>
+> * `2004 - 2004` Data-Soft S.A., Galati, <accronym title="Romania">ROU</accronym><br>
 > * `2000 - 2004` Colegiul National "Vasile Alecsandri", Galati, <accronym title="Romania">ROU</accronym>
 
 > *perl, php, css, mysql, js, photoshop*
@@ -206,11 +208,11 @@
 
 > *HTTP, PEG, grammar, AST, parser, generator, FSM, server, coffeescript, nodejs, webmachine, erlang*
 
-<iframe src="//player.vimeo.com/video/78030876?portrait=0" width="210" height="118" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="210" height="118" frameborder="0" src="//player.vimeo.com/video/78030876?portrait=0" allowfullscreen></iframe>
 
-<iframe width="157" height="118" src="//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="157" height="118" frameborder="0" src="//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0" allowfullscreen></iframe>
 
-<iframe width="210" height="118" src="//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="210" height="118" frameborder="0" src="//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0" allowfullscreen></iframe>
 
 
 #### `2012 - ____` **[HyperREST](http://hyperrest.com)** `Father`
@@ -231,11 +233,11 @@
 #### `2009 - 2009` **[Promote Knowledge Management](http://vimeo.com/couchmode/album/2007694/sort:preset/45768175)** `Concept`
 > A series of videos playing with audio, video and concepts in order to highlight a knowledge management course.
 
-<iframe src="//player.vimeo.com/video/45768175?portrait=0" width="210" height="158" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="210" height="158" frameborder="0" src="//player.vimeo.com/video/45768175?portrait=0" allowfullscreen></iframe>
 
-<iframe src="//player.vimeo.com/video/45768176?portrait=0" width="210" height="158" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="210" height="158" frameborder="0" src="//player.vimeo.com/video/45768176?portrait=0" allowfullscreen></iframe>
 
-<iframe src="//player.vimeo.com/video/45768258?portrait=0" width="210" height="158" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="210" height="158" frameborder="0" src="//player.vimeo.com/video/45768258?portrait=0" allowfullscreen></iframe>
 
 
 #### `2008 - 2009` **Labs** `Widgets`

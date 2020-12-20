@@ -123,6 +123,10 @@ h1 + blockquote p {
     font-weight:300;
 }
 
+#content > h4 + blockquote > p {
+    margin-bottom:1em;
+}
+
 #content > h4 + blockquote > ul {}
 
 #content > h4 + blockquote > ul > li {
@@ -157,7 +161,6 @@ li {
 ul {
     list-style-type:none;
     margin-left:0px;
-    margin-bottom:0px;
 }
 
 li {
