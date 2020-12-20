@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
+set -x
 
 URL=https://raw.githubusercontent.com/andreineculau/cv/gh-pages/index.lynx
 if which curl &>/dev/null; then

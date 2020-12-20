@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -euo pipefail
+set -x
+
+npm install
+./node_modules/.bin/showdown makehtml -o _README.html -i README.md --gfm
+cat _header.html _README.html _footer.html > index.html
+lynx -dump --display_charset=utf-8 index.html > index.lynx

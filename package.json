@@ -1,14 +1,8 @@
 {
-  "name": "andreineculau",
-  "version": "0.0.2",
-  "description": "",
-  "author": "Andrei Neculau <andrei.neculau@gmail.com>",
-  "license": "Unlicense",
-  "homepage": "https://github.com/andreineculau/cv",
-  "bin": {
-    "andreineculau": "./show"
-  },
-  "files": [
-    "show"
-  ]
+  "private": true,
+  "name": "andreineculau-cv",
+  "version": "0.1.0",
+  "dependencies": {
+    "showdown": "^1.9.1"
+  }
 }

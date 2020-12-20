@@ -1,7 +1,3 @@
----
-layout: cv
-title: andrei neculau cv
----
 <div id="timeline-wrapper">
 <div id="timeline" class="modal hide fade" tabindex="-1" role="dialog">
   <div class="modal-body">
@@ -24,18 +20,15 @@ title: andrei neculau cv
 > SE-133 39 Saltsjöbaden<br>
 > Sweden
 
-> <a href="tel:+46-763-400-378">+46 763 400 378</a>
+> [+46 763 400 378](tel:+46-763-400-378)
 
-> andrei.neculau@gmail.com
+> [andrei.neculau@gmail.com](mailto:andrei.neculau@gmail.com)
 
 > [linkedin](http://se.linkedin.com/in/andreineculau)
 > [github](https://github.com/andreineculau)
-> [twitter](https://twitter.com/andreineculau)
-> [goodreads](http://goodreads.com/andreineculau)
-> [spotify](https://play.spotify.com/user/andrei.neculau)
-> [timeline](http://timeline.andreineculau.com)
-> [.com](http://andreineculau.com)
 > [public key](https://keybase.io/andreineculau/key.asc)
+
+> [timeline](http://timeline.andreineculau.com)
 
 
 
@@ -89,35 +82,35 @@ title: andrei neculau cv
 > Normative is about "Sustainability Reporting Made Really Easy".
 
 #### `2016 - 2020` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Software Developer`
-> Set up the grounds of Tobii Pro's Cloud Services, like (but not limited to):  
-> - helped bootstrap and run a high-ingestion adtech monitoring platform connecting 1000+ panelists  
-> - helped bootstrap an adtech analytics + dashboard product  
-> - helped bootstrap a video conferencing + screen sharing + eyetracking product  
-> - helped bootstrap various cloud-based products  
-> - comprehensive integrations with Amazon Web Services  
-> - set up high grade identity authentication and authorization via AWS IAM  
-> - set up runtime engine around a serverless architecture using AWS Lambda  
-> - set up infrastructure as code, based on Google Cloud Platform's principles, but using AWS CloudFormation  
-> - set up complex build system based on GNU Make and Bash shell scripts  
-> - set up development environments under MacOS and Linux  
-> - set up a platform-agnostic Continuous Integration and Continuous Deployment in Travis CI, Teamcity, CircleCI and Github Actions  
-> - utility belts for Make, Bash, JavaScript, TypeScript, Eslint, Babel, etc.  
-> - utility library for running AWS Lambdas locally  
-> - utility library for using vanilla HTTP frameworks on AWS Lambdas  
-> - node.js bindings for eyetracking dynamic-link libraries  
+> Set up the grounds of Tobii Pro's Cloud Services, like (but not limited to):
+> - helped bootstrap and run a high-ingestion adtech monitoring platform connecting 1000+ panelists
+> - helped bootstrap an adtech analytics + dashboard product
+> - helped bootstrap a video conferencing + screen sharing + eyetracking product
+> - helped bootstrap various cloud-based products
+> - comprehensive integrations with Amazon Web Services
+> - set up high grade identity authentication and authorization via AWS IAM
+> - set up runtime engine around a serverless architecture using AWS Lambda
+> - set up infrastructure as code, based on Google Cloud Platform's principles, but using AWS CloudFormation
+> - set up complex build system based on GNU Make and Bash shell scripts
+> - set up development environments under MacOS and Linux
+> - set up a platform-agnostic Continuous Integration and Continuous Deployment in Travis CI, Teamcity, CircleCI and Github Actions
+> - utility belts for Make, Bash, JavaScript, TypeScript, Eslint, Babel, etc.
+> - utility library for running AWS Lambdas locally
+> - utility library for using vanilla HTTP frameworks on AWS Lambdas
+> - node.js bindings for eyetracking dynamic-link libraries
 > - shitloads of tooling
 
 > Tobii Pro is the research solution division within Tobii. We help business and science professionals gain real insights into human behavior with leading eye tracking solutions and services.
 
-> *aws, infrastructure as code, http, node.js, es6/typescript, travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang*
+> *aws, gitops, devops, infrastructure as code, http, node.js, es6/typescript, travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang*
 
 #### `2014 - 2016` **[Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.cisco.com)** `Engineer`
-> Switched focus to backend and infrastructure duties, like:  
-> - Erlang-based JSON-RPC API design and implementation  
-> - set up Jenkins infrastructure and delivery pipeline for Continuous Integration  
-> - switch development environment from SVN to GIT  
-> - set up GIT on Atlassian Stash/BitBucket Server and Gitolite  
-> - tooling  
+> Switched focus to backend and infrastructure duties, like:
+> - Erlang-based JSON-RPC API design and implementation
+> - set up Jenkins infrastructure and delivery pipeline for Continuous Integration
+> - switch development environment from SVN to GIT
+> - set up GIT on Atlassian Stash/BitBucket Server and Gitolite
+> - tooling
 > Still engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/), but within Cisco's Cloud & Virtualization Group.
 > Cisco acquired Tail-f in 2014 - [read more](http://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems).
 
@@ -162,7 +155,7 @@ title: andrei neculau cv
 
 ## projects
 
-#### `2013 -     ` **[for-GET HTTP](https://vimeo.com/78030876)** `Father`
+#### `2013 - ____` **[for-GET HTTP](https://vimeo.com/78030876)** `Father`
 > [A Github organization](https://github.com/for-GET) covering PEG grammars, ASTs, parsegens, HTTP algorithms and an FSM for a non-opinionated and comprehensive-spec-coverage HTTP framework, focusing on semantics, and less on the syntax.
 
 > *HTTP, PEG, grammar, AST, parser, generator, FSM, server, coffeescript, nodejs, webmachine, erlang*
@@ -173,7 +166,7 @@ title: andrei neculau cv
 
 <iframe width="210" height="118" src="//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0" frameborder="0" allowfullscreen></iframe>
 
-#### `2012 -     ` **[HyperREST](http://hyperrest.com)** `Father`
+#### `2012 - ____` **[HyperREST](http://hyperrest.com)** `Father`
 > [A Github organization](https://github.com/hyperrest) covering a set of blog posts and software focused on how-to envision-spec-mock-consume-serve a REST/hypermedia API.
 
 > *REST, API, HTTP, hypermedia, client, server, coffeescript, nodejs*
