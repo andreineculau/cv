@@ -1,7 +1,7 @@
 <div id="timeline-wrapper">
   <div id="timeline" class="modal hide fade" tabindex="-1" role="dialog">
     <div class="modal-body">
-      <iframe src="http://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=0AgnBrIpF5CiOdFBzMnNGMV9qX2tlQjFMVlJEN1M2cFE&start_at_end=true&width=990&height=650" width="100%" height="650" frameborder="0"></iframe>
+      <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=0AgnBrIpF5CiOdFBzMnNGMV9qX2tlQjFMVlJEN1M2cFE&start_at_end=true&width=990&height=650" width="100%" height="650" frameborder="0"></iframe>
     </div>
   </div>
 
@@ -26,7 +26,7 @@
 
 > [andrei.neculau@gmail.com](mailto:andrei.neculau@gmail.com)
 
-> [linkedin](http://se.linkedin.com/in/andreineculau)
+> [linkedin](https://se.linkedin.com/in/andreineculau)
 > [github](https://github.com/andreineculau)
 > [public key](https://keybase.io/andreineculau/key.asc)
 
@@ -84,7 +84,7 @@
 > * [*you name it*](http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html)
 > * but more importantly,
 > * I'm [an automation/DRY geek](https://www.globalnerdy.com/2012/04/24/geeks-and-repetitive-tasks/)
-> * [doing the hard things](http://sealedabstract.com/rants/do-hard-things/)
+> * [doing the hard things](https://sealedabstract.com/rants/do-hard-things/)
 
 <div class="page-break"></div>
 
@@ -163,14 +163,14 @@
 > \- set up GIT on Atlassian Stash/BitBucket Server and Gitolite<br>
 > \- tooling
 
-> Still engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/), but within Cisco's Cloud & Virtualization Group.<br>
-> Cisco acquired Tail-f in 2014 - [read more](http://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems).
+> Still engineering [Tail-f NCS](https://www.tail-f.com/network-control-system/), but within Cisco's Cloud & Virtualization Group.<br>
+> Cisco acquired Tail-f in 2014 - [read more](https://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems).
 
 > *erlang, yaws, http, json-rpc, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform...*
 
 
 #### `2013 - 2016` **[Tail-f Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://tail-f.com)** `UI Developer`
-> Engineering [Tail-f NCS](http://www.tail-f.com/network-control-system/) with a mix of frontend/backend duties.
+> Engineering [Tail-f NCS](https://www.tail-f.com/network-control-system/) with a mix of frontend/backend duties.
 
 > *sencha/extjs, coffeescript, node.js, erlang, http, json-rpc, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform...*
 
@@ -244,11 +244,11 @@
 
 > *squace, browser, php, xml, mobile, data mining*
 
-> * `2010`[Snowdrop 2.0](http://www.youtube.com/watch?v=DiGBvFx9ePY&list=PLm2MmlTdwWv2631fRJgHc7JPB4ju_rvyc)
-> * `2009` [Snowdrop 1.0 (Codename Klover)](http://www.youtube.com/watch?v=oqe5WCO_Ydw)
+> * `2010`[Snowdrop 2.0](https://www.youtube.com/watch?v=DiGBvFx9ePY&list=PLm2MmlTdwWv2631fRJgHc7JPB4ju_rvyc)
+> * `2009` [Snowdrop 1.0 (Codename Klover)](https://www.youtube.com/watch?v=oqe5WCO_Ydw)
 
 
-#### `2009 - 2009` **[Promote Knowledge Management](http://vimeo.com/couchmode/album/2007694/sort:preset/45768175)** `Concept`
+#### `2009 - 2009` **[Promote Knowledge Management](https://vimeo.com/couchmode/album/2007694/sort:preset/45768175)** `Concept`
 > A series of videos playing with audio, video and concepts in order to highlight a knowledge management course.
 
 <iframe width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768175?portrait=0" allowfullscreen></iframe>
@@ -278,17 +278,17 @@
 
 ## education
 
-#### `2008 - 2010` **[Royal Institute of Technology, Stockholm, <accronym title="Sweden">SWE</accronym>](http://www.kth.se/en)** `M.Sc.`
+#### `2008 - 2010` **[Royal Institute of Technology, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.kth.se/en)** `M.Sc.`
 > Engineering and Management of Information Systems.
 
 > Data Warehousing, Web mining, Logic Programming, Knowledge Management, ERP Systems, Requirements Engineering, etc.
 
 
-#### `2007 - 2007` **[University of Humanities and Economics, Lodz, <accronym title="Poland">POL</accronym>](http://www.ahe.lodz.pl/en)** `Erasmus`
+#### `2007 - 2007` **[University of Humanities and Economics, Lodz, <accronym title="Poland">POL</accronym>](https://www.ahe.lodz.pl/en)** `Erasmus`
 > Corporate Finance Management, H.R. Management, Social Role of Media, Public Discourses, Conflicts and International Negotiations
 
 
-#### `2004 - 2008` **[Romanian-American University, Bucharest, <accronym title="Romania">ROU</accronym>](http://www.rau.ro/index.php?newlang=english)** `B.Sc.`
+#### `2004 - 2008` **[Romanian-American University, Bucharest, <accronym title="Romania">ROU</accronym>](https://www.rau.ro/index.php?newlang=english)** `B.Sc.`
 > Computer Science for Business Management. Graduated with the highest GPA in the programme.
 
 > Database, Programming, Web programming, Networking, IT System Design, Expert Systems, Strategic Management, Probability Calculus, Numerical Methods, Statistics, Accounting, Finances, etc.
@@ -303,13 +303,13 @@
 > *academic quality, academic evaluation, service satisfaction, educational data mining, importance-performance analysis, teaching eﬀectiveness, php, squace, xml*
 
 
-#### `2009` **[Split Infinitives in Prolog](http://www.rebe.rau.ro/RePEc/rau/jisomg/WI09/JISOM-WI09-A5.pdf)** [(copy)](https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-WI09-A5.pdf)
+#### `2009` **[Split Infinitives in Prolog](https://www.rebe.rau.ro/RePEc/rau/jisomg/WI09/JISOM-WI09-A5.pdf)** [(copy)](https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-WI09-A5.pdf)
 > Published in Journal of Information Systems & Operations Management
 
 > *split infinitives, logic programming, prolog*
 
 
-#### `2009` **[Alignment of Business and IS/IT Strategy at Telenor Sweden](http://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A1.pdf)** [(copy)](https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A1.pdf)
+#### `2009` **[Alignment of Business and IS/IT Strategy at Telenor Sweden](https://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A1.pdf)** [(copy)](https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A1.pdf)
 > Published in Journal of Information Systems & Operations Management
 
 > *strategic alignment, IS/IT strategy, business strategy, organizational strategy, case study, Telenor*
@@ -319,7 +319,7 @@
 > *philosophy, science, essay*
 
 
-#### `2009` **[Towards Enhanced E-collaboration in Academia](http://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A4.pdf)** [(copy)](https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A4.pdf)
+#### `2009` **[Towards Enhanced E-collaboration in Academia](https://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A4.pdf)** [(copy)](https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A4.pdf)
 > Published in Journal of Information Systems & Operations Management
 
 > *e-collaboration, academia, requirements, boundaries, holistic*
