@@ -1,9 +1,12 @@
 .PHONY: all
-all:
+all: build
+
+.PHONY: build
+build:
 	bin/build
 
 .PHONY: serve
-serve:
+serve: build
 	bin/serve
 
 .PHONY: show
