@@ -44,7 +44,7 @@
 
 > ## languages
 
-> * full professional English (<span class="more" title="iBT 108/120">TOEFL certified</span>)
+> * full professional English (<span class="more" title="iBT 108/120">TOEFL</span>)
 > * professional working Swedish
 > * native Romanian
 > * used to be fluent in Italian
@@ -64,7 +64,7 @@
 > * PHP
 > * MySQL
 > * ...
-> * networking (<span class="more" title="Cisco Certified Network Associate 961/1000">CISCO certified</span>)
+> * networking (<span class="more" title="Cisco Certified Network Associate 961/1000">CISCO</span>)
 > * JavaScript & co.
 > * BASH
 > * Prolog
