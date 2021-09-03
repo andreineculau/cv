@@ -112,7 +112,6 @@ h1 + blockquote p {
 /* Description */
 #content > h4 + blockquote {
     border:0px;
-    color:#666666;
     padding:0px;
     margin-bottom:0;
     clear:right;
@@ -124,6 +123,7 @@ h1 + blockquote p {
 }
 
 #content > h4 + blockquote > p {
+    color:#666666;
     margin-bottom:1em;
 }
 
@@ -150,7 +150,7 @@ code,
 p,
 li,
 a {
-    color:#444444;
+    color:#000000;
 }
 
 p,
@@ -197,19 +197,6 @@ Desktop
         text-align:right;
         margin-left:-230px;
         width:200px;
-    }
-    h1 + blockquote > h2 {
-        color:#999999;
-    }
-    h1 + blockquote p,
-    h1 + blockquote li,
-    h1 + blockquote a {
-        color:#999999;
-    }
-    h1 + blockquote:hover p,
-    h1 + blockquote:hover li,
-    h1 + blockquote:hover a {
-        color:#444444;
     }
 }
 
