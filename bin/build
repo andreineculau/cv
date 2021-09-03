@@ -3,6 +3,14 @@ set -euo pipefail
 set -x
 
 npm install
-./node_modules/.bin/showdown makehtml -o _README.html -i README.md --gfm
-cat _header.html _README.html _footer.html > index.html
+csplit --suppress-matched --prefix _README --suffix '%01d.md'  README.md '/<!-- split -->/' '{*}'
+for f in _README*.md; do
+  ./node_modules/.bin/showdown makehtml -o $(basename ${f} .md).html -i ${f} --gfm
+done
+echo > index.html
+cat _header.html >> index.html
+cat _README0.html >> index.html
+cat _header1.html >> index.html
+cat _README1.html >> index.html
+cat _footer.html >> index.html
 lynx -dump --display_charset=utf-8 index.html > index.lynx

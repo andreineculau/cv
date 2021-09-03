@@ -1,22 +1,7 @@
-<div id="timeline-wrapper">
-  <div id="timeline" class="modal hide fade" tabindex="-1" role="dialog">
-    <div class="modal-body">
-      <iframe src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=0AgnBrIpF5CiOdFBzMnNGMV9qX2tlQjFMVlJEN1M2cFE&start_at_end=true&width=990&height=650" width="100%" height="650" frameborder="0"></iframe>
-    </div>
-  </div>
+> <a href="javascript:window.print()" class="hide-in-print hide-in-mobile">print/PDF my CV</a>
 
-  <center>
-    <a href="#timeline" role="button" class="btn" data-toggle="modal">click for an interactive timeline of</a>
-  </center>
-</div>
+> <a href="javascript:window.alert('npx -y andreineculau')" class="hide-in-print hide-in-mobile">CLI my CV</a>
 
-# **andrei** neculau
-
-
-
-> <a href="javascript:window.print()">print/PDF my CV</a>
-
-> <a href="javascript:window.alert('npx -y andreineculau')">CLI my CV</a>
 
 > ## about
 
@@ -28,13 +13,15 @@
 
 > [+46 763 400 378](tel:+46-763-400-378)
 
-> [andrei.neculau@gmail.com](mailto:andrei.neculau@gmail.com)
+> [andrei.neculau<wbr>@gmail.com](mailto:andrei.neculau@gmail.com)
+
+> [github](http://github.andreineculau.com)
+> [linkedin](http://linkedin.andreineculau.com)
 
 > [blog](http://blog.andreineculau.com)
-> [github](http://github.andreineculau.com)
 > [key](http://key.andreineculau.com)
-> [linkedin](http://linkedin.andreineculau.com)
 > [timeline](http://timeline.andreineculau.com)
+
 
 > ## personality
 
@@ -47,8 +34,9 @@
 > * full professional English (<span class="more" title="iBT 108/120">TOEFL</span>)
 > * professional working Swedish
 > * native Romanian
-> * used to be fluent in Italian
-> * notions of Spanish & French
+> * fluent-no-more in Italian
+> * notions of Spanish
+> * notions of French
 
 
 > ## programming
@@ -88,11 +76,10 @@
 > * I'm [an automation/DRY geek](https://www.globalnerdy.com/2012/04/24/geeks-and-repetitive-tasks/)
 > * [doing the hard things](https://sealedabstract.com/rants/do-hard-things/)
 
-<div class="page-break"></div>
+> ---
 
+<!-- split -->
 
-
-## IT experience
 
 #### `2021 - ____` **[? AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.example.com)** `TBD`
 > TBD
@@ -184,6 +171,7 @@
 
 
 #### `2013 - 2013` **[Videoplaza AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://videoplaza.com)** `Software Engineer`
+> Veni, vidi, vici.
 
 
 #### `2011 - 2013` **[Klarna AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://klarna.com)** `Developer`
@@ -215,7 +203,7 @@
 
 
 
-## projects
+# projects
 
 #### `2020 - ____` **[rokmoln](https://github.com/rokmoln)** `Father`
 > [A Github organization](https://github.com/rokmoln) covering GIT setups, cross-platform CI/CD, cross-platform build system, cross-cloud infrastructure as code.
@@ -228,11 +216,11 @@
 
 > *HTTP, PEG, grammar, AST, parser, generator, FSM, server, coffeescript, nodejs, webmachine, erlang*
 
-<iframe width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/78030876?portrait=0" allowfullscreen></iframe>
+<iframe class="hide-in-print" width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/78030876?portrait=0" allowfullscreen></iframe>
 
-<iframe width="30%" height="100" frameborder="0" src="//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0" allowfullscreen></iframe>
+<iframe class="hide-in-print" width="30%" height="100" frameborder="0" src="//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0" allowfullscreen></iframe>
 
-<iframe width="30%" height="100" frameborder="0" src="//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0" allowfullscreen></iframe>
+<iframe class="hide-in-print" width="30%" height="100" frameborder="0" src="//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0" allowfullscreen></iframe>
 
 
 #### `2012 - ____` **[HyperREST](http://hyperrest.com)** `Father`
@@ -253,11 +241,11 @@
 #### `2009 - 2009` **[Promote Knowledge Management](https://vimeo.com/couchmode/album/2007694/sort:preset/45768175)** `Concept`
 > A series of videos playing with audio, video and concepts in order to highlight a knowledge management course.
 
-<iframe width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768175?portrait=0" allowfullscreen></iframe>
+<iframe class="hide-in-print" width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768175?portrait=0" allowfullscreen></iframe>
 
-<iframe width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768176?portrait=0" allowfullscreen></iframe>
+<iframe class="hide-in-print" width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768176?portrait=0" allowfullscreen></iframe>
 
-<iframe width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768258?portrait=0" allowfullscreen></iframe>
+<iframe class="hide-in-print" width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768258?portrait=0" allowfullscreen></iframe>
 
 
 #### `2008 - 2009` **Labs** `Widgets`
@@ -274,11 +262,8 @@
 #### `2008 - 2009` **Support Community for <span class="more" title="Admissions to Higher Studies in Sweden">studera.nu</span>** `Facilitator`
 > *knowledge management, wiki, facebook*
 
-<div class="page-break"></div>
 
-
-
-## education
+# education
 
 #### `2008 - 2010` **[Royal Institute of Technology, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.kth.se/en)** `M.Sc.`
 > Engineering and Management of Information Systems.
@@ -297,7 +282,7 @@
 
 
 
-## papers
+# papers
 
 #### `2010` **[Course Analytics](https://github.com/andreineculau/cv/raw/gh-pages/papers/master_thesis.pdf)** `Master Thesis`
 > Leveraging course assessment through data mining of student satisfaction
@@ -331,7 +316,7 @@
 
 
 
-## mixed experience
+# miscellaneous
 
 #### `2001 - 2007` **.** `Delegate, Speaker`
 > *international citizenship, sustainability, youth engagement*

@@ -1,247 +1,276 @@
-/*
-Elements
-*/
-
-#timeline {
-    width: 1024px;
-    margin-left: -512px;
-    top: 0px;
-    border-radius: 0px;
-}
-
-#timeline .modal-body {
-    height: 650px;
-    max-height: 650px;
-    overflow-y: hidden;
-}
+/* Elements */
 
 body {
-    padding-bottom:50px;
+  background-color:#f3f3f3;
+  font-size:0.8rem;
+  padding-bottom:2rem;
 }
 
-h1 + blockquote,
-h1 + blockquote p,
-h1 + blockquote li,
-#content > h4 + blockquote,
-#content > h4 + blockquote * {
-    font-size:12px;
-}
-
-/* Given name */
-h1 {
-    font-weight:100;
-    letter-spacing:-2px;
-    margin-bottom:40px;
-    text-align:center;
-}
-
-/* Family name */
-h1 strong {
-    margin:0 -0.15em;
-}
-
-/* About */
-h1 + blockquote {
-    border:0px;
-    padding:0px;
-    margin:0px;
-}
-
-h1 + blockquote > h2 {
-    font-size:17px;
-    line-height:1em;
-    margin-top:2em;
-}
-
-h1 + blockquote > h2:first-child {
-    margin-top:0;
-}
-
-h1 + blockquote p,
-h1 + blockquote li,
-h1 + blockquote a {
-    font-weight:300;
-    line-height:1.25;
-}
-
-h1 + blockquote p {
-    margin-bottom:0.5em;
-}
-
-/* Category */
-#content > h2 {
-    clear:right;
-    font-size:17px;
-    line-height:1em;
-    margin-top:2em;
-}
-
-/* Headline */
-#content > h4 {
-    clear:right;
-    font-size:12px;
-    margin:0;
-}
-
-#content > blockquote + h4 {
-    margin-top:10px;
-}
-
-/* Period */
-#content > h4 > code:first-child {
-    float:right;
-    font-size:10px;
-    font-weight:300;
-    line-height:1.25;
-    margin-left:5px;
-}
-
-/* Title */
-#content > h4 > code:first-child + strong {
-}
-
-/* Subtitle */
-#content > h4 > code:first-child + strong + code {
-    float:right;
-    font-size:10px;
-    margin-left:5px;
-    font-weight:300;
-    line-height:1.25;
-}
-
-/* Description */
-#content > h4 + blockquote {
-    border:0px;
-    padding:0px;
-    margin-bottom:0;
-    clear:right;
-}
-
-#content > h4 + blockquote * {
-    line-height:1.25;
-    font-weight:300;
-}
-
-#content > h4 + blockquote > p {
-    color:#666666;
-    margin-bottom:1em;
-}
-
-#content > h4 + blockquote > ul {}
-
-#content > h4 + blockquote > ul > li {
-    white-space:nowrap;
-    overflow:hidden;
-}
-
-#content > h4 + blockquote > ul > li > code:first-child {
-    float:right;
-    font-size:10px;
-    z-index:2;
-    position:relative;
-}
-
-
-/*
-Styles
-*/
-body,
-code,
-p,
-li,
-a {
-    color:#000000;
-}
-
-p,
-li {
-    font-size:12px;
-}
-
-ul {
-    list-style-type:none;
-    margin-left:0px;
-}
-
-li {
-    clear:right;
+a,
+a:hover {
+  color:#000000;
 }
 
 a,
 abbrev,
 accronym,
 span.more {
-    text-decoration:none;
-    border-bottom:.1em dotted;
+  text-decoration:none;
+  border-bottom:.1em dotted;
 }
 
 a:hover,
 abbrev:hover,
 accronym:hover,
 span.more:hover {
-    text-decoration:none;
-    border-bottom:.1em solid;
+  text-decoration:none;
+  border-bottom:.1em solid;
+}
+
+abbrev:hover,
+accronym:hover,
+span.more:hover {
+  cursor:help;
+}
+
+ul {
+  list-style-type:none;
+  margin-left:0;
+  padding-left:0;
+}
+
+li {
+  clear:right;
 }
 
 .page-break {
+  display:none;
+}
+
+/* --------------------------------------------------------------------------- */
+
+/* Name - Given name */
+#name h1 {
+  font-size:3.5rem;
+  font-weight:100;
+  letter-spacing:-0.05rem;
+  margin:1em 0;
+  text-align:center;
+}
+
+/* Name - Family name */
+#name h1 strong {
+  margin-right:-1.2rem;
+}
+
+/* --------------------------------------------------------------------------- */
+
+/* About */
+#about {
+  text-align:right;
+}
+
+/* About - Headlines */
+#about blockquote > h2 {
+  font-size:1.5rem;
+  line-height:1rem;
+  margin-top:2rem;
+}
+
+#about blockquote > h2:first-child {
+  margin-top:0;
+}
+
+/* About - Content */
+#about p,
+#about li,
+#about a {
+  font-weight:300;
+  line-height:1.25;
+}
+
+#about p {
+  margin-bottom:0.5rem;
+}
+
+/* --------------------------------------------------------------------------- */
+
+/* Section */
+#experience > h1 {
+  font-size:3.5rem;
+  font-weight:100;
+  letter-spacing:-0.05rem;
+  margin:1em 0;
+  text-align:center;
+}
+
+/* Headline */
+#experience > h4 {
+  clear:both;
+  font-size:1rem;
+  margin:0;
+  font-family:var(--bs-font-monospace);
+}
+
+/* Company */
+#experience > h4 > code:first-child + strong {
+  font-size:1rem;
+}
+
+/* Role */
+#experience > h4 > code:first-child + strong + code {
+  float:right;
+  font-size:1rem;
+  font-weight:300;
+  line-height:1.25;
+  margin-left:0.5rem;
+}
+
+/* Period */
+#experience > h4 > code:first-child {
+  float:right;
+  font-size:1rem;
+  font-weight:300;
+  line-height:1.25;
+  margin-left:0.5rem;
+}
+
+/* Description */
+#experience > h4 + blockquote {
+  clear:both;
+}
+
+#experience > h4 + blockquote * {
+  font-weight:300;
+  line-height:1.25;
+}
+
+/* Company (sub) */
+#experience > h4 + blockquote > ul {
+}
+
+#experience > h4 + blockquote > ul > li {
+  white-space:nowrap;
+  overflow:hidden;
+}
+
+/* Period (sub) */
+#experience > h4 + blockquote > ul > li > code:first-child {
+  float:right;
+  z-index:2;
+  position:relative;
+}
+
+/* --------------------------------------------------------------------------- */
+
+/* Desktop */
+@media screen and (min-width: 576px) {
+}
+
+/* Mobile */
+@media screen and (max-width: 576px) {
+  .hide-in-mobile {
     display:none;
+  }
+
+  /* About */
+  #about {
+    text-align:center;
+  }
+
+  /* Company */
+  #experience > h4 > code:first-child + strong {
+    font-size:0.8rem;
+  }
+
+  /* Period */
+  #experience > h4 > code:first-child {
+    font-size:0.8rem;
+    margin-top:0.2rem;
+  }
+
+  /* Role */
+  #experience > h4 > code:first-child + strong + code {
+    clear:right;
+    font-size:0.8rem;
+    margin-top:0.2rem;
+  }
+
+  /* Description */
+  #experience > h4 + blockquote {
+    font-size:0.7rem;
+  }
 }
 
-
-/*
-Desktop
-*/
-@media screen and (min-width: 600px) {
-    h1 + blockquote {
-        float:left;
-        text-align:right;
-        margin-left:-230px;
-        width:200px;
-    }
-}
-
-
-/*
-Print
-*/
+/* Print */
 @media print {
-    #timeline-wrapper {
-        display: none;
-    }
-    #content > h4 + blockquote,
-    #content > h4 + blockquote * {
-        font-size:10px;
-    }
-    #content > h4 > code:first-child + strong + code {
-        float:none;
-    }
-    h4 {
-        font-size:14px;
-    }
-    a[href]:after {
-        content:none !important;
-    }
-    .page-break {
-        display:block;
-        page-break-before:always;
-    }
-    blockquote {
-        padding:0px;
-        margin:0px;
-    }
-    code {
-        border:0px;
-    }
-    img {
-        display:none;
-    }
-    h1 + blockquote li {
-        display:inline;
-    }
-    h1 + blockquote li + li:before {
-        content:", "
-    }
-    iframe {
-        display:none;
-    }
+  body {
+    background-color:#ffffff;
+  }
+
+  a[href]:after {
+    content:none !important;
+  }
+
+  .hide-in-print {
+    display:none;
+  }
+
+  .page-break {
+    display:block;
+    page-break-before:always;
+  }
+
+  /* About */
+  #about {
+    font-size:0.5rem;
+  }
+
+  #about blockquote {
+    margin-top:-7rem;
+  }
+
+  /* About - Headlines */
+  #about blockquote > h2 {
+    font-size:0.6rem;
+    margin-top:1rem;
+  }
+
+  /* About - Content */
+  #about p,
+  #about li,
+  #about a {
+    font-weight:normal;
+  }
+
+  /* Section */
+  #experience > h1 {
+    margin:0;
+  }
+
+  /* Headline */
+  #experience > h4 {
+    font-size:0.6em;
+  }
+
+  /* Company */
+  #experience > h4 > code:first-child + strong {
+    font-size:0.6rem;
+  }
+
+  /* Role */
+  #experience > h4 > code:first-child + strong + code {
+    font-size:0.6rem;
+  }
+
+  /* Period */
+  #experience > h4 > code:first-child {
+    font-size:0.6rem;
+  }
+
+  /* Description */
+  #experience > h4 + blockquote,
+  #experience > h4 + ul {
+    display:none;
+  }
 }

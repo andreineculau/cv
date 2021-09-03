@@ -1,15 +1,8 @@
-   IFRAME:
-   [1]https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?sou
-   rce=0AgnBrIpF5CiOdFBzMnNGMV9qX2tlQjFMVlJEN1M2cFE&start_at_end=true&widt
-   h=990&height=650
-
-                   [2]click for an interactive timeline of
-
 andrei neculau
 
-     [3]print/PDF my CV
+     [1]print/PDF my CV
 
-     [4]CLI my CV
+     [2]CLI my CV
 
 about
 
@@ -19,24 +12,27 @@ about
      SE-133 39 Saltsjöbaden
      Sweden
 
-     [5]+46 763 400 378
+     [3]+46 763 400 378
 
-     [6]andrei.neculau@gmail.com
+     [4]andrei.neculau@gmail.com
 
-     [7]blog [8]github [9]key [10]linkedin [11]timeline
+     [5]github [6]linkedin
+
+     [7]blog [8]key [9]timeline
 
 personality
 
-     * [12]personality profile
-     * [13]logic ability
+     * [10]personality profile
+     * [11]logic ability
 
 languages
 
      * full professional English (TOEFL)
      * professional working Swedish
      * native Romanian
-     * used to be fluent in Italian
-     * notions of Spanish & French
+     * fluent-no-more in Italian
+     * notions of Spanish
+     * notions of French
 
 programming
 
@@ -58,9 +54,9 @@ programming
      * Erlang & co.
      * finite state machines
      * HTTP
-     * [14]for-GET HTTP
+     * [12]for-GET HTTP
      * REST
-     * [15]HyperREST
+     * [13]HyperREST
      * PEG grammars, ABNF, IETF, RFC
      * web extensions
      * serverless
@@ -68,41 +64,40 @@ programming
      * Docker
      * AWS
      * CI/CD
-     * [16]rokmoln
+     * [14]rokmoln
      * …
-     * [17]you name it
+     * [15]you name it
      * but more importantly,
-     * I'm [18]an automation/DRY geek
-     * [19]doing the hard things
+     * I'm [16]an automation/DRY geek
+     * [17]doing the hard things
+       _______________________________________________________________
 
-IT experience
-
-2021 - ____ [20]? AB, Stockholm, SWE TBD
+2021 - ____ [18]? AB, Stockholm, SWE TBD
 
      TBD
 
-2020 - 2021 [21]Tobii Dynavox AB, Stockholm, SWE Senior Software Engineer
+2020 - 2021 [19]Tobii Dynavox AB, Stockholm, SWE Senior Software Engineer
 
      Freelancer
 
-2020 - 2020 [22]Tobii Pro AB, Stockholm, SWE Senior Software Engineer
+2020 - 2020 [20]Tobii Pro AB, Stockholm, SWE Senior Software Engineer
 
      Freelancer
 
-2020 - 2020 [23]Normative/Meta Mind AB, Stockholm, SWE Lead Backend Engineer
+2020 - 2020 [21]Normative/Meta Mind AB, Stockholm, SWE Lead Backend Engineer
 
      Normative is about "Sustainability Reporting Made Really Easy".
 
-2016 - 2020 [24]Tobii Pro AB, Stockholm, SWE Software Engineer in AdTech
+2016 - 2020 [22]Tobii Pro AB, Stockholm, SWE Software Engineer in AdTech
 (Lead)
 
-     I'm a central part of [25]Tobii Pro Pulse.
+     I'm a central part of [23]Tobii Pro Pulse.
      Pulse is a unique service that captures >5GB worth of online
      attention data a day,
      from >1200 people that are passively browsing the Swedish online,
      extensively monitoring metrics related to the ads and brands that
      they are exposed to.
-     See [26]example
+     See [24]example
      From a technical perspective this means I have successfully:
      - developed a complex browser WebExtension that monitors areas of
      interests (specifically, but not technically limited to ads) on any
@@ -127,25 +122,25 @@ IT experience
      es6/typescript,
      travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang
 
-2016 - 2020 [27]Tobii Pro AB, Stockholm, SWE Cloud/DevOps Engineer on AWS
+2016 - 2020 [25]Tobii Pro AB, Stockholm, SWE Cloud/DevOps Engineer on AWS
 (Lead)
 
      I have successfully set up the grounds of Tobii Pro's Cloud Services
      and CI/CD, like (but not limited to):
      - set the team up on Amazon Web Services from ~scratch
      - - infrastructure as code all the way using CloudFormation, see
-     [28]more info
+     [26]more info
      following an idea from Google Cloud Platform actually (generate
      json/yaml templates with real code; a back-to-basics version of AWS
      CDK if you will)
-     - - IAM by the book, see [29]more info
+     - - IAM by the book, see [27]more info
      - - set up several projects with serverless (AWS Lambda)
      environments, utilizing services like:
      Nodejs/Babel/Typescript/Python Lambdas, Lambda Layers, CloudWatch,
      CloudTrail, S3, DynamoDB, Athena, Kinesis, Firehose, SQS, SNS,
      CloudFront, API Gateway, Route53
      - set up a modular and language-independent build system based on
-     GNU Make, see [30]more info
+     GNU Make, see [28]more info
      - set up CI/CD solutions
      - - currently on TravisCI and Github
      - - previously TeamCity pipelines
@@ -159,7 +154,7 @@ IT experience
      es6/typescript,
      travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang
 
-2014 - 2016 [31]Cisco Systems AB, Stockholm, SWE Engineer
+2014 - 2016 [29]Cisco Systems AB, Stockholm, SWE Engineer
 
      Switched focus to backend and infrastructure duties, like:
      - Erlang-based JSON-RPC API design and implementation
@@ -169,36 +164,38 @@ IT experience
      - set up GIT on Atlassian Stash/BitBucket Server and Gitolite
      - tooling
 
-     Still engineering [32]Tail-f NCS, but within Cisco's Cloud &
+     Still engineering [30]Tail-f NCS, but within Cisco's Cloud &
      Virtualization Group.
-     Cisco acquired Tail-f in 2014 - [33]read more.
+     Cisco acquired Tail-f in 2014 - [31]read more.
 
      erlang, yaws, http, json-rpc, yang, jenkins/bitten/lux/katt, multi
      vcs (svn, git, git-svn), multi platform…
 
-2013 - 2016 [34]Tail-f Systems AB, Stockholm, SWE UI Developer
+2013 - 2016 [32]Tail-f Systems AB, Stockholm, SWE UI Developer
 
-     Engineering [35]Tail-f NCS with a mix of frontend/backend duties.
+     Engineering [33]Tail-f NCS with a mix of frontend/backend duties.
 
      sencha/extjs, coffeescript, node.js, erlang, http, json-rpc, yang,
      jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi
      platform…
 
-2001 - 2014 [36]Life-Link Friendship-Schools, Uppsala, SWE IT handyman
+2001 - 2014 [34]Life-Link Friendship-Schools, Uppsala, SWE IT handyman
 
      Front- and backoffice duties. Designing and engineering 3 major
      websites.
 
      php, asp, perl, css, js, sencha, photoshop, cms
 
-2013 - 2013 [37]Videoplaza AB, Stockholm, SWE Software Engineer
+2013 - 2013 [35]Videoplaza AB, Stockholm, SWE Software Engineer
 
-2011 - 2013 [38]Klarna AB, Stockholm, SWE Developer
+     Veni, vidi, vici.
 
-     Engineering [39]Klarna Checkout - full-blown front/backend FSM
+2011 - 2013 [36]Klarna AB, Stockholm, SWE Developer
+
+     Engineering [37]Klarna Checkout - full-blown front/backend FSM
      prototype, interaction and API documentation, GUI.
 
-     Engineering support tools and designing the [40]Klarna Checkout REST
+     Engineering support tools and designing the [38]Klarna Checkout REST
      API and other REST APIs.
 
      rest, http, hypermedia, api, js, coffeescript, sdk, gui, ux, i18n,
@@ -206,7 +203,7 @@ IT experience
 
 2010 - 2011 Media & News Stockholm AB, Stockholm, SWE System Developer
 
-     Engineering a customized social network on top of [41]SocialEngine.
+     Engineering a customized social network on top of [39]SocialEngine.
 
      php, mysql, css, js, mootools, jquery, zend framework, socialengine
 
@@ -226,17 +223,17 @@ Developer
 
 projects
 
-2020 - ____ [42]rokmoln Father
+2020 - ____ [40]rokmoln Father
 
-     [43]A Github organization covering GIT setups, cross-platform CI/CD,
+     [41]A Github organization covering GIT setups, cross-platform CI/CD,
      cross-platform build system, cross-cloud infrastructure as code.
 
      gitops, aws, cloud, devops, ci, cd, gnu, make, bash, linux, darwin,
      windows, git
 
-2013 - ____ [44]for-GET HTTP Father
+2013 - ____ [42]for-GET HTTP Father
 
-     [45]A Github organization covering PEG grammars, ASTs, parsegens,
+     [43]A Github organization covering PEG grammars, ASTs, parsegens,
      HTTP algorithms and an FSM for a non-opinionated and
      comprehensive-spec-coverage HTTP framework, focusing on semantics,
      and less on the syntax.
@@ -244,15 +241,15 @@ projects
      HTTP, PEG, grammar, AST, parser, generator, FSM, server,
      coffeescript, nodejs, webmachine, erlang
 
-   IFRAME: [46]//player.vimeo.com/video/78030876?portrait=0
+   IFRAME: [44]//player.vimeo.com/video/78030876?portrait=0
 
-   IFRAME: [47]//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0
+   IFRAME: [45]//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0
 
-   IFRAME: [48]//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0
+   IFRAME: [46]//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0
 
-2012 - ____ [49]HyperREST Father
+2012 - ____ [47]HyperREST Father
 
-     [50]A Github organization covering a set of blog posts and software
+     [48]A Github organization covering a set of blog posts and software
      focused on how-to envision-spec-mock-consume-serve a REST/hypermedia
      API.
 
@@ -265,26 +262,26 @@ projects
      access to vital student information, like messages and schedule.
 
      squace, browser, php, xml, mobile, data mining
-     * 2010[51]Snowdrop 2.0
-     * 2009 [52]Snowdrop 1.0 (Codename Klover)
+     * 2010[49]Snowdrop 2.0
+     * 2009 [50]Snowdrop 1.0 (Codename Klover)
 
-2009 - 2009 [53]Promote Knowledge Management Concept
+2009 - 2009 [51]Promote Knowledge Management Concept
 
      A series of videos playing with audio, video and concepts in order
      to highlight a knowledge management course.
 
-   IFRAME: [54]//player.vimeo.com/video/45768175?portrait=0
+   IFRAME: [52]//player.vimeo.com/video/45768175?portrait=0
 
-   IFRAME: [55]//player.vimeo.com/video/45768176?portrait=0
+   IFRAME: [53]//player.vimeo.com/video/45768176?portrait=0
 
-   IFRAME: [56]//player.vimeo.com/video/45768258?portrait=0
+   IFRAME: [54]//player.vimeo.com/video/45768258?portrait=0
 
 2008 - 2009 Labs Widgets
 
-     * [57]Exchange Rate Dashboard
-     * [58]Google Maps Dashboard
-     * [59]Skyscanner quick links
-     * [60]Mobile tyda.se
+     * [55]Exchange Rate Dashboard
+     * [56]Google Maps Dashboard
+     * [57]Skyscanner quick links
+     * [58]Mobile tyda.se
 
 2008 - 2009 Induction to Kista IT University - KTH & SU Facilitator
 
@@ -296,19 +293,19 @@ projects
 
 education
 
-2008 - 2010 [61]Royal Institute of Technology, Stockholm, SWE M.Sc.
+2008 - 2010 [59]Royal Institute of Technology, Stockholm, SWE M.Sc.
 
      Engineering and Management of Information Systems.
 
      Data Warehousing, Web mining, Logic Programming, Knowledge
      Management, ERP Systems, Requirements Engineering, etc.
 
-2007 - 2007 [62]University of Humanities and Economics, Lodz, POL Erasmus
+2007 - 2007 [60]University of Humanities and Economics, Lodz, POL Erasmus
 
      Corporate Finance Management, H.R. Management, Social Role of Media,
      Public Discourses, Conflicts and International Negotiations
 
-2004 - 2008 [63]Romanian-American University, Bucharest, ROU B.Sc.
+2004 - 2008 [61]Romanian-American University, Bucharest, ROU B.Sc.
 
      Computer Science for Business Management. Graduated with the highest
      GPA in the programme.
@@ -319,7 +316,7 @@ education
 
 papers
 
-2010 [64]Course Analytics Master Thesis
+2010 [62]Course Analytics Master Thesis
 
      Leveraging course assessment through data mining of student
      satisfaction
@@ -328,33 +325,33 @@ papers
      educational data mining, importance-performance analysis, teaching
      eﬀectiveness, php, squace, xml
 
-2009 [65]Split Infinitives in Prolog [66](copy)
+2009 [63]Split Infinitives in Prolog [64](copy)
 
      Published in Journal of Information Systems & Operations Management
 
      split infinitives, logic programming, prolog
 
-2009 [67]Alignment of Business and IS/IT Strategy at Telenor Sweden
-[68](copy)
+2009 [65]Alignment of Business and IS/IT Strategy at Telenor Sweden
+[66](copy)
 
      Published in Journal of Information Systems & Operations Management
 
      strategic alignment, IS/IT strategy, business strategy,
      organizational strategy, case study, Telenor
 
-2009 [69]Science is a runner. Philosophy?
+2009 [67]Science is a runner. Philosophy?
 
      philosophy, science, essay
 
-2009 [70]Towards Enhanced E-collaboration in Academia [71](copy)
+2009 [68]Towards Enhanced E-collaboration in Academia [69](copy)
 
      Published in Journal of Information Systems & Operations Management
 
      e-collaboration, academia, requirements, boundaries, holistic
 
-2008 [72]Web 2.0 Application for Medical Clinique Management Honors Thesis
+2008 [70]Web 2.0 Application for Medical Clinique Management Honors Thesis
 
-mixed experience
+miscellaneous
 
 2001 - 2007 . Delegate, Speaker
 
@@ -379,75 +376,73 @@ mixed experience
 
 References
 
-   1. https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=0AgnBrIpF5CiOdFBzMnNGMV9qX2tlQjFMVlJEN1M2cFE&start_at_end=true&width=990&height=650
-   2. file:///Users/andrei/git/andreineculau/cv/index.html#timeline
-   3. javascript:window.print()
-   4. javascript:window.alert('npx -y andreineculau')
-   5. tel:+46-763-400-378
-   6. mailto:andrei.neculau@gmail.com
+   1. javascript:window.print()
+   2. javascript:window.alert('npx -y andreineculau')
+   3. tel:+46-763-400-378
+   4. mailto:andrei.neculau@gmail.com
+   5. http://github.andreineculau.com/
+   6. http://linkedin.andreineculau.com/
    7. http://blog.andreineculau.com/
-   8. http://github.andreineculau.com/
-   9. http://key.andreineculau.com/
-  10. http://linkedin.andreineculau.com/
-  11. http://timeline.andreineculau.com/
-  12. file:///Users/andrei/git/andreineculau/cv/assets/alva-labs-ab-personality.pdf
-  13. file:///Users/andrei/git/andreineculau/cv/assets/alva-labs-ab-logic.pdf
-  14. https://github.com/for-GET
-  15. https://github.com/hyperrest
-  16. https://github.com/rokmoln
-  17. http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html
-  18. https://www.globalnerdy.com/2012/04/24/geeks-and-repetitive-tasks/
-  19. https://sealedabstract.com/rants/do-hard-things/
-  20. https://www.example.com/
-  21. https://www.tobiidynavox.com/
+   8. http://key.andreineculau.com/
+   9. http://timeline.andreineculau.com/
+  10. file:///Users/andrei/git/andreineculau/cv/assets/alva-labs-ab-personality.pdf
+  11. file:///Users/andrei/git/andreineculau/cv/assets/alva-labs-ab-logic.pdf
+  12. https://github.com/for-GET
+  13. https://github.com/hyperrest
+  14. https://github.com/rokmoln
+  15. http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html
+  16. https://www.globalnerdy.com/2012/04/24/geeks-and-repetitive-tasks/
+  17. https://sealedabstract.com/rants/do-hard-things/
+  18. https://www.example.com/
+  19. https://www.tobiidynavox.com/
+  20. https://www.tobiipro.com/
+  21. https://www.normative.io/
   22. https://www.tobiipro.com/
-  23. https://www.normative.io/
-  24. https://www.tobiipro.com/
-  25. https://www.tobiipro.com/pulse/
-  26. https://github.com/tobiipro/data-eng-task/blob/master/overview-tobii-attention-data.md
-  27. https://www.tobiipro.com/
-  28. https://github.com/tobiipro/support-firecloud/tree/master/repo/cfn
-  29. https://github.com/tobiipro/support-firecloud/blob/master/doc/aws-iam.md
-  30. https://github.com/tobiipro/support-firecloud/tree/master/repo/mk
-  31. https://www.cisco.com/
-  32. https://www.tail-f.com/network-control-system/
-  33. https://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems
-  34. https://tail-f.com/
-  35. https://www.tail-f.com/network-control-system/
-  36. http://life-link.org/
-  37. https://videoplaza.com/
-  38. https://klarna.com/
-  39. https://www.klarna.com/se/foretag/products/checkout/
-  40. https://developers.klarna.com/documentation/klarna-checkout/
-  41. http://blog.andreineculau.com/2011/01/an-developers-review-on-webligos-socialengine/
-  42. https://github.com/rokmoln
-  43. https://github.com/rokmoln
-  44. https://vimeo.com/78030876
-  45. https://github.com/for-GET
-  46. file://player.vimeo.com/video/78030876?portrait=0
-  47. file://www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0
-  48. file://www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0
-  49. http://hyperrest.com/
-  50. https://github.com/hyperrest
-  51. https://www.youtube.com/watch?v=DiGBvFx9ePY&list=PLm2MmlTdwWv2631fRJgHc7JPB4ju_rvyc
-  52. https://www.youtube.com/watch?v=oqe5WCO_Ydw
-  53. https://vimeo.com/couchmode/album/2007694/sort:preset/45768175
-  54. file://player.vimeo.com/video/45768175?portrait=0
-  55. file://player.vimeo.com/video/45768176?portrait=0
-  56. file://player.vimeo.com/video/45768258?portrait=0
-  57. http://labs.andreineculau.com/cursbnr/
-  58. http://labs.andreineculau.com/maps/
-  59. http://labs.andreineculau.com/skyscanner/
-  60. http://labs.andreineculau.com/m.tyda.se/
-  61. https://www.kth.se/en
-  62. https://www.ahe.lodz.pl/en
-  63. https://www.rau.ro/index.php?newlang=english
-  64. https://github.com/andreineculau/cv/raw/gh-pages/papers/master_thesis.pdf
-  65. https://www.rebe.rau.ro/RePEc/rau/jisomg/WI09/JISOM-WI09-A5.pdf
-  66. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-WI09-A5.pdf
-  67. https://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A1.pdf
-  68. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A1.pdf
-  69. https://github.com/andreineculau/cv/raw/gh-pages/papers/Science-is-a-runner-Philosophy.pdf
-  70. https://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A4.pdf
-  71. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A4.pdf
-  72. https://github.com/andreineculau/cv/raw/gh-pages/papers/bachelor_thesis.pdf
+  23. https://www.tobiipro.com/pulse/
+  24. https://github.com/tobiipro/data-eng-task/blob/master/overview-tobii-attention-data.md
+  25. https://www.tobiipro.com/
+  26. https://github.com/tobiipro/support-firecloud/tree/master/repo/cfn
+  27. https://github.com/tobiipro/support-firecloud/blob/master/doc/aws-iam.md
+  28. https://github.com/tobiipro/support-firecloud/tree/master/repo/mk
+  29. https://www.cisco.com/
+  30. https://www.tail-f.com/network-control-system/
+  31. https://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems
+  32. https://tail-f.com/
+  33. https://www.tail-f.com/network-control-system/
+  34. http://life-link.org/
+  35. https://videoplaza.com/
+  36. https://klarna.com/
+  37. https://www.klarna.com/se/foretag/products/checkout/
+  38. https://developers.klarna.com/documentation/klarna-checkout/
+  39. http://blog.andreineculau.com/2011/01/an-developers-review-on-webligos-socialengine/
+  40. https://github.com/rokmoln
+  41. https://github.com/rokmoln
+  42. https://vimeo.com/78030876
+  43. https://github.com/for-GET
+  44. file://player.vimeo.com/video/78030876?portrait=0
+  45. file://www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0
+  46. file://www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0
+  47. http://hyperrest.com/
+  48. https://github.com/hyperrest
+  49. https://www.youtube.com/watch?v=DiGBvFx9ePY&list=PLm2MmlTdwWv2631fRJgHc7JPB4ju_rvyc
+  50. https://www.youtube.com/watch?v=oqe5WCO_Ydw
+  51. https://vimeo.com/couchmode/album/2007694/sort:preset/45768175
+  52. file://player.vimeo.com/video/45768175?portrait=0
+  53. file://player.vimeo.com/video/45768176?portrait=0
+  54. file://player.vimeo.com/video/45768258?portrait=0
+  55. http://labs.andreineculau.com/cursbnr/
+  56. http://labs.andreineculau.com/maps/
+  57. http://labs.andreineculau.com/skyscanner/
+  58. http://labs.andreineculau.com/m.tyda.se/
+  59. https://www.kth.se/en
+  60. https://www.ahe.lodz.pl/en
+  61. https://www.rau.ro/index.php?newlang=english
+  62. https://github.com/andreineculau/cv/raw/gh-pages/papers/master_thesis.pdf
+  63. https://www.rebe.rau.ro/RePEc/rau/jisomg/WI09/JISOM-WI09-A5.pdf
+  64. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-WI09-A5.pdf
+  65. https://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A1.pdf
+  66. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A1.pdf
+  67. https://github.com/andreineculau/cv/raw/gh-pages/papers/Science-is-a-runner-Philosophy.pdf
+  68. https://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A4.pdf
+  69. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A4.pdf
+  70. https://github.com/andreineculau/cv/raw/gh-pages/papers/bachelor_thesis.pdf
