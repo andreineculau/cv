@@ -1,7 +1,3 @@
-.PHONY: help
-help:
-	cat Makefile
-
 .PHONY: all
 all:
 	bin/build
@@ -13,3 +9,7 @@ serve:
 .PHONY: show
 show:
 	bin/show
+
+.PHONY: help
+help:
+	cat Makefile
