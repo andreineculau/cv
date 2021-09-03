@@ -14,6 +14,10 @@
 
 
 
+> <a href="javascript:window.print()">print/PDF my CV</a>
+
+> <a href="javascript:window.alert('npx -y andreineculau')">CLI my CV</a>
+
 > ## about
 
 > 1984-05-04
@@ -26,13 +30,11 @@
 
 > [andrei.neculau@gmail.com](mailto:andrei.neculau@gmail.com)
 
-> [linkedin](http://linkedin.andreineculau.com)
+> [blog](http://blog.andreineculau.com)
 > [github](http://github.andreineculau.com)
 > [key](http://key.andreineculau.com)
-
+> [linkedin](http://linkedin.andreineculau.com)
 > [timeline](http://timeline.andreineculau.com)
-
-
 
 > ## personality
 
