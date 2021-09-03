@@ -26,9 +26,9 @@
 
 > [andrei.neculau@gmail.com](mailto:andrei.neculau@gmail.com)
 
-> [linkedin](https://se.linkedin.com/in/andreineculau)
-> [github](https://github.com/andreineculau)
-> [public key](https://keybase.io/andreineculau/key.asc)
+> [linkedin](http://linkedin.andreineculau.com)
+> [github](http://github.andreineculau.com)
+> [key](http://key.andreineculau.com)
 
 > [timeline](http://timeline.andreineculau.com)
 
