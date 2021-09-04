@@ -12,5 +12,7 @@ cat _header.html >> index.html
 cat _README0.html >> index.html
 cat _header1.html >> index.html
 cat _README1.html >> index.html
+cat _header2.html >> index.html
+cat _README2.html >> index.html
 cat _footer.html >> index.html
 lynx -dump --display_charset=utf-8 index.html > index.lynx

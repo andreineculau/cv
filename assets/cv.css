@@ -49,7 +49,7 @@ li {
 
 /* --------------------------------------------------------------------------- */
 
-/* Name - Given name */
+/* Name - Family name */
 #name h1 {
   font-size:3.5rem;
   font-weight:100;
@@ -58,45 +58,42 @@ li {
   text-align:center;
 }
 
-/* Name - Family name */
+/* Name - Given name */
 #name h1 strong {
-  margin-right:-1.2rem;
+  margin-right:-0.6rem;
 }
 
 /* --------------------------------------------------------------------------- */
 
 /* About */
-#about {
+#about-wrapper {
   text-align:right;
+  border-bottom:1px solid;
 }
 
 /* About - Headlines */
-#about blockquote > h2 {
+#about-wrapper blockquote > h2 {
   font-size:1.5rem;
   line-height:1rem;
   margin-top:2rem;
 }
 
-#about blockquote > h2:first-child {
-  margin-top:0;
-}
-
 /* About - Content */
-#about p,
-#about li,
-#about a {
+#about-wrapper p,
+#about-wrapper li,
+#about-wrapper a {
   font-weight:300;
   line-height:1.25;
 }
 
-#about p {
+#about-wrapper p {
   margin-bottom:0.5rem;
 }
 
 /* --------------------------------------------------------------------------- */
 
 /* Section */
-#experience > h1 {
+#experience-wrapper > h1 {
   font-size:3.5rem;
   font-weight:100;
   letter-spacing:-0.05rem;
@@ -105,7 +102,7 @@ li {
 }
 
 /* Headline */
-#experience > h4 {
+#experience-wrapper > h4 {
   clear:both;
   font-size:1rem;
   margin:0;
@@ -113,12 +110,12 @@ li {
 }
 
 /* Company */
-#experience > h4 > code:first-child + strong {
+#experience-wrapper > h4 > code:first-child + strong {
   font-size:1rem;
 }
 
 /* Role */
-#experience > h4 > code:first-child + strong + code {
+#experience-wrapper > h4 > code:first-child + strong + code {
   float:right;
   font-size:1rem;
   font-weight:300;
@@ -127,7 +124,7 @@ li {
 }
 
 /* Period */
-#experience > h4 > code:first-child {
+#experience-wrapper > h4 > code:first-child {
   float:right;
   font-size:1rem;
   font-weight:300;
@@ -136,26 +133,26 @@ li {
 }
 
 /* Description */
-#experience > h4 + blockquote {
+#experience-wrapper > h4 + blockquote {
   clear:both;
 }
 
-#experience > h4 + blockquote * {
+#experience-wrapper > h4 + blockquote * {
   font-weight:300;
   line-height:1.25;
 }
 
 /* Company (sub) */
-#experience > h4 + blockquote > ul {
+#experience-wrapper > h4 + blockquote > ul {
 }
 
-#experience > h4 + blockquote > ul > li {
+#experience-wrapper > h4 + blockquote > ul > li {
   white-space:nowrap;
   overflow:hidden;
 }
 
 /* Period (sub) */
-#experience > h4 + blockquote > ul > li > code:first-child {
+#experience-wrapper > h4 + blockquote > ul > li > code:first-child {
   float:right;
   z-index:2;
   position:relative;
@@ -169,35 +166,52 @@ li {
 
 /* Mobile */
 @media screen and (max-width: 576px) {
-  .hide-in-mobile {
-    display:none;
+  /* Name */
+  #name {
+    overflow:hidden;
+  }
+
+  #name h1 {
+    margin-right:-2rem;
   }
 
   /* About */
-  #about {
-    text-align:center;
+  #about-wrapper > .container > .row > div:first-child {
+    text-align:right;
+  }
+
+  #about-wrapper > .container > .row > div:nth-child(2) {
+    text-align:left;
+  }
+
+  #about-wrapper blockquote > #about {
+    margin-top:0;
+  }
+
+  #about-wrapper blockquote > #programming {
+    margin-top:0.5rem; /* compensate for hidden elements */
   }
 
   /* Company */
-  #experience > h4 > code:first-child + strong {
+  #experience-wrapper > h4 > code:first-child + strong {
     font-size:0.8rem;
   }
 
   /* Period */
-  #experience > h4 > code:first-child {
+  #experience-wrapper > h4 > code:first-child {
     font-size:0.8rem;
     margin-top:0.2rem;
   }
 
   /* Role */
-  #experience > h4 > code:first-child + strong + code {
+  #experience-wrapper > h4 > code:first-child + strong + code {
     clear:right;
     font-size:0.8rem;
     margin-top:0.2rem;
   }
 
   /* Description */
-  #experience > h4 + blockquote {
+  #experience-wrapper > h4 + blockquote {
     font-size:0.7rem;
   }
 }
@@ -212,65 +226,63 @@ li {
     content:none !important;
   }
 
-  .hide-in-print {
-    display:none;
-  }
-
   .page-break {
     display:block;
     page-break-before:always;
   }
 
   /* About */
-  #about {
+  #about-wrapper {
     font-size:0.5rem;
   }
 
-  #about blockquote {
+  #about-wrapper {
+    margin-left:0;
     margin-top:-7rem;
+    width:33.33333334%;
   }
 
   /* About - Headlines */
-  #about blockquote > h2 {
+  #about-wrapper blockquote > h2 {
     font-size:0.6rem;
     margin-top:1rem;
   }
 
   /* About - Content */
-  #about p,
-  #about li,
-  #about a {
+  #about-wrapper p,
+  #about-wrapper li,
+  #about-wrapper a {
     font-weight:normal;
   }
 
   /* Section */
-  #experience > h1 {
+  #experience-wrapper > h1 {
     margin:0;
   }
 
   /* Headline */
-  #experience > h4 {
+  #experience-wrapper > h4 {
     font-size:0.6em;
   }
 
   /* Company */
-  #experience > h4 > code:first-child + strong {
+  #experience-wrapper > h4 > code:first-child + strong {
     font-size:0.6rem;
   }
 
   /* Role */
-  #experience > h4 > code:first-child + strong + code {
+  #experience-wrapper > h4 > code:first-child + strong + code {
     font-size:0.6rem;
   }
 
   /* Period */
-  #experience > h4 > code:first-child {
+  #experience-wrapper > h4 > code:first-child {
     font-size:0.6rem;
   }
 
   /* Description */
-  #experience > h4 + blockquote,
-  #experience > h4 + ul {
+  #experience-wrapper > h4 + blockquote,
+  #experience-wrapper > h4 + ul {
     display:none;
   }
 }

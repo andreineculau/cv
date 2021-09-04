@@ -1,6 +1,6 @@
-> <a href="javascript:window.print()" class="hide-in-print hide-in-mobile">print/PDF my CV</a>
+> <a href="javascript:window.print()" class="d-print-none d-none d-sm-inline">print/PDF my CV</a>
 
-> <a href="javascript:window.alert('npx -y andreineculau')" class="hide-in-print hide-in-mobile">CLI my CV</a>
+> <a href="javascript:window.alert('npx -y andreineculau')" class="d-print-none d-none d-sm-inline">CLI my CV</a>
 
 
 > ## about
@@ -38,6 +38,7 @@
 > * notions of Spanish
 > * notions of French
 
+<!-- split -->
 
 > ## programming
 
@@ -75,8 +76,6 @@
 > * but more importantly,
 > * I'm [an automation/DRY geek](https://www.globalnerdy.com/2012/04/24/geeks-and-repetitive-tasks/)
 > * [doing the hard things](https://sealedabstract.com/rants/do-hard-things/)
-
-> ---
 
 <!-- split -->
 
@@ -216,11 +215,11 @@
 
 > *HTTP, PEG, grammar, AST, parser, generator, FSM, server, coffeescript, nodejs, webmachine, erlang*
 
-<iframe class="hide-in-print" width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/78030876?portrait=0" allowfullscreen></iframe>
+<iframe class="d-print-none" width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/78030876?portrait=0" allowfullscreen></iframe>
 
-<iframe class="hide-in-print" width="30%" height="100" frameborder="0" src="//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0" allowfullscreen></iframe>
+<iframe class="d-print-none" width="30%" height="100" frameborder="0" src="//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0" allowfullscreen></iframe>
 
-<iframe class="hide-in-print" width="30%" height="100" frameborder="0" src="//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0" allowfullscreen></iframe>
+<iframe class="d-print-none" width="30%" height="100" frameborder="0" src="//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0" allowfullscreen></iframe>
 
 
 #### `2012 - ____` **[HyperREST](http://hyperrest.com)** `Father`
@@ -241,11 +240,11 @@
 #### `2009 - 2009` **[Promote Knowledge Management](https://vimeo.com/couchmode/album/2007694/sort:preset/45768175)** `Concept`
 > A series of videos playing with audio, video and concepts in order to highlight a knowledge management course.
 
-<iframe class="hide-in-print" width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768175?portrait=0" allowfullscreen></iframe>
+<iframe class="d-print-none" width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768175?portrait=0" allowfullscreen></iframe>
 
-<iframe class="hide-in-print" width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768176?portrait=0" allowfullscreen></iframe>
+<iframe class="d-print-none" width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768176?portrait=0" allowfullscreen></iframe>
 
-<iframe class="hide-in-print" width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768258?portrait=0" allowfullscreen></iframe>
+<iframe class="d-print-none" width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768258?portrait=0" allowfullscreen></iframe>
 
 
 #### `2008 - 2009` **Labs** `Widgets`
