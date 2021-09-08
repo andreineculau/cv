@@ -80,8 +80,8 @@
 <!-- split -->
 
 
-#### `2021 - ____` **[? AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.example.com)** `TBD`
-> TBD
+#### `2021 - ____` **[Cell Solar Nordic AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.cellsolar.com)** `CTO`
+> CTO-ish stuff
 
 
 #### `2020 - 2021` **[Tobii Dynavox AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiidynavox.com)** `Senior Software Engineer`
