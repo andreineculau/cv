@@ -80,6 +80,10 @@
 <!-- split -->
 
 
+#### `2021 - ____` **[Y Software AB, Saltsjöbaden, <accronym title="Sweden">SWE</accronym>](https://ysoftware.se)** `TBD`
+> Self-employed
+
+
 #### `2021 - 2021` **[Cell Solar Nordic AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.cellsolar.com)** `CTO`
 > Setting up the engineering/IT organization and infrastructure, as well as development environments for upcoming projects.
 > <br>
