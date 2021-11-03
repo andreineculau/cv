@@ -84,11 +84,7 @@
 > CTO-ish stuff
 
 
-#### `2020 - 2021` **[Tobii Dynavox AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiidynavox.com)** `Senior Software Engineer`
-> Freelancer
-
-
-#### `2020 - 2020` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Senior Software Engineer`
+#### `2020 - 2021` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Senior Software Engineer`
 > Freelancer
 
 
