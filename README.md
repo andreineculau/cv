@@ -18,7 +18,6 @@
 > [github](http://github.andreineculau.com)
 > [linkedin](http://linkedin.andreineculau.com)
 
-> [blog](http://blog.andreineculau.com)
 > [key](http://key.andreineculau.com)
 > [timeline](http://timeline.andreineculau.com)
 
