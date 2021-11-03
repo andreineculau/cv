@@ -80,8 +80,11 @@
 <!-- split -->
 
 
-#### `2021 - ____` **[Cell Solar Nordic AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.cellsolar.com)** `CTO`
-> CTO-ish stuff
+#### `2021 - 2021` **[Cell Solar Nordic AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.cellsolar.com)** `CTO`
+> Setting up the engineering/IT organization and infrastructure, as well as development environments for upcoming projects.
+> <br>
+> EDIT: I quit prematurely because of 1-year-long waterfall processes
+> and because there can't be RnD without Product, and Product was nowhere on the company map.
 
 
 #### `2020 - 2021` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Senior Software Engineer`
