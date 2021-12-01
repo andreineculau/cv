@@ -167,7 +167,8 @@ li {
   }
 
   #name h1 {
-    margin-right:-2rem;
+    font-size:2rem;
+    margin-right:-4.5rem;
   }
 
   /* About */
@@ -224,6 +225,11 @@ li {
   .page-break {
     display:block;
     page-break-before:always;
+  }
+
+  #name h1 {
+    font-size:2rem;
+    margin-right:-8.5rem;
   }
 
   /* About */

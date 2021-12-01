@@ -59,9 +59,9 @@
 > * Erlang & co.
 > * finite state machines
 > * HTTP
-> * [for-GET HTTP](https://github.com/for-GET)
+> * founded [for-GET HTTP](https://github.com/for-GET)
 > * REST
-> * [HyperREST](https://github.com/hyperrest)
+> * founded HyperREST
 > * PEG grammars, ABNF, IETF, RFC
 > * web extensions
 > * serverless
@@ -69,21 +69,21 @@
 > * Docker
 > * AWS
 > * CI/CD
-> * [rokmoln](https://github.com/rokmoln)
+> * [Y Software AB](https://github.com/ysoftwareab)
 > * ...
 > * [*you name it*](http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html)
 > * but more importantly,
-> * I'm [an automation/DRY geek](https://www.globalnerdy.com/2012/04/24/geeks-and-repetitive-tasks/)
-> * [doing the hard things](https://sealedabstract.com/rants/do-hard-things/)
+> * I'm [an automation geek](https://www.globalnerdy.com/2012/04/24/geeks-and-repetitive-tasks/)
+> * doing [the hard things](https://sealedabstract.com/rants/do-hard-things/)
 
 <!-- split -->
 
 
-#### `2021 - ____` **[Y Software AB, Saltsjöbaden, <accronym title="Sweden">SWE</accronym>](https://ysoftware.se)** `TBD`
+#### `2021 - ____` **[Y Software AB, Saltsjöbaden, <accronym title="Sweden">SWE</accronym>](https://ysoftware.se)** `Founder`
 > Self-employed
 
 
-#### `2021 - 2021` **[Cell Solar Nordic AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.cellsolar.com)** `CTO`
+#### `2021 - 2021` **[Cell Solar Nordic AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.cellsolar.se)** `CTO`
 > Setting up the engineering/IT organization and infrastructure, as well as development environments for upcoming projects.
 > <br>
 > EDIT: I quit prematurely because of 1-year-long waterfall processes
@@ -122,7 +122,7 @@
 > *aws, gitops, devops, infrastructure as code, http, node.js, es6/typescript, travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang*
 
 
-#### `2016 - 2020` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Cloud/DevOps Engineer on AWS (Lead)`
+#### `2016 - 2020` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Platform Engineer on AWS (Lead)`
 > I have successfully set up the grounds of Tobii Pro's Cloud Services and CI/CD, like (but not limited to):<br>
 > \- set the team up on Amazon Web Services from ~scratch<br>
 > \- \- infrastructure as code all the way using CloudFormation, see [more info](https://github.com/tobiipro/support-firecloud/tree/master/repo/cfn)<br>
@@ -145,7 +145,7 @@
 > *aws, gitops, devops, infrastructure as code, http, node.js, es6/typescript, travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang*
 
 
-#### `2014 - 2016` **[Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.cisco.com)** `Engineer`
+#### `2014 - 2016` **[Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.cisco.com)** `Software Engineer in Networking`
 > Switched focus to backend and infrastructure duties, like:<br>
 > \- Erlang-based JSON-RPC API design and implementation<br>
 > \- set up Jenkins infrastructure and delivery pipeline for Continuous Integration<br>
@@ -171,15 +171,11 @@
 > *php, asp, perl, css, js, sencha, photoshop, cms*
 
 
-#### `2013 - 2013` **[Videoplaza AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://videoplaza.com)** `Software Engineer`
-> Veni, vidi, vici.
-
-
-#### `2011 - 2013` **[Klarna AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://klarna.com)** `Developer`
+#### `2011 - 2013` **[Klarna AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://klarna.com)** `Developer in FinTech`
 > Engineering [Klarna Checkout](https://www.klarna.com/se/foretag/products/checkout/) -
 > full-blown front/backend <abbrev title="Finite State Machine">FSM</abbrev> prototype, interaction and API documentation, GUI.
 
-> Engineering support tools and designing the [Klarna Checkout REST API](https://developers.klarna.com/documentation/klarna-checkout/) and other REST APIs.
+> Engineering support tools and designing the [Klarna Checkout REST API](https://developer in FinTechs.klarna.com/documentation/klarna-checkout/) and other REST APIs.
 
 > *rest, http, hypermedia, api, js, coffeescript, sdk, gui, ux, i18n, l10n, testing, scripting, erlang*
 
@@ -206,14 +202,16 @@
 
 # projects
 
-#### `2020 - ____` **[rokmoln](https://github.com/rokmoln)** `Father`
-> [A Github organization](https://github.com/rokmoln) covering GIT setups, cross-platform CI/CD, cross-platform build system, cross-cloud infrastructure as code.
+#### `2020 - 2021` **rokmoln** `Father`
+> A Github organization covering GIT setups, cross-platform CI/CD, cross-platform build system, cross-cloud infrastructure as code.
+> The organization's code is now managed by [Y Software AB](https://github.com/ysoftwareab).
 
 > *gitops, aws, cloud, devops, ci, cd, gnu, make, bash, linux, darwin, windows, git*
 
 
-#### `2013 - ____` **[for-GET HTTP](https://vimeo.com/78030876)** `Father`
+#### `2013 - 2021` **[for-GET HTTP](https://vimeo.com/78030876)** `Father`
 > [A Github organization](https://github.com/for-GET) covering PEG grammars, ASTs, parsegens, HTTP algorithms and an FSM for a non-opinionated and comprehensive-spec-coverage HTTP framework, focusing on semantics, and less on the syntax.
+> The organization's code will soon be managed by [Y Software AB](https://github.com/ysoftwareab).
 
 > *HTTP, PEG, grammar, AST, parser, generator, FSM, server, coffeescript, nodejs, webmachine, erlang*
 
@@ -224,8 +222,9 @@
 <iframe class="d-print-none" width="30%" height="100" frameborder="0" src="//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0" allowfullscreen></iframe>
 
 
-#### `2012 - ____` **[HyperREST](http://hyperrest.com)** `Father`
-> [A Github organization](https://github.com/hyperrest) covering a set of blog posts and software focused on how-to envision-spec-mock-consume-serve a REST/hypermedia API.
+#### `2012 - 2021` **HyperREST** `Father`
+> A Github organization covering a set of blog posts and software focused on how-to envision-spec-mock-consume-serve a REST/hypermedia API.
+> The organization's code is now managed by [Y Software AB](https://github.com/ysoftwareab).
 
 > *REST, API, HTTP, hypermedia, client, server, coffeescript, nodejs*
 
@@ -247,13 +246,6 @@
 <iframe class="d-print-none" width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768176?portrait=0" allowfullscreen></iframe>
 
 <iframe class="d-print-none" width="30%" height="100" frameborder="0" src="//player.vimeo.com/video/45768258?portrait=0" allowfullscreen></iframe>
-
-
-#### `2008 - 2009` **Labs** `Widgets`
-* [Exchange Rate Dashboard](http://labs.andreineculau.com/cursbnr/)
-* [Google Maps Dashboard](http://labs.andreineculau.com/maps/)
-* [Skyscanner quick links](http://labs.andreineculau.com/skyscanner/)
-* [Mobile tyda.se](http://labs.andreineculau.com/m.tyda.se/)
 
 
 #### `2008 - 2009` **Induction to Kista IT University - KTH & SU** `Facilitator`
