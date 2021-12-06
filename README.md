@@ -79,7 +79,7 @@
 <!-- split -->
 
 
-#### `2021 - ____` **[Y Software AB, Saltsjöbaden, <accronym title="Sweden">SWE</accronym>](https://ysoftware.se)** `Founder`
+#### `2021 - ____` **[Y Software AB, Saltsjöbaden, <accronym title="Sweden">SWE</accronym>](http://ysoftware.se)** `Founder`
 > Self-employed
 
 
