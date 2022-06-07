@@ -33,9 +33,6 @@
 > * full professional English (<span class="more" title="iBT 108/120">TOEFL</span>)
 > * professional working Swedish
 > * native Romanian
-> * fluent-no-more in Italian
-> * notions of Spanish
-> * notions of French
 
 <!-- split -->
 
@@ -65,7 +62,7 @@
 > * PEG grammars, ABNF, IETF, RFC
 > * web extensions
 > * serverless
-> * data warehouse
+> * data modelling/ETL/warehouse/analytics
 > * Docker
 > * AWS
 > * CI/CD
@@ -80,18 +77,11 @@
 
 
 #### `2021 - ____` **[Y Software AB, Saltsjöbaden, <accronym title="Sweden">SWE</accronym>](http://ysoftware.se)** `Founder`
-> Self-employed
-
-
-#### `2021 - 2021` **[Cell Solar Nordic AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.cellsolar.se)** `CTO`
-> Setting up the engineering/IT organization and infrastructure, as well as development environments for upcoming projects.
-> <br>
-> EDIT: I quit prematurely because of 1-year-long waterfall processes
-> and because there can't be RnD without Product, and Product was nowhere on the company map.
+> Consultant. Self-employed
 
 
 #### `2020 - 2021` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Senior Software Engineer`
-> Freelancer
+> Consultant
 
 
 #### `2020 - 2020` **[Normative/Meta Mind AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.normative.io)** `Lead Backend Engineer`
