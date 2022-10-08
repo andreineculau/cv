@@ -76,6 +76,10 @@
 <!-- split -->
 
 
+#### `2022 - ____` **[Blocket AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.blocket.se)** `Data Engineering Manager`
+> Part of Schibsted. Blocket is Sweden's biggest marketplace.
+
+
 #### `2021 - ____` **[Y Software AB, Saltsjöbaden, <accronym title="Sweden">SWE</accronym>](http://ysoftware.se)** `Founder`
 > Consultant. Self-employed
 
