@@ -76,8 +76,17 @@
 <!-- split -->
 
 
-#### `2022 - ____` **[Blocket AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.blocket.se)** `Data Engineering Manager`
-> Part of Schibsted. Blocket is Sweden's biggest marketplace.
+#### `2022 - ____` **[Blocket AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.blocket.se)** `Engineering Manager`
+> Part of Schibsted Nordic Marketplaces. Blocket is Sweden's biggest marketplace.
+
+> Tech Data Platform | Schibsted Nordic Marketplaces
+
+> Engineering Manager (unofficially also Technical Product Manager) for data engineering/warehouse teams in Blocket Sweden and Schibsted Marketplaces Finland. We collectively work in a wide tech stack, covering Airflow, AWS/EC2/Fargate/Lambda, dbt, Exasol, Github Actions, IaC/Pulumi/Terraform, Matillion, Tableau, Terraform, and support a wide range of use cases in the spirit of platform engineering: "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime."
+
+> Schibsted Nordic Marketplaces is a new organization bringing together all marketplaces in Denmark, Finland, Norway and Sweden and brands like Blocket, DBA, Finn, Oikotie and Tori to name a few.
+> Tech Data Platform | Schibsted Nordic Marketplaces Engineering Manager (unofficially also Technical Product Manager) for data engineering/warehouse teams in Blocket Sweden and Schibsted Marketplaces Finland. We collectively work in a wide tech stack, covering Airflow, AWS/EC2/Fargate/Lambda, dbt, Exasol, Github Actions, IaC/Pulumi/Terraform, Matillion, Tableau, Terraform, and support a wide range of use cases in the spirit of platform engineering: "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime." Schibsted Nordic Marketplaces is a new organization bringing together all marketplaces in Denmark, Finland, Norway and Sweden and brands like Blocket, DBA, Finn, Oikotie and Tori to name a few.
+
+> Skills: People Management · Servant Leadership · Data Engineering · Change Management · Engineering Management · Product Management
 
 
 #### `2021 - ____` **[Y Software AB, Saltsjöbaden, <accronym title="Sweden">SWE</accronym>](http://ysoftware.se)** `Founder`
