@@ -62,7 +62,10 @@
 > * PEG grammars, ABNF, IETF, RFC
 > * web extensions
 > * serverless
-> * data modelling/ETL/warehouse/analytics
+> * data modelling
+> * ETL
+> * warehouse
+> * analytics
 > * Docker
 > * AWS
 > * CI/CD
