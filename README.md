@@ -90,7 +90,7 @@
 > Skills: People Management · Servant Leadership · Data Engineering · Change Management · Engineering Management · Product Management
 
 
-#### `2021 - ____` **[Y Software AB, Saltsjöbaden, <accronym title="Sweden">SWE</accronym>](http://ysoftware.se)** `Founder`
+#### `2021 - 2023` **[Y Software AB, Saltsjöbaden, <accronym title="Sweden">SWE</accronym>](http://ysoftware.se)** `Founder`
 > Consultant. Self-employed
 
 
