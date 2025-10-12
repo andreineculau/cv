@@ -84,7 +84,7 @@
 > Tech Data Platform | Vend, formerly known as Schibsted Nordic Marketplaces | Blocket is Sweden's biggest marketplace.
 
 > Senior Software Engineering Manager (unofficially also Technical Product Manager) with technical acumen and active contributions for data mesh teams platformizing at scale data related process such as ingestion, transformation, compliance and visualization in cloud providers such as Snowflake, AWS, GCP and Confluent Kafka using tools such as GitHub Actions, Docker, Terraform, dbt, evidence. "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime."
-
+> <br>
 > Vend is a new organization bringing together all marketplaces in Denmark, Finland, Norway and Sweden and brands like Blocket, DBA, Finn, Oikotie and Tori to name a few.
 
 > Skills: People Management · Servant Leadership · Data Engineering · Change Management · Engineering Management · Product Management
