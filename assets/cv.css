@@ -280,10 +280,4 @@ li {
   #experience-wrapper > h4 > code:first-child {
     font-size:0.6rem;
   }
-
-  /* Description */
-  #experience-wrapper > h4 + blockquote,
-  #experience-wrapper > h4 + ul {
-    display:none;
-  }
 }
