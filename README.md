@@ -30,7 +30,7 @@
 
 > ## languages
 
-> * full professional English (<span class="more" title="iBT 108/120">TOEFL</span>)
+> * <span class="more" title="TOEFL iBT 108/120">full professional English</span>
 > * professional working Swedish
 > * native Romanian
 
@@ -51,7 +51,8 @@
 > * ...
 > * networking (<span class="more" title="Cisco Certified Network Associate 961/1000">CISCO</span>)
 > * JavaScript & co.
-> * BASH
+> * GNU BASH
+> * GNU Make
 > * Prolog
 > * Erlang & co.
 > * finite state machines
@@ -63,12 +64,12 @@
 > * web extensions
 > * serverless
 > * data modelling
-> * ETL
-> * warehouse
-> * analytics
 > * Docker
 > * AWS
+> * GCP
+> * Snowflake
 > * CI/CD
+> * Terraform
 > * [Y Software AB](https://github.com/ysoftwareab)
 > * ...
 > * [*you name it*](http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html)
@@ -79,15 +80,12 @@
 <!-- split -->
 
 
-#### `2022 - ____` **[Blocket AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.blocket.se)** `Engineering Manager`
-> Part of Schibsted Nordic Marketplaces. Blocket is Sweden's biggest marketplace.
+#### `2022 - ____` **[Vend AB / Blocket AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://vend.com)** `Senior Engineering Manager Data Platform/SRE`
+> Tech Data Platform | Vend, formerly known as Schibsted Nordic Marketplaces | Blocket is Sweden's biggest marketplace.
 
-> Tech Data Platform | Schibsted Nordic Marketplaces
+> Senior Software Engineering Manager (unofficially also Technical Product Manager) with technical acumen and active contributions for data mesh teams platformizing at scale data related process such as ingestion, transformation, compliance and visualization in cloud providers such as Snowflake, AWS, GCP and Confluent Kafka using tools such as GitHub Actions, Docker, Terraform, dbt, evidence. "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime."
 
-> Engineering Manager (unofficially also Technical Product Manager) for data engineering/warehouse teams in Blocket Sweden and Schibsted Marketplaces Finland. We collectively work in a wide tech stack, covering Airflow, AWS/EC2/Fargate/Lambda, dbt, Exasol, Github Actions, IaC/Pulumi/Terraform, Matillion, Tableau, Terraform, and support a wide range of use cases in the spirit of platform engineering: "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime."
-
-> Schibsted Nordic Marketplaces is a new organization bringing together all marketplaces in Denmark, Finland, Norway and Sweden and brands like Blocket, DBA, Finn, Oikotie and Tori to name a few.
-> Tech Data Platform | Schibsted Nordic Marketplaces Engineering Manager (unofficially also Technical Product Manager) for data engineering/warehouse teams in Blocket Sweden and Schibsted Marketplaces Finland. We collectively work in a wide tech stack, covering Airflow, AWS/EC2/Fargate/Lambda, dbt, Exasol, Github Actions, IaC/Pulumi/Terraform, Matillion, Tableau, Terraform, and support a wide range of use cases in the spirit of platform engineering: "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime." Schibsted Nordic Marketplaces is a new organization bringing together all marketplaces in Denmark, Finland, Norway and Sweden and brands like Blocket, DBA, Finn, Oikotie and Tori to name a few.
+> Vend is a new organization bringing together all marketplaces in Denmark, Finland, Norway and Sweden and brands like Blocket, DBA, Finn, Oikotie and Tori to name a few.
 
 > Skills: People Management · Servant Leadership · Data Engineering · Change Management · Engineering Management · Product Management
 
