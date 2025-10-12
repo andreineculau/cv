@@ -83,7 +83,7 @@
 #### `2022 - ____` **[Vend AB / Blocket AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://vend.com)** `Sr Engineering Manager Data Platform/SRE`
 > Tech Data Platform | Vend, formerly known as Schibsted Nordic Marketplaces | Blocket is Sweden's biggest marketplace.
 
-> Senior Software Engineering Manager (unofficially also Technical Product Manager) with technical acumen and active contributions for data mesh teams platformizing at scale data related process such as ingestion, transformation, compliance and visualization in cloud providers such as Snowflake, AWS, GCP and Confluent Kafka using tools such as GitHub Actions, Docker, Terraform, dbt, evidence. "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime."
+> Senior Software Engineering Manager (unofficially also Technical Product Manager) with technical acumen and active contributions for data mesh teams platformizing at scale data related process such as ingestion, transformation, compliance and visualization in cloud providers such as Snowflake, AWS, GCP and Confluent Kafka using tools such as GitHub Actions, Docker, Terraform, dbt, evidence. "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime."<br>
 > <br>
 > Vend is a new organization bringing together all marketplaces in Denmark, Finland, Norway and Sweden and brands like Blocket, DBA, Finn, Oikotie and Tori to name a few.
 
@@ -108,17 +108,6 @@
 > Pulse is a unique service that captures >5GB worth of online attention data a day,<br>
 > from >1200 people that are passively browsing the Swedish online,<br>
 > extensively monitoring metrics related to the ads and brands that they are exposed to.<br>
-> See [example](https://github.com/tobiipro/data-eng-task/blob/master/overview-tobii-attention-data.md)<br>
-> <br>
-> From a technical perspective this means I have successfully:<br>
-> \- developed a complex browser WebExtension that monitors areas of interests (specifically, but not technically limited to ads) on any website,
->    gathering metrics, meta and eyetracking data on an event-driven and message-intensive platform.<br>
-> \- implemented a high-load ingestion pipeline on Amazon Web Services via API Gateway, Lambda, SQS, S3, Kinesis, Firehose<br>
-> \- set up a data analytics pipeline on AWS via S3 and Athena<br>
-> \- contributed to a data retrieval API on AWS via API Gateway, Lambda, Athena<br>
-> \- contributed to monitoring solutions via CloudWatch and Datadog, along with Slack integrations<br>
-> \- bootstrapped and contributed to a dashboard solution using Auth0, Vuejs and Chartjs that uses modular data retrieval.
->    Hosted on AWS S3 and CloudFront
 
 > Tobii Pro is the research solution division within Tobii.<br>
 > We help business and science professionals gain real insights into human behavior with leading eye tracking solutions and services.
@@ -127,21 +116,7 @@
 
 
 #### `2016 - 2020` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Platform Engineer on AWS (Lead)`
-> I have successfully set up the grounds of Tobii Pro's Cloud Services and CI/CD, like (but not limited to):<br>
-> \- set the team up on Amazon Web Services from ~scratch<br>
-> \- \- infrastructure as code all the way using CloudFormation, see [more info](https://github.com/tobiipro/support-firecloud/tree/master/repo/cfn)<br>
->     following an idea from Google Cloud Platform actually (generate json/yaml templates with real code; a back-to-basics version of AWS CDK if you will)<br>
-> \- \- IAM by the book, see [more info](https://github.com/tobiipro/support-firecloud/blob/master/doc/aws-iam.md)<br>
-> \- \- set up several projects with serverless (AWS Lambda) environments, utilizing services like:
->      Nodejs/Babel/Typescript/Python Lambdas, Lambda Layers, CloudWatch, CloudTrail,
->      S3, DynamoDB, Athena,
->      Kinesis, Firehose, SQS, SNS,
->      CloudFront, API Gateway, Route53<br>
-> \- set up a modular and language-independent build system based on GNU Make, see [more info](https://github.com/tobiipro/support-firecloud/tree/master/repo/mk)<br>
-> \- set up CI/CD solutions<br>
-> \- \- currently on TravisCI and Github<br>
-> \- \- previously TeamCity pipelines<br>
-> \- set up crypto/secrets solutions via GPG, Keybase, transcrypt
+> Setting up the software development foundation and architecture of Tobii Pro's Cloud Services.
 
 > Tobii Pro is the research solution division within Tobii.<br>
 > We help business and science professionals gain real insights into human behavior with leading eye tracking solutions and services.
