@@ -80,13 +80,13 @@
 <!-- split -->
 
 #### ` ` **[About me](http://linkedin.andreineculau.com)** ` `
-> Senior Engineering Leader | 20+ years building reliable, scalable, and high-impact software systems<br>
+> <strong>Senior Engineering Leader | 20+ years building reliable, scalable, and high-impact software systems</strong><br>
 > <br>
 > I help teams design, deliver, and operate platforms that make software delivery faster, safer, and more reliable. My experience spans companies like Klarna, Cisco, and Tobii, leading efforts across infrastructure, data, and developer platforms.<br>
 > <br>
 > I care about outcomes — clear goals, strong technical foundations, and teams that can move with confidence. I focus on reducing friction, improving developer productivity, and building systems that scale well without adding unnecessary complexity.<br>
 > <br>
-> <b>Focus areas</b>: engineering leadership, platform strategy, reliability, developer experience, and data-driven delivery.
+> <strong>Focus areas</strong>: engineering leadership, platform strategy, reliability, developer experience, and data-driven delivery.
 
 #### `2022 - ____` **[Vend AB / Blocket AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://vend.com)** `Sr Engineering Manager`
 > Tech Data Platform | Vend, formerly known as Schibsted Nordic Marketplaces | Blocket is Sweden's biggest marketplace.
