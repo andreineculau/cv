@@ -79,7 +79,7 @@
 
 <!-- split -->
 
-#### `` **[About me](http://linkedin.andreineculau.com)** ``
+#### ` ` **[About me](http://linkedin.andreineculau.com)** ` `
 > Senior Engineering Leader | 20+ years building reliable, scalable, and high-impact software systems<br>
 > <br>
 > I help teams design, deliver, and operate platforms that make software delivery faster, safer, and more reliable. My experience spans companies like Klarna, Cisco, and Tobii, leading efforts across infrastructure, data, and developer platforms.<br>
