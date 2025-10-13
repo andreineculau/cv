@@ -263,21 +263,21 @@ li {
 
   /* Headline */
   #experience-wrapper > h4 {
-    font-size:0.6em;
+    font-size:1em;
   }
 
   /* Company */
   #experience-wrapper > h4 > code:first-child + strong {
-    font-size:0.6rem;
+    font-size:1rem;
   }
 
   /* Role */
   #experience-wrapper > h4 > code:first-child + strong + code {
-    font-size:0.6rem;
+    font-size:1rem;
   }
 
   /* Period */
   #experience-wrapper > h4 > code:first-child {
-    font-size:0.6rem;
+    font-size:1rem;
   }
 }
