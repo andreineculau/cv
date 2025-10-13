@@ -216,86 +216,21 @@ Developer
 
      perl, php, css, mysql, js, photoshop
 
-projects
-
-2020 - 2021 rokmoln Father
-
-     A Github organization covering GIT setups, cross-platform CI/CD,
-     cross-platform build system, cross-cloud infrastructure as code. The
-     organization's code is now managed by [33]Y Software AB.
-
-     gitops, aws, cloud, devops, ci, cd, gnu, make, bash, linux, darwin,
-     windows, git
-
-2013 - 2021 [34]for-GET HTTP Father
-
-     [35]A Github organization covering PEG grammars, ASTs, parsegens,
-     HTTP algorithms and an FSM for a non-opinionated and
-     comprehensive-spec-coverage HTTP framework, focusing on semantics,
-     and less on the syntax. The organization's code will soon be managed
-     by [36]Y Software AB.
-
-     HTTP, PEG, grammar, AST, parser, generator, FSM, server,
-     coffeescript, nodejs, webmachine, erlang
-
-   IFRAME: [37]//player.vimeo.com/video/78030876?portrait=0
-
-   IFRAME: [38]//www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0
-
-   IFRAME: [39]//www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0
-
-2012 - 2021 HyperREST Father
-
-     A Github organization covering a set of blog posts and software
-     focused on how-to envision-spec-mock-consume-serve a REST/hypermedia
-     API. The organization's code is now managed by [40]Y Software AB.
-
-     REST, API, HTTP, hypermedia, client, server, coffeescript, nodejs
-
-2009 - 2010 Snowdrop Father
-
-     Snowdrop is an academic Information System that merges information
-     from various course management systems in order to provide quick
-     access to vital student information, like messages and schedule.
-
-     squace, browser, php, xml, mobile, data mining
-     * 2010[41]Snowdrop 2.0
-     * 2009 [42]Snowdrop 1.0 (Codename Klover)
-
-2009 - 2009 [43]Promote Knowledge Management Concept
-
-     A series of videos playing with audio, video and concepts in order
-     to highlight a knowledge management course.
-
-   IFRAME: [44]//player.vimeo.com/video/45768175?portrait=0
-
-   IFRAME: [45]//player.vimeo.com/video/45768176?portrait=0
-
-   IFRAME: [46]//player.vimeo.com/video/45768258?portrait=0
-
-2008 - 2009 Induction to Kista IT University - KTH & SU Facilitator
-
-     knowledge management, wiki, facebook
-
-2008 - 2009 Support Community for studera.nu Facilitator
-
-     knowledge management, wiki, facebook
-
 education
 
-2008 - 2010 [47]Royal Institute of Technology, Stockholm, SWE M.Sc.
+2008 - 2010 [33]Royal Institute of Technology, Stockholm, SWE M.Sc.
 
      Engineering and Management of Information Systems.
 
      Data Warehousing, Web mining, Logic Programming, Knowledge
      Management, ERP Systems, Requirements Engineering, etc.
 
-2007 - 2007 [48]University of Humanities and Economics, Lodz, POL Erasmus
+2007 - 2007 [34]University of Humanities and Economics, Lodz, POL Erasmus
 
      Corporate Finance Management, H.R. Management, Social Role of Media,
      Public Discourses, Conflicts and International Negotiations
 
-2004 - 2008 [49]Romanian-American University, Bucharest, ROU B.Sc.
+2004 - 2008 [35]Romanian-American University, Bucharest, ROU B.Sc.
 
      Computer Science for Business Management. Graduated with the highest
      GPA in the programme.
@@ -303,66 +238,6 @@ education
      Database, Programming, Web programming, Networking, IT System
      Design, Expert Systems, Strategic Management, Probability Calculus,
      Numerical Methods, Statistics, Accounting, Finances, etc.
-
-papers
-
-2010 [50]Course Analytics Master Thesis
-
-     Leveraging course assessment through data mining of student
-     satisfaction
-
-     academic quality, academic evaluation, service satisfaction,
-     educational data mining, importance-performance analysis, teaching
-     eﬀectiveness, php, squace, xml
-
-2009 [51]Split Infinitives in Prolog [52](copy)
-
-     Published in Journal of Information Systems & Operations Management
-
-     split infinitives, logic programming, prolog
-
-2009 [53]Alignment of Business and IS/IT Strategy at Telenor Sweden
-[54](copy)
-
-     Published in Journal of Information Systems & Operations Management
-
-     strategic alignment, IS/IT strategy, business strategy,
-     organizational strategy, case study, Telenor
-
-2009 [55]Science is a runner. Philosophy?
-
-     philosophy, science, essay
-
-2009 [56]Towards Enhanced E-collaboration in Academia [57](copy)
-
-     Published in Journal of Information Systems & Operations Management
-
-     e-collaboration, academia, requirements, boundaries, holistic
-
-2008 [58]Web 2.0 Application for Medical Clinique Management Honors Thesis
-
-miscellaneous
-
-2001 - 2007 . Delegate, Speaker
-
-     international citizenship, sustainability, youth engagement
-     * 2007 UNESCO ASPnet Conference, Amman, JOR
-     * 2007 Life-Link Friendship-Schools Conference, Sigtuna, SWE
-     * 2007 UNESCO ASPnet Training Workshop, Amman, JOR
-     * 2006 Global Education Week preparatory meeting, Sinaia, ROU
-     * 2003 International Peace Bureau’s Conference, Athens, GRC
-     * 2003 Island M.U.N.G.A., Isle of Wight, GBR
-     * 2002 Peace Festival, Cluj-Napoca, ROU
-     * 2002 BratMUN, Bratislava, SVK
-     * 2001 Life-Link Friendship-Schools Conference, Sigtuna, SWE
-
-2002 - 2006 . Group Leader
-
-     event planning, youth engagement
-     * 2006 Where do I belong to II, Norfolk, GBR
-     * 2005 Where do I belong to, Brno, CZE
-     * 2003 Island M.U.N.G.A., Isle of Wight, GBR
-     * 2002 Island M.U.N.G.A., Isle of Wight, GBR
 
 References
 
@@ -398,29 +273,6 @@ References
   30. https://klarna.com/
   31. https://www.klarna.com/se/foretag/products/checkout/
   32. http://blog.andreineculau.com/2011/01/an-developers-review-on-webligos-socialengine/
-  33. https://github.com/ysoftwareab
-  34. https://vimeo.com/78030876
-  35. https://github.com/for-GET
-  36. https://github.com/ysoftwareab
-  37. https://player.vimeo.com/video/78030876?portrait=0
-  38. https://www.youtube-nocookie.com/embed/9Qnx1h5cQxo?rel=0
-  39. https://www.youtube-nocookie.com/embed/Nh6VeuvVRdQ?rel=0
-  40. https://github.com/ysoftwareab
-  41. https://www.youtube.com/watch?v=DiGBvFx9ePY&list=PLm2MmlTdwWv2631fRJgHc7JPB4ju_rvyc
-  42. https://www.youtube.com/watch?v=oqe5WCO_Ydw
-  43. https://vimeo.com/couchmode/album/2007694/sort:preset/45768175
-  44. https://player.vimeo.com/video/45768175?portrait=0
-  45. https://player.vimeo.com/video/45768176?portrait=0
-  46. https://player.vimeo.com/video/45768258?portrait=0
-  47. https://www.kth.se/en
-  48. https://www.ahe.lodz.pl/en
-  49. https://www.rau.ro/index.php?newlang=english
-  50. https://github.com/andreineculau/cv/raw/gh-pages/papers/master_thesis.pdf
-  51. https://www.rebe.rau.ro/RePEc/rau/jisomg/WI09/JISOM-WI09-A5.pdf
-  52. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-WI09-A5.pdf
-  53. https://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A1.pdf
-  54. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A1.pdf
-  55. https://github.com/andreineculau/cv/raw/gh-pages/papers/Science-is-a-runner-Philosophy.pdf
-  56. https://www.rebe.rau.ro/RePEc/rau/jisomg/SU09/JISOM-SU09-A4.pdf
-  57. https://github.com/andreineculau/cv/raw/gh-pages/papers/JISOM-SU09-A4.pdf
-  58. https://github.com/andreineculau/cv/raw/gh-pages/papers/bachelor_thesis.pdf
+  33. https://www.kth.se/en
+  34. https://www.ahe.lodz.pl/en
+  35. https://www.rau.ro/index.php?newlang=english
