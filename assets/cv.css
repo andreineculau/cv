@@ -269,6 +269,7 @@ li {
   /* Company */
   #experience-wrapper > h4 > code:first-child + strong {
     font-size:0.8rem;
+    clear:both;
   }
 
   /* Role */
