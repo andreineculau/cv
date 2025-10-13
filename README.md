@@ -79,6 +79,18 @@
 
 <!-- split -->
 
+#### `` **about** ``
+> Senior Software Professional | 20+ Years of Experience <br>
+> <br>
+> I am a seasoned software professional with a deep understanding of various technical domains and business sectors. My career spans influential roles at industry leaders like Klarna, Cisco, and Tobii, where I have demonstrated strategic leadership in achieving organizational goals.<br>
+> <br>
+> * Product-Driven Problem Solving: Passionate about tackling complex challenges guided by clear product goals.<br>
+> * Empowering Teams: Committed to helping team members become the best versions of themselves through openness, trust, purpose, and alignment.<br>
+> * Strategic Vision: Leveraging a blend of technical expertise and business acumen to drive innovation and operational excellence.<br>
+> <br>
+> "A job well done gives inner satisfaction and is the foundation upon which society rests."<br>
+> sv. "Ett väl utfört arbete ger en inre tillfredsställelse och är den grund på vilket samhället vilar."<br>
+> - Karl-Bertil Jonssons julafton<br>
 
 #### `2022 - ____` **[Vend AB / Blocket AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://vend.com)** `Sr Engineering Manager`
 > Tech Data Platform | Vend, formerly known as Schibsted Nordic Marketplaces | Blocket is Sweden's biggest marketplace.
