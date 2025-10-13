@@ -263,17 +263,17 @@ li {
 
   /* Headline */
   #experience-wrapper > h4 {
-    font-size:0.8em;
+    font-size:0.6em;
   }
 
   /* Company */
   #experience-wrapper > h4 > code:first-child + strong {
-    font-size:0.8rem;
+    font-size:0.6rem;
   }
 
   /* Role */
   #experience-wrapper > h4 > code:first-child + strong + code {
-    font-size:0.8rem;
+    font-size:0.6rem;
     clear:both;
     float:left;
     margin-left:0;
@@ -281,15 +281,15 @@ li {
 
   /* Period */
   #experience-wrapper > h4 > code:first-child {
-    font-size:0.8rem;
+    font-size:0.6rem;
   }
 
   /* Description */
   #experience-wrapper > h4 + blockquote {
-    font-size:0.8rem;
+    font-size:0.6rem;
   }
 
   #experience-wrapper > h4 + blockquote * {
-    font-size:0.8rem;
+    font-size:0.6rem;
   }
 }
