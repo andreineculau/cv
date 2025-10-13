@@ -79,7 +79,9 @@
 
 <!-- split -->
 
-#### ` ` **20+ years building reliable, scalable, and high-impact software solutions** `Senior Engineering Leader`
+#### ` ` **About me** `Senior Engineering Leader`
+> 20+ years building reliable, scalable, and high-impact software solutions<br>
+> <br>
 > I help teams design, deliver, and operate platforms that make software delivery faster, safer, and more reliable. My experience spans companies like Klarna, Cisco, and Tobii, leading efforts across infrastructure, data, and developer platforms.<br>
 > <br>
 > I care about outcomes — clear goals, strong technical foundations, and teams that can move with confidence. I focus on reducing friction, improving developer productivity, and building systems that scale well without adding unnecessary complexity.<br>
