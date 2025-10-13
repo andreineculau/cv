@@ -111,7 +111,7 @@
 
 
 #### `2016 - 2020` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Software Engineer in AdTech (Lead)`
-> I'm the architect of and end-to-end contributor to [Tobii ATTEX (formerly Pro Pulse)](https://www.tobii.com/products/attention-exchange).<br>
+> I'm a core part of [Tobii ATTEX (formerly Pro Pulse)](https://www.tobii.com/products/attention-exchange).<br>
 > <br>
 > Pulse is a unique service that captures >5GB worth of online attention data a day,<br>
 > from >1200 people that are passively browsing the Swedish online,<br>
@@ -124,7 +124,7 @@
 
 
 #### `2016 - 2020` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Platform Engineer on AWS (Lead)`
-> Setting up the software development foundation and architecture of Tobii Pro's Cloud Services.
+> Setting up the development architecture of Tobii Pro's Cloud Services.
 
 > Tobii Pro is the research solution division within Tobii.<br>
 > We help business and science professionals gain real insights into human behavior with leading eye tracking solutions and services.
