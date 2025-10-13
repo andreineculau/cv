@@ -270,6 +270,8 @@ li {
   #experience-wrapper > h4 > code:first-child + strong {
     font-size:0.8rem;
     clear:both;
+    float:left;
+    margin-left:0;
   }
 
   /* Role */
