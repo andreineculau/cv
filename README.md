@@ -80,13 +80,13 @@
 <!-- split -->
 
 #### `` **about me** ``
-> Senior Software Professional | 20+ Years of Experience <br>
+> Senior Engineering Leader | 20+ years building reliable, scalable, and high-impact software systems<br>
 > <br>
-> I am a seasoned software professional with a deep understanding of various technical domains and business sectors. My career spans influential roles at industry leaders like Klarna, Cisco, and Tobii, where I have demonstrated strategic leadership in achieving organizational goals.<br>
+> I help teams design, deliver, and operate platforms that make software delivery faster, safer, and more reliable. My experience spans companies like Klarna, Cisco, and Tobii, leading efforts across infrastructure, data, and developer platforms.<br>
 > <br>
-> \* Product-Driven Problem Solving: Passionate about tackling complex challenges guided by clear product goals.<br>
-> \* Empowering Teams: Committed to helping team members become the best versions of themselves through openness, trust, purpose, and alignment.<br>
-> \* Strategic Vision: Leveraging a blend of technical expertise and business acumen to drive innovation and operational excellence.
+> I care about outcomes — clear goals, strong technical foundations, and teams that can move with confidence. I focus on reducing friction, improving developer productivity, and building systems that scale well without adding unnecessary complexity.<br>
+> <br>
+> <b>Focus areas</b>: engineering leadership, platform strategy, reliability, developer experience, and data-driven delivery.
 
 #### `2022 - ____` **[Vend AB / Blocket AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://vend.com)** `Sr Engineering Manager`
 > Tech Data Platform | Vend, formerly known as Schibsted Nordic Marketplaces | Blocket is Sweden's biggest marketplace.
@@ -111,7 +111,7 @@
 
 
 #### `2016 - 2020` **[Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://www.tobiipro.com)** `Software Engineer in AdTech (Lead)`
-> I'm a central part of [Tobii Pro Pulse](https://www.tobiipro.com/pulse/).<br>
+> I'm the architect of and end-to-end contributor to [Tobii ATTEX (formerly Pro Pulse)](https://www.tobii.com/products/attention-exchange).<br>
 > <br>
 > Pulse is a unique service that captures >5GB worth of online attention data a day,<br>
 > from >1200 people that are passively browsing the Swedish online,<br>
