@@ -162,7 +162,7 @@
 > Engineering [Klarna Checkout](https://www.klarna.com/se/foretag/products/checkout/) -
 > full-blown front/backend <abbrev title="Finite State Machine">FSM</abbrev> prototype, interaction and API documentation, GUI.
 
-> Engineering support tools and designing the [Klarna Checkout REST API](https://developer in FinTechs.klarna.com/documentation/klarna-checkout/) and other REST APIs.
+> Engineering support tools and designing the [Klarna Checkout REST API](https://docs.klarna.com/api/checkout/) and other backoffice REST APIs.
 
 > *rest, http, hypermedia, api, js, coffeescript, sdk, gui, ux, i18n, l10n, testing, scripting, erlang*
 
