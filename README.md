@@ -75,7 +75,7 @@
 > * [*you name it*](http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html)
 > * but more importantly,
 > * I'm [an automation geek](https://www.globalnerdy.com/2012/04/24/geeks-and-repetitive-tasks/)
-> * doing [the hard things](https://sealedabstract.com/rants/do-hard-things/)
+> * doing [the hard things](https://github.com/andreineculau/cv/blob/gh-pages/assets/do-hard-things.md)
 
 <!-- split -->
 
