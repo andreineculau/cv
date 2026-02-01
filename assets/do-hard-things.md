@@ -1,6 +1,4 @@
-[
-# **Do Hard Things**
-](https://sealedabstract.com/rants/do-hard-things/index.html)
+# [Do Hard Things](https://sealedabstract.com/rants/do-hard-things/index.html)
 
 [Drew Crawford](https://sealedabstract.com/author/admin/index.html)
 
