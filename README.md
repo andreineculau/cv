@@ -88,6 +88,10 @@
 > <br>
 > <strong>Focus areas</strong>: engineering leadership, platform strategy, reliability, developer experience, and data-driven delivery.
 
+#### `2026 - ____` **[Codento AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://codento.com)** `Lead Cloud Architect
+> Google Leads in AI. We Lead in Google Cloud.
+
+
 #### `2022 - 2026` **[Vend AB / Blocket AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://vend.com)** `Sr Engineering Manager`
 > Tech Data Platform | Vend, formerly known as Schibsted Nordic Marketplaces | Blocket is Sweden's biggest marketplace.
 
