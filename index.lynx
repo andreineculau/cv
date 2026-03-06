@@ -87,7 +87,7 @@ programming
      Focus areas: engineering leadership, platform strategy, reliability,
      developer experience, and data-driven delivery.
 
-2022 - ____ [18]Vend AB / Blocket AB, Stockholm, SWE Sr Engineering Manager
+2022 - 2026 [18]Vend AB / Blocket AB, Stockholm, SWE Sr Engineering Manager
 
      Tech Data Platform | Vend, formerly known as Schibsted Nordic
      Marketplaces | Blocket is Sweden's biggest marketplace.
@@ -188,17 +188,15 @@ Networking
      Engineering [32]Klarna Checkout - full-blown front/backend FSM
      prototype, interaction and API documentation, GUI.
 
-     Engineering support tools and designing the [Klarna Checkout REST
-     API](https://developer in
-     FinTechs.klarna.com/documentation/klarna-checkout/) and other REST
-     APIs.
+     Engineering support tools and designing the [33]Klarna Checkout REST
+     API and other backoffice REST APIs.
 
      rest, http, hypermedia, api, js, coffeescript, sdk, gui, ux, i18n,
      l10n, testing, scripting, erlang
 
 2010 - 2011 Media & News Stockholm AB, Stockholm, SWE System Developer
 
-     Engineering a customized social network on top of [33]SocialEngine.
+     Engineering a customized social network on top of [34]SocialEngine.
 
      php, mysql, css, js, mootools, jquery, zend framework, socialengine
 
@@ -218,19 +216,19 @@ Developer
 
 education
 
-2008 - 2010 [34]Royal Institute of Technology, Stockholm, SWE M.Sc.
+2008 - 2010 [35]Royal Institute of Technology, Stockholm, SWE M.Sc.
 
      Engineering and Management of Information Systems.
 
      Data Warehousing, Web mining, Logic Programming, Knowledge
      Management, ERP Systems, Requirements Engineering, etc.
 
-2007 - 2007 [35]University of Humanities and Economics, Lodz, POL Erasmus
+2007 - 2007 [36]University of Humanities and Economics, Lodz, POL Erasmus
 
      Corporate Finance Management, H.R. Management, Social Role of Media,
      Public Discourses, Conflicts and International Negotiations
 
-2004 - 2008 [36]Romanian-American University, Bucharest, ROU B.Sc.
+2004 - 2008 [37]Romanian-American University, Bucharest, ROU B.Sc.
 
      Computer Science for Business Management. Graduated with the highest
      GPA in the programme.
@@ -273,7 +271,8 @@ References
   30. http://life-link.org/
   31. https://klarna.com/
   32. https://www.klarna.com/se/foretag/products/checkout/
-  33. http://blog.andreineculau.com/2011/01/an-developers-review-on-webligos-socialengine/
-  34. https://www.kth.se/en
-  35. https://www.ahe.lodz.pl/en
-  36. https://www.rau.ro/index.php?newlang=english
+  33. https://docs.klarna.com/api/checkout/
+  34. http://blog.andreineculau.com/2011/01/an-developers-review-on-webligos-socialengine/
+  35. https://www.kth.se/en
+  36. https://www.ahe.lodz.pl/en
+  37. https://www.rau.ro/index.php?newlang=english
