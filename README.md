@@ -91,6 +91,13 @@
 #### `2026 - ____` **[Codento AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://codento.com)** `Lead Cloud Architect`
 > Google Leads in AI. We Lead in Google Cloud.
 
+> Advisory and delivery on Google Cloud - data platforms, applied AI (Gemini, Gemini Enterprise), and cloud-native architectures (serverless, event-driven) with infrastructure as code (Terraform) and security by design (IAM, GDPR). Supporting the sales organization and the Google partnership.<br>
+> <br>
+> Internally: recruiting, spreading knowledge, and shaping how we work - lately much of it exploring AI tools, models, plugins, and skills.<br>
+> And the people side: servant leadership, humble discussions, and nudging the 3 Nordic countries closer together through small interactions rather than big events.
+
+> *gcp, gemini, gemini enterprise, cloud architecture, serverless, event-driven, data platforms, platform engineering, prompt engineering, advisory*
+
 
 #### `2022 - 2026` **[Vend AB / Blocket AB, Stockholm, <accronym title="Sweden">SWE</accronym>](https://vend.com)** `Sr Engineering Manager`
 > Tech Data Platform | Vend, formerly known as Schibsted Nordic Marketplaces | Blocket is Sweden's biggest marketplace.
