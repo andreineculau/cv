@@ -89,7 +89,7 @@ regenerate index.html and index.lynx with: make build -->
 
 <!-- split -->
 
-## [about me](http://linkedin.andreineculau.com)
+### **[about me](http://linkedin.andreineculau.com)**
 > Senior Engineering Leader | 20+ years building reliable, scalable, and high-impact software systems<br>
 > <br>
 > I help teams design, deliver, and operate platforms that make software delivery faster, safer, and more reliable. My experience spans companies like Codento, Klarna, Cisco, Tobii and Schibsted/Vend, leading efforts across infrastructure, data, and developer platforms.<br>
@@ -97,8 +97,6 @@ regenerate index.html and index.lynx with: make build -->
 > I care about outcomes — clear goals, strong technical foundations, and teams that can move with confidence. I focus on reducing friction, improving developer productivity, and building systems that scale well without adding unnecessary complexity.<br>
 > <br>
 > <strong>Focus areas</strong>: engineering leadership, platform strategy, reliability, developer experience, and data-driven delivery.
-
-## experience
 
 ### `2026 - ____` **[Codento AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://codento.com)** `Lead Cloud Architect`
 > Google Leads in AI. We Lead in Google Cloud.

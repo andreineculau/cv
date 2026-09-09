@@ -134,15 +134,6 @@ li {
   line-height:1.25;
 }
 
-#experience-wrapper > h2 + blockquote {
-  clear:both;
-}
-
-#experience-wrapper > h2 + blockquote * {
-  font-weight:300;
-  line-height:1.25;
-}
-
 /* Company (sub) */
 #experience-wrapper > h3 + blockquote > ul {
 }
@@ -214,10 +205,6 @@ li {
 
   /* Description */
   #experience-wrapper > h3 + blockquote {
-    font-size:0.7rem;
-  }
-
-  #experience-wrapper > h2 + blockquote {
     font-size:0.7rem;
   }
 }
@@ -300,14 +287,6 @@ li {
   }
 
   #experience-wrapper > h3 + blockquote * {
-    font-size:0.6rem;
-  }
-
-  #experience-wrapper > h2 + blockquote {
-    font-size:0.6rem;
-  }
-
-  #experience-wrapper > h2 + blockquote * {
     font-size:0.6rem;
   }
 }
