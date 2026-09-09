@@ -103,8 +103,8 @@ regenerate index.html and index.lynx with: make build -->
 
 > Advisory and delivery on Google Cloud - data platforms, applied AI (Gemini, Gemini Enterprise), and cloud-native architectures (serverless, event-driven) with infrastructure as code (Terraform) and security by design (IAM, GDPR). Supporting the sales organization and the Google partnership.<br>
 > <br>
-> Internally: recruiting, spreading knowledge, and shaping how we work - lately much of it exploring AI tools, models, plugins, and skills.<br>
-> And the people side: servant leadership, humble discussions, and nudging the 3 Nordic countries closer together through small interactions rather than big events.
+> Internally: recruiting, sharing knowledge, and shaping practices and structure - with a growing focus on AI tools, models, plugins, and skills.<br>
+> And the human side: servant leadership, humble discussions, and quietly weaving our 3 Nordic offices closer together, day by day.
 
 > *gcp, gemini, gemini enterprise, cloud architecture, serverless, event-driven, data platforms, platform engineering, prompt engineering, advisory*
 
