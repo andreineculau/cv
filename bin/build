@@ -2,7 +2,9 @@
 set -euo pipefail
 set -x
 
-npm install
+if [ ! -x node_modules/.bin/showdown ]; then
+    npm install
+fi
 csplit --suppress-matched --prefix _README --suffix '%01d.md'  README.md '/<!-- split -->/' '{*}'
 for f in _README*.md; do
   ./node_modules/.bin/showdown makehtml -o $(basename ${f} .md).html -i ${f} --gfm

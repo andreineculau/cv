@@ -7,23 +7,20 @@ body {
 }
 
 a,
-abbrev,
-accronym,
+abbr,
 span.more {
   text-decoration:none;
   border-bottom:.1em dotted;
 }
 
 a:hover,
-abbrev:hover,
-accronym:hover,
+abbr:hover,
 span.more:hover {
   text-decoration:none;
   border-bottom:.1em solid;
 }
 
-abbrev:hover,
-accronym:hover,
+abbr:hover,
 span.more:hover {
   cursor:help;
 }
@@ -88,7 +85,7 @@ li {
 /* --------------------------------------------------------------------------- */
 
 /* Section */
-#experience-wrapper > h1 {
+#experience-wrapper > h2 {
   font-size:2.5rem;
   font-weight:100;
   letter-spacing:-0.05rem;
@@ -97,7 +94,7 @@ li {
 }
 
 /* Headline */
-#experience-wrapper > h4 {
+#experience-wrapper > h3 {
   clear:both;
   font-size:1rem;
   margin:0;
@@ -105,12 +102,12 @@ li {
 }
 
 /* Company */
-#experience-wrapper > h4 > code:first-child + strong {
+#experience-wrapper > h3 > code:first-child + strong {
   font-size:1rem;
 }
 
 /* Role */
-#experience-wrapper > h4 > code:first-child + strong + code {
+#experience-wrapper > h3 > code:first-child + strong + code {
   float:right;
   font-size:1rem;
   font-weight:300;
@@ -119,7 +116,7 @@ li {
 }
 
 /* Period */
-#experience-wrapper > h4 > code:first-child {
+#experience-wrapper > h3 > code:first-child {
   float:right;
   font-size:1rem;
   font-weight:300;
@@ -128,26 +125,35 @@ li {
 }
 
 /* Description */
-#experience-wrapper > h4 + blockquote {
+#experience-wrapper > h3 + blockquote {
   clear:both;
 }
 
-#experience-wrapper > h4 + blockquote * {
+#experience-wrapper > h3 + blockquote * {
+  font-weight:300;
+  line-height:1.25;
+}
+
+#experience-wrapper > h2 + blockquote {
+  clear:both;
+}
+
+#experience-wrapper > h2 + blockquote * {
   font-weight:300;
   line-height:1.25;
 }
 
 /* Company (sub) */
-#experience-wrapper > h4 + blockquote > ul {
+#experience-wrapper > h3 + blockquote > ul {
 }
 
-#experience-wrapper > h4 + blockquote > ul > li {
+#experience-wrapper > h3 + blockquote > ul > li {
   white-space:nowrap;
   overflow:hidden;
 }
 
 /* Period (sub) */
-#experience-wrapper > h4 + blockquote > ul > li > code:first-child {
+#experience-wrapper > h3 + blockquote > ul > li > code:first-child {
   float:right;
   z-index:2;
   position:relative;
@@ -189,25 +195,29 @@ li {
   }
 
   /* Company */
-  #experience-wrapper > h4 > code:first-child + strong {
+  #experience-wrapper > h3 > code:first-child + strong {
     font-size:0.8rem;
   }
 
   /* Period */
-  #experience-wrapper > h4 > code:first-child {
+  #experience-wrapper > h3 > code:first-child {
     font-size:0.8rem;
     margin-top:0.2rem;
   }
 
   /* Role */
-  #experience-wrapper > h4 > code:first-child + strong + code {
+  #experience-wrapper > h3 > code:first-child + strong + code {
     clear:right;
     font-size:0.8rem;
     margin-top:0.2rem;
   }
 
   /* Description */
-  #experience-wrapper > h4 + blockquote {
+  #experience-wrapper > h3 + blockquote {
+    font-size:0.7rem;
+  }
+
+  #experience-wrapper > h2 + blockquote {
     font-size:0.7rem;
   }
 }
@@ -257,22 +267,22 @@ li {
   }
 
   /* Section */
-  #experience-wrapper > h1 {
+  #experience-wrapper > h2 {
     margin:0;
   }
 
   /* Headline */
-  #experience-wrapper > h4 {
+  #experience-wrapper > h3 {
     font-size:0.6em;
   }
 
   /* Company */
-  #experience-wrapper > h4 > code:first-child + strong {
+  #experience-wrapper > h3 > code:first-child + strong {
     font-size:0.6rem;
   }
 
   /* Role */
-  #experience-wrapper > h4 > code:first-child + strong + code {
+  #experience-wrapper > h3 > code:first-child + strong + code {
     font-size:0.6rem;
     clear:both;
     float:left;
@@ -280,16 +290,24 @@ li {
   }
 
   /* Period */
-  #experience-wrapper > h4 > code:first-child {
+  #experience-wrapper > h3 > code:first-child {
     font-size:0.6rem;
   }
 
   /* Description */
-  #experience-wrapper > h4 + blockquote {
+  #experience-wrapper > h3 + blockquote {
     font-size:0.6rem;
   }
 
-  #experience-wrapper > h4 + blockquote * {
+  #experience-wrapper > h3 + blockquote * {
+    font-size:0.6rem;
+  }
+
+  #experience-wrapper > h2 + blockquote {
+    font-size:0.6rem;
+  }
+
+  #experience-wrapper > h2 + blockquote * {
     font-size:0.6rem;
   }
 }

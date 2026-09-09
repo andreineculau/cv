@@ -8,12 +8,35 @@
     <title>andrei neculau cv</title>
     <meta name="viewport"
       content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=0, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="CV of Andrei Neculau, Lead Cloud Architect at Codento,
+      Stockholm. Engineering leadership, Google Cloud, data platforms, and applied AI.">
 
     <link href="assets/bootstrap.min.css" rel="stylesheet">
     <!-- <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.0.2/css/font-awesome.min.css" rel="stylesheet"> -->
     <link href="assets/cv.css" rel="stylesheet">
-    <base href="https://andreineculau.github.io/cv/">
+    <base href="https://andreineculau.com/">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Andrei Neculau",
+      "jobTitle": "Lead Cloud Architect",
+      "worksFor": {"@type": "Organization", "name": "Codento"},
+      "url": "https://andreineculau.com",
+      "email": "mailto:andrei.neculau@gmail.com",
+      "telephone": "+46 763 400 378",
+      "address": {"@type": "PostalAddress", "addressLocality": "Saltsjöbaden", "addressCountry": "SE"},
+      "alumniOf": [
+        {"@type": "CollegeOrUniversity", "name": "KTH Royal Institute of Technology"},
+        {"@type": "CollegeOrUniversity", "name": "Romanian-American University"}
+      ],
+      "sameAs": [
+        "https://github.com/andreineculau",
+        "https://www.linkedin.com/in/andreineculau"
+      ],
+      "knowsLanguage": ["en", "sv", "ro"]
+    }
+    </script>
   </head>
 
   <body>
@@ -31,6 +54,14 @@
           <div class="container">
             <div class="row">
               <div class="col-6 col-sm-12">
+<!-- README.md is the single source of this cv.
+bin/build splits it on the html comment marker that mentions "split"
+into 3 parts:
+part 0 = sidebar, upper (about / personality / languages)
+part 1 = sidebar, lower (programming) + main column (about me / experience)
+part 2 = main column, continued (education)
+layout wrappers live in _header*.html and _footer.html.
+regenerate index.html and index.lynx with: make build -->
 <blockquote>
   <p><a href="javascript:window.print()" class="d-print-none d-none d-sm-inline">print/PDF my CV</a></p>
   <p><a href="javascript:window.alert('npx -y andreineculau')" class="d-print-none d-none d-sm-inline">CLI my CV</a></p>
@@ -93,6 +124,7 @@
   <li>Snowflake</li>
   <li>CI/CD</li>
   <li>Terraform</li>
+  <li>applied AI (Gemini &amp; co.)</li>
   <li><a href="https://github.com/ysoftwareab">Y Software AB</a></li>
   <li>…</li>
   <li><a href="http://highscalability.com/blog/2013/1/16/what-if-cars-were-rented-like-we-hire-programmers.html"><em>you name it</em></a></li>
@@ -105,17 +137,18 @@
 </div> <!-- container -->
 </div> <!-- col -->
 <div id="experience-wrapper" class="col-12 col-sm-8">
-<h4 id="aboutmehttplinkedinandreineculaucom"><code></code> <strong><a href="http://linkedin.andreineculau.com">About me</a></strong> <code></code></h4>
+<h2 id="aboutmehttplinkedinandreineculaucom"><a href="http://linkedin.andreineculau.com">about me</a></h2>
 <blockquote>
   <p>Senior Engineering Leader | 20+ years building reliable, scalable, and high-impact software systems<br>
   <br>
-  I help teams design, deliver, and operate platforms that make software delivery faster, safer, and more reliable. My experience spans companies like Klarna, Cisco, Tobii and Schibsted/Vend, leading efforts across infrastructure, data, and developer platforms.<br>
+  I help teams design, deliver, and operate platforms that make software delivery faster, safer, and more reliable. My experience spans companies like Codento, Klarna, Cisco, Tobii and Schibsted/Vend, leading efforts across infrastructure, data, and developer platforms.<br>
   <br>
   I care about outcomes — clear goals, strong technical foundations, and teams that can move with confidence. I focus on reducing friction, improving developer productivity, and building systems that scale well without adding unnecessary complexity.<br>
   <br>
   <strong>Focus areas</strong>: engineering leadership, platform strategy, reliability, developer experience, and data-driven delivery.</p>
 </blockquote>
-<h4 id="2026____codentoabstockholmaccronymtitleswedensweaccronymhttpscodentocomleadcloudarchitect"><code>2026 - ____</code> <strong><a href="https://codento.com">Codento AB, Stockholm, <accronym title="Sweden">SWE</accronym></a></strong> <code>Lead Cloud Architect</code></h4>
+<h2 id="experience">experience</h2>
+<h3 id="2026____codentoabstockholmabbrtitleswedensweabbrhttpscodentocomleadcloudarchitect"><code>2026 - ____</code> <strong><a href="https://codento.com">Codento AB, Stockholm, <abbr title="Sweden">SWE</abbr></a></strong> <code>Lead Cloud Architect</code></h3>
 <blockquote>
   <p>Google Leads in AI. We Lead in Google Cloud.</p>
   <p>Advisory and delivery on Google Cloud - data platforms, applied AI (Gemini, Gemini Enterprise), and cloud-native architectures (serverless, event-driven) with infrastructure as code (Terraform) and security by design (IAM, GDPR). Supporting the sales organization and the Google partnership.<br>
@@ -124,27 +157,27 @@
   And the people side: servant leadership, humble discussions, and nudging the 3 Nordic countries closer together through small interactions rather than big events.</p>
   <p><em>gcp, gemini, gemini enterprise, cloud architecture, serverless, event-driven, data platforms, platform engineering, prompt engineering, advisory</em></p>
 </blockquote>
-<h4 id="20222026vendabblocketabstockholmaccronymtitleswedensweaccronymhttpsvendcomsrengineeringmanager"><code>2022 - 2026</code> <strong><a href="https://vend.com">Vend AB / Blocket AB, Stockholm, <accronym title="Sweden">SWE</accronym></a></strong> <code>Sr Engineering Manager</code></h4>
+<h3 id="20222026vendabblocketabstockholmabbrtitleswedensweabbrhttpsvendcomsrengineeringmanager"><code>2022 - 2026</code> <strong><a href="https://vend.com">Vend AB / Blocket AB, Stockholm, <abbr title="Sweden">SWE</abbr></a></strong> <code>Sr Engineering Manager</code></h3>
 <blockquote>
   <p>Tech Data Platform | Vend, formerly known as Schibsted Nordic Marketplaces | Blocket is Sweden's biggest marketplace.</p>
   <p>Senior Software Engineering Manager (unofficially also Technical Product Manager) with technical acumen and active contributions for data mesh teams platformizing at scale data related process such as ingestion, transformation, compliance and visualization in cloud providers such as Snowflake, AWS, GCP and Confluent Kafka using tools such as GitHub Actions, Docker, Terraform, dbt, evidence. "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime."<br>
   <br>
   Vend is a new organization bringing together all marketplaces in Denmark, Finland, Norway and Sweden and brands like Blocket, DBA, Finn, Oikotie and Tori to name a few.</p>
-  <p>Skills: People Management · Servant Leadership · Data Engineering · Change Management · Engineering Management · Product Management</p>
+  <p><em>people management, servant leadership, data engineering, change management, engineering management, product management</em></p>
 </blockquote>
-<h4 id="20212023ysoftwareabsaltsjbadenaccronymtitleswedensweaccronymhttpysoftwaresefounder"><code>2021 - 2023</code> <strong><a href="http://ysoftware.se">Y Software AB, Saltsjöbaden, <accronym title="Sweden">SWE</accronym></a></strong> <code>Founder</code></h4>
+<h3 id="20212023ysoftwareabsaltsjbadenabbrtitleswedensweabbrhttpysoftwaresefounder"><code>2021 - 2023</code> <strong><a href="http://ysoftware.se">Y Software AB, Saltsjöbaden, <abbr title="Sweden">SWE</abbr></a></strong> <code>Founder</code></h3>
 <blockquote>
   <p>Consultant. Self-employed</p>
 </blockquote>
-<h4 id="20202021tobiiproabstockholmaccronymtitleswedensweaccronymhttpswwwtobiiprocomseniorsoftwareengineer"><code>2020 - 2021</code> <strong><a href="https://www.tobiipro.com">Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym></a></strong> <code>Senior Software Engineer</code></h4>
+<h3 id="20202021tobiiproabstockholmabbrtitleswedensweabbrhttpswwwtobiiprocomseniorsoftwareengineer"><code>2020 - 2021</code> <strong><a href="https://www.tobiipro.com">Tobii Pro AB, Stockholm, <abbr title="Sweden">SWE</abbr></a></strong> <code>Senior Software Engineer</code></h3>
 <blockquote>
   <p>Consultant</p>
 </blockquote>
-<h4 id="20202020normativemetamindabstockholmaccronymtitleswedensweaccronymhttpswwwnormativeioleadbackendengineer"><code>2020 - 2020</code> <strong><a href="https://www.normative.io">Normative/Meta Mind AB, Stockholm, <accronym title="Sweden">SWE</accronym></a></strong> <code>Lead Backend Engineer</code></h4>
+<h3 id="2020normativemetamindabstockholmabbrtitleswedensweabbrhttpswwwnormativeioleadbackendengineer"><code>2020</code> <strong><a href="https://www.normative.io">Normative/Meta Mind AB, Stockholm, <abbr title="Sweden">SWE</abbr></a></strong> <code>Lead Backend Engineer</code></h3>
 <blockquote>
   <p>Normative is about "Sustainability Reporting Made Really Easy".</p>
 </blockquote>
-<h4 id="20162020tobiiproabstockholmaccronymtitleswedensweaccronymhttpswwwtobiiprocomsoftwareengineerinadtechlead"><code>2016 - 2020</code> <strong><a href="https://www.tobiipro.com">Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym></a></strong> <code>Software Engineer in AdTech (Lead)</code></h4>
+<h3 id="20162020tobiiproabstockholmabbrtitleswedensweabbrhttpswwwtobiiprocomsoftwareengineerinadtechlead"><code>2016 - 2020</code> <strong><a href="https://www.tobiipro.com">Tobii Pro AB, Stockholm, <abbr title="Sweden">SWE</abbr></a></strong> <code>Software Engineer in AdTech (Lead)</code></h3>
 <blockquote>
   <p>I'm a core part of <a href="https://www.tobii.com/products/attention-exchange">Tobii ATTEX (formerly Pro Pulse)</a>.<br>
   <br>
@@ -155,14 +188,14 @@
   We help business and science professionals gain real insights into human behavior with leading eye tracking solutions and services.</p>
   <p><em>aws, gitops, devops, infrastructure as code, http, node.js, es6/typescript, travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang</em></p>
 </blockquote>
-<h4 id="20162020tobiiproabstockholmaccronymtitleswedensweaccronymhttpswwwtobiiprocomplatformengineeronawslead"><code>2016 - 2020</code> <strong><a href="https://www.tobiipro.com">Tobii Pro AB, Stockholm, <accronym title="Sweden">SWE</accronym></a></strong> <code>Platform Engineer on AWS (Lead)</code></h4>
+<h3 id="20162020tobiiproabstockholmabbrtitleswedensweabbrhttpswwwtobiiprocomplatformengineeronawslead"><code>2016 - 2020</code> <strong><a href="https://www.tobiipro.com">Tobii Pro AB, Stockholm, <abbr title="Sweden">SWE</abbr></a></strong> <code>Platform Engineer on AWS (Lead)</code></h3>
 <blockquote>
   <p>Setting up the development architecture of Tobii Pro's Cloud Services.</p>
   <p>Tobii Pro is the research solution division within Tobii.<br>
   We help business and science professionals gain real insights into human behavior with leading eye tracking solutions and services.</p>
   <p><em>aws, gitops, devops, infrastructure as code, http, node.js, es6/typescript, travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang</em></p>
 </blockquote>
-<h4 id="20142016ciscosystemsabstockholmaccronymtitleswedensweaccronymhttpswwwciscocomsoftwareengineerinnetworking"><code>2014 - 2016</code> <strong><a href="https://www.cisco.com">Cisco Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym></a></strong> <code>Software Engineer in Networking</code></h4>
+<h3 id="20142016ciscosystemsabstockholmabbrtitleswedensweabbrhttpswwwciscocomsoftwareengineerinnetworking"><code>2014 - 2016</code> <strong><a href="https://www.cisco.com">Cisco Systems AB, Stockholm, <abbr title="Sweden">SWE</abbr></a></strong> <code>Software Engineer in Networking</code></h3>
 <blockquote>
   <p>Switched focus to backend and infrastructure duties, like:<br>
   - Erlang-based JSON-RPC API design and implementation<br>
@@ -174,53 +207,53 @@
   Cisco acquired Tail-f in 2014 - <a href="https://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems">read more</a>.</p>
   <p><em>erlang, yaws, http, json-rpc, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform…</em></p>
 </blockquote>
-<h4 id="20132016tailfsystemsabstockholmaccronymtitleswedensweaccronymhttpstailfcomuideveloper"><code>2013 - 2016</code> <strong><a href="https://tail-f.com">Tail-f Systems AB, Stockholm, <accronym title="Sweden">SWE</accronym></a></strong> <code>UI Developer</code></h4>
+<h3 id="20132016tailfsystemsabstockholmabbrtitleswedensweabbrhttpstailfcomuideveloper"><code>2013 - 2016</code> <strong><a href="https://tail-f.com">Tail-f Systems AB, Stockholm, <abbr title="Sweden">SWE</abbr></a></strong> <code>UI Developer</code></h3>
 <blockquote>
   <p>Engineering <a href="https://www.tail-f.com/network-control-system/">Tail-f NCS</a> with a mix of frontend/backend duties.</p>
   <p><em>sencha/extjs, coffeescript, node.js, erlang, http, json-rpc, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform…</em></p>
 </blockquote>
-<h4 id="20012014lifelinkfriendshipschoolsuppsalaaccronymtitleswedensweaccronymhttplifelinkorgithandyman"><code>2001 - 2014</code> <strong><a href="http://life-link.org">Life-Link Friendship-Schools, Uppsala, <accronym title="Sweden">SWE</accronym></a></strong> <code>IT handyman</code></h4>
+<h3 id="20012014lifelinkfriendshipschoolsuppsalaabbrtitleswedensweabbrhttplifelinkorgithandyman"><code>2001 - 2014</code> <strong><a href="http://life-link.org">Life-Link Friendship-Schools, Uppsala, <abbr title="Sweden">SWE</abbr></a></strong> <code>IT handyman</code></h3>
 <blockquote>
   <p>Front- and backoffice duties. Designing and engineering 3 major websites.</p>
   <p><em>php, asp, perl, css, js, sencha, photoshop, cms</em></p>
 </blockquote>
-<h4 id="20112013klarnaabstockholmaccronymtitleswedensweaccronymhttpsklarnacomdeveloperinfintech"><code>2011 - 2013</code> <strong><a href="https://klarna.com">Klarna AB, Stockholm, <accronym title="Sweden">SWE</accronym></a></strong> <code>Developer in FinTech</code></h4>
+<h3 id="20112013klarnaabstockholmabbrtitleswedensweabbrhttpsklarnacomdeveloperinfintech"><code>2011 - 2013</code> <strong><a href="https://klarna.com">Klarna AB, Stockholm, <abbr title="Sweden">SWE</abbr></a></strong> <code>Developer in FinTech</code></h3>
 <blockquote>
   <p>Engineering <a href="https://www.klarna.com/se/foretag/products/checkout/">Klarna Checkout</a> -
-  full-blown front/backend <abbrev title="Finite State Machine">FSM</abbrev> prototype, interaction and API documentation, GUI.</p>
+  full-blown front/backend <abbr title="Finite State Machine">FSM</abbr> prototype, interaction and API documentation, GUI.</p>
   <p>Engineering support tools and designing the <a href="https://docs.klarna.com/api/checkout/">Klarna Checkout REST API</a> and other backoffice REST APIs.</p>
   <p><em>rest, http, hypermedia, api, js, coffeescript, sdk, gui, ux, i18n, l10n, testing, scripting, erlang</em></p>
 </blockquote>
-<h4 id="20102011medianewsstockholmabstockholmaccronymtitleswedensweaccronymsystemdeveloper"><code>2010 - 2011</code> <strong>Media & News Stockholm AB, Stockholm, <accronym title="Sweden">SWE</accronym></strong> <code>System Developer</code></h4>
+<h3 id="20102011medianewsstockholmabstockholmabbrtitleswedensweabbrsystemdeveloper"><code>2010 - 2011</code> <strong>Media & News Stockholm AB, Stockholm, <abbr title="Sweden">SWE</abbr></strong> <code>System Developer</code></h3>
 <blockquote>
   <p>Engineering a customized social network on top of <a href="http://blog.andreineculau.com/2011/01/an-developers-review-on-webligos-socialengine/">SocialEngine</a>.</p>
   <p><em>php, mysql, css, js, mootools, jquery, zend framework, socialengine</em></p>
 </blockquote>
-<h4 id="20022003islandaccronymtitlemodelofunitednationsgeneralassemblymungaaccronymisleofwightaccronymtitleunitedkingdomgbraccronymmediaprojectmanagerdeveloper"><code>2002 - 2003</code> <strong>Island <accronym title="Model of United Nations General Assembly">M.U.N.G.A.</accronym>, Isle of Wight, <accronym title="United Kingdom">GBR</accronym></strong> <code>Media Project Manager, Developer</code></h4>
+<h3 id="20022003islandabbrtitlemodelofunitednationsgeneralassemblymungaabbrisleofwightabbrtitleunitedkingdomgbrabbrmediaprojectmanagerdeveloper"><code>2002 - 2003</code> <strong>Island <abbr title="Model of United Nations General Assembly">M.U.N.G.A.</abbr>, Isle of Wight, <abbr title="United Kingdom">GBR</abbr></strong> <code>Media Project Manager, Developer</code></h3>
 <blockquote>
   <p><em>php, mysql, i18n, l10n, cmd, premiere, delphi</em></p>
 </blockquote>
-<h4 id="20002005miscellaneouswebdeveloperdesigner"><code>2000 - 2005</code> <strong>miscellaneous</strong> <code>Web Developer/Designer</code></h4>
+<h3 id="20002005miscellaneouswebdeveloperdesigner"><code>2000 - 2005</code> <strong>miscellaneous</strong> <code>Web Developer/Designer</code></h3>
 <blockquote>
   <ul>
-  <li><code>2002 - 2005</code> Island <accronym title="Model of United Nations General Assembly">M.U.N.G.A.</accronym>, Isle of Wight, <accronym title="United Kingdom">GBR</accronym><br></li>
-  <li><code>2002 - 2004</code> Romanian Red Cross, Galati, <accronym title="Romania">ROU</accronym><br></li>
-  <li><code>2004 - 2004</code> Data-Soft S.A., Galati, <accronym title="Romania">ROU</accronym><br></li>
-  <li><code>2000 - 2004</code> Colegiul National "Vasile Alecsandri", Galati, <accronym title="Romania">ROU</accronym></li>
+  <li><code>2002 - 2005</code> Island <abbr title="Model of United Nations General Assembly">M.U.N.G.A.</abbr>, Isle of Wight, <abbr title="United Kingdom">GBR</abbr><br></li>
+  <li><code>2002 - 2004</code> Romanian Red Cross, Galati, <abbr title="Romania">ROU</abbr><br></li>
+  <li><code>2004</code> Data-Soft S.A., Galati, <abbr title="Romania">ROU</abbr><br></li>
+  <li><code>2000 - 2004</code> Colegiul National "Vasile Alecsandri", Galati, <abbr title="Romania">ROU</abbr></li>
   </ul>
   <p><em>perl, php, css, mysql, js, photoshop</em></p>
 </blockquote>
-<h1 id="education">education</h1>
-<h4 id="20082010royalinstituteoftechnologystockholmaccronymtitleswedensweaccronymhttpswwwkthseenmsc"><code>2008 - 2010</code> <strong><a href="https://www.kth.se/en">Royal Institute of Technology, Stockholm, <accronym title="Sweden">SWE</accronym></a></strong> <code>M.Sc.</code></h4>
+<h2 id="education">education</h2>
+<h3 id="20082010royalinstituteoftechnologystockholmabbrtitleswedensweabbrhttpswwwkthseenmsc"><code>2008 - 2010</code> <strong><a href="https://www.kth.se/en">Royal Institute of Technology, Stockholm, <abbr title="Sweden">SWE</abbr></a></strong> <code>M.Sc.</code></h3>
 <blockquote>
   <p>Engineering and Management of Information Systems.</p>
   <p>Data Warehousing, Web mining, Logic Programming, Knowledge Management, ERP Systems, Requirements Engineering, etc.</p>
 </blockquote>
-<h4 id="20072007universityofhumanitiesandeconomicslodzaccronymtitlepolandpolaccronymhttpswwwahelodzplenerasmus"><code>2007 - 2007</code> <strong><a href="https://www.ahe.lodz.pl/en">University of Humanities and Economics, Lodz, <accronym title="Poland">POL</accronym></a></strong> <code>Erasmus</code></h4>
+<h3 id="2007universityofhumanitiesandeconomicslodzabbrtitlepolandpolabbrhttpswwwahelodzplenerasmus"><code>2007</code> <strong><a href="https://www.ahe.lodz.pl/en">University of Humanities and Economics, Lodz, <abbr title="Poland">POL</abbr></a></strong> <code>Erasmus</code></h3>
 <blockquote>
   <p>Corporate Finance Management, H.R. Management, Social Role of Media, Public Discourses, Conflicts and International Negotiations</p>
 </blockquote>
-<h4 id="20042008romanianamericanuniversitybucharestaccronymtitleromaniarouaccronymhttpswwwrauroindexphpnewlangenglishbsc"><code>2004 - 2008</code> <strong><a href="https://www.rau.ro/index.php?newlang=english">Romanian-American University, Bucharest, <accronym title="Romania">ROU</accronym></a></strong> <code>B.Sc.</code></h4>
+<h3 id="20042008romanianamericanuniversitybucharestabbrtitleromaniarouabbrhttpswwwrauroindexphpnewlangenglishbsc"><code>2004 - 2008</code> <strong><a href="https://www.rau.ro/index.php?newlang=english">Romanian-American University, Bucharest, <abbr title="Romania">ROU</abbr></a></strong> <code>B.Sc.</code></h3>
 <blockquote>
   <p>Computer Science for Business Management. Graduated with the highest GPA in the programme.</p>
   <p>Database, Programming, Web programming, Networking, IT System Design, Expert Systems, Strategic Management, Probability Calculus, Numerical Methods, Statistics, Accounting, Finances, etc.</p>
