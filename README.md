@@ -115,6 +115,7 @@ regenerate index.html and index.lynx with: make build -->
 ### `2026 - ____` **[Codento AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://codento.com)** `Lead Cloud Architect`
 > Google Leads in AI. We Lead in Google Cloud.
 
+> Lead Cloud Architect on Data/AI and AppDev engagements.<br>
 > Advisory and delivery on Google Cloud - data platforms, applied AI (Gemini, Gemini Enterprise), and cloud-native architectures (serverless, event-driven) with infrastructure as code (Terraform) and security by design (IAM, GDPR). Supporting the sales organization and the Google partnership.<br>
 > <br>
 > Internally: recruiting, sharing knowledge, and shaping practices and structure - with a growing focus on AI tools, models, plugins, and skills.<br>
@@ -123,7 +124,7 @@ regenerate index.html and index.lynx with: make build -->
 > *gcp, gemini, gemini enterprise, cloud architecture, serverless, event-driven, data platforms, platform engineering, prompt engineering, advisory*
 
 
-<h3 class="featured" id="vend"><code>2022 - 2026</code> <strong><a href="https://vend.com">Vend AB / Blocket AB, Stockholm, <abbr title="Sweden">SWE</abbr></a></strong> <code>Sr Engineering Manager</code></h3>
+### `2022 - 2026` **[Vend AB / Blocket AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://vend.com)** `Sr Engineering Manager`
 > Tech Data Platform | Vend, formerly known as Schibsted Nordic Marketplaces | Blocket is Sweden's biggest marketplace.
 
 > Led 4 teams (19 engineers, 7 of them consultants; hired 2) running the data platform behind all Nordic marketplace brands - Blocket, DBA, FINN, Oikotie, Tori, and more.<br>
@@ -135,12 +136,8 @@ regenerate index.html and index.lynx with: make build -->
 > *people management, servant leadership, change management, data engineering, snowflake, dbt, amplitude, tableau, matillion, kafka, aws, gcp, terraform, docker, evidence*
 
 
-### `2021 - 2023` **[Y Software AB, Saltsjöbaden, <abbr title="Sweden">SWE</abbr>](http://ysoftware.se)** `Founder`
+### `2020 - 2023` **[Y Software AB, Saltsjöbaden, <abbr title="Sweden">SWE</abbr>](http://ysoftware.se)** `Founder`
 > Consultant. Self-employed
-
-
-### `2020 - 2021` **[Tobii Pro AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://www.tobiipro.com)** `Senior Software Engineer`
-> Consultant
 
 
 ### `2020` **[Normative/Meta Mind AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://www.normative.io)** `Lead Backend Engineer`
@@ -173,12 +170,7 @@ regenerate index.html and index.lynx with: make build -->
 
 
 ### `2014 - 2016` **[Cisco Systems AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://www.cisco.com)** `Software Engineer in Networking`
-> Switched focus to backend and infrastructure duties, like:<br>
-> \- Erlang-based JSON-RPC API design and implementation<br>
-> \- set up Jenkins infrastructure and delivery pipeline for Continuous Integration<br>
-> \- switch development environment from SVN to GIT<br>
-> \- set up GIT on Atlassian Stash/BitBucket Server and Gitolite<br>
-> \- tooling
+> Switched focus to backend and infrastructure: Erlang-based JSON-RPC API design and implementation, Jenkins infrastructure and the delivery pipeline for Continuous Integration, the migration from SVN to GIT (hosted on Atlassian Stash/BitBucket Server and Gitolite), tooling.
 
 > Still engineering [Tail-f NCS](https://www.tail-f.com/network-control-system/), but within Cisco's Cloud & Virtualization Group.<br>
 > Cisco acquired Tail-f in 2014 - [read more](https://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems).
@@ -189,7 +181,7 @@ regenerate index.html and index.lynx with: make build -->
 ### `2013 - 2016` **[Tail-f Systems AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://tail-f.com)** `UI Developer`
 > Engineering [Tail-f NCS](https://www.tail-f.com/network-control-system/) with a mix of frontend/backend duties.
 
-> *sencha/extjs, coffeescript, node.js, erlang, http, json-rpc, yang, jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi platform...*
+> *sencha/extjs, coffeescript, node.js*
 
 
 ### `2001 - 2014` **[Life-Link Friendship-Schools, Uppsala, <abbr title="Sweden">SWE</abbr>](http://life-link.org)** `IT handyman`
@@ -198,7 +190,7 @@ regenerate index.html and index.lynx with: make build -->
 > *php, asp, perl, css, js, sencha, photoshop, cms*
 
 
-<h3 class="featured" id="klarna"><code>2011 - 2013</code> <strong><a href="https://klarna.com">Klarna AB, Stockholm, <abbr title="Sweden">SWE</abbr></a></strong> <code>Developer in FinTech</code></h3>
+### `2011 - 2013` **[Klarna AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://klarna.com)** `Developer in FinTech`
 > Designed the public REST API of [Klarna Checkout](https://www.klarna.com/se/foretag/products/checkout/) - its core still 60-80% the same today, across 26 markets, 15 years later - and wrote the API documentation used by integrating merchants.
 
 > Checkout's whole pitch was "email + postal code, click buy" - so simple merchants couldn't trust it. I built a full front/backend <abbr title="Finite State Machine">FSM</abbr> prototype that made the flow legible, and it became the sales tool that won merchant trust over the year the product was being built.<br>
@@ -212,10 +204,6 @@ regenerate index.html and index.lynx with: make build -->
 > Engineering a customized social network on top of [SocialEngine](http://blog.andreineculau.com/2011/01/an-developers-review-on-webligos-socialengine/).
 
 > *php, mysql, css, js, mootools, jquery, zend framework, socialengine*
-
-
-### `2002 - 2003` **Island <abbr title="Model of United Nations General Assembly">M.U.N.G.A.</abbr>, Isle of Wight, <abbr title="United Kingdom">GBR</abbr>** `Media Project Manager, Developer`
-> *php, mysql, i18n, l10n, cmd, premiere, delphi*
 
 
 ### `2000 - 2005` **miscellaneous** `Web Developer/Designer`
@@ -233,8 +221,6 @@ regenerate index.html and index.lynx with: make build -->
 ### `2008 - 2010` **[Royal Institute of Technology, Stockholm, <abbr title="Sweden">SWE</abbr>](https://www.kth.se/en)** `M.Sc.`
 > Engineering and Management of Information Systems.
 
-> Data Warehousing, Web mining, Logic Programming, Knowledge Management, ERP Systems, Requirements Engineering, etc.
-
 
 ### `2007` **[University of Humanities and Economics, Lodz, <abbr title="Poland">POL</abbr>](https://www.ahe.lodz.pl/en)** `Erasmus`
 > Corporate Finance Management, H.R. Management, Social Role of Media, Public Discourses, Conflicts and International Negotiations
@@ -242,5 +228,3 @@ regenerate index.html and index.lynx with: make build -->
 
 ### `2004 - 2008` **[Romanian-American University, Bucharest, <abbr title="Romania">ROU</abbr>](https://www.rau.ro/index.php?newlang=english)** `B.Sc.`
 > Computer Science for Business Management. Graduated with the highest GPA in the programme.
-
-> Database, Programming, Web programming, Networking, IT System Design, Expert Systems, Strategic Management, Probability Calculus, Numerical Methods, Statistics, Accounting, Finances, etc.

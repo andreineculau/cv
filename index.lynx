@@ -115,6 +115,7 @@ programming
 
      Google Leads in AI. We Lead in Google Cloud.
 
+     Lead Cloud Architect on Data/AI and AppDev engagements.
      Advisory and delivery on Google Cloud - data platforms, applied AI
      (Gemini, Gemini Enterprise), and cloud-native architectures
      (serverless, event-driven) with infrastructure as code (Terraform)
@@ -155,22 +156,18 @@ programming
      engineering, snowflake, dbt, amplitude, tableau, matillion, kafka,
      aws, gcp, terraform, docker, evidence
 
-2021 - 2023 [23]Y Software AB, Saltsjöbaden, SWE Founder
+2020 - 2023 [23]Y Software AB, Saltsjöbaden, SWE Founder
 
      Consultant. Self-employed
 
-2020 - 2021 [24]Tobii Pro AB, Stockholm, SWE Senior Software Engineer
-
-     Consultant
-
-2020 [25]Normative/Meta Mind AB, Stockholm, SWE Lead Backend Engineer
+2020 [24]Normative/Meta Mind AB, Stockholm, SWE Lead Backend Engineer
 
      Normative is about "Sustainability Reporting Made Really Easy".
 
-2016 - 2020 [26]Tobii Pro AB, Stockholm, SWE Software Engineer in AdTech
+2016 - 2020 [25]Tobii Pro AB, Stockholm, SWE Software Engineer in AdTech
 (Lead)
 
-     I'm a core part of [27]Tobii ATTEX (formerly Pro Pulse).
+     I'm a core part of [26]Tobii ATTEX (formerly Pro Pulse).
      Pulse is a unique service that captures >5GB worth of online
      attention data a day,
      from >1200 people that are passively browsing the Swedish online,
@@ -185,7 +182,7 @@ programming
      es6/typescript,
      travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang
 
-2016 - 2020 [28]Tobii Pro AB, Stockholm, SWE Platform Engineer on AWS (Lead)
+2016 - 2020 [27]Tobii Pro AB, Stockholm, SWE Platform Engineer on AWS (Lead)
 
      Built Tobii Pro's cloud platform where none existed - previous
      consultants had failed to deliver one - and carried ~80% of it as we
@@ -210,42 +207,38 @@ programming
      http, node.js, es6/typescript,
      travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang
 
-2014 - 2016 [29]Cisco Systems AB, Stockholm, SWE Software Engineer in
+2014 - 2016 [28]Cisco Systems AB, Stockholm, SWE Software Engineer in
 Networking
 
-     Switched focus to backend and infrastructure duties, like:
-     - Erlang-based JSON-RPC API design and implementation
-     - set up Jenkins infrastructure and delivery pipeline for Continuous
-     Integration
-     - switch development environment from SVN to GIT
-     - set up GIT on Atlassian Stash/BitBucket Server and Gitolite
-     - tooling
+     Switched focus to backend and infrastructure: Erlang-based JSON-RPC
+     API design and implementation, Jenkins infrastructure and the
+     delivery pipeline for Continuous Integration, the migration from SVN
+     to GIT (hosted on Atlassian Stash/BitBucket Server and Gitolite),
+     tooling.
 
-     Still engineering [30]Tail-f NCS, but within Cisco's Cloud &
+     Still engineering [29]Tail-f NCS, but within Cisco's Cloud &
      Virtualization Group.
-     Cisco acquired Tail-f in 2014 - [31]read more.
+     Cisco acquired Tail-f in 2014 - [30]read more.
 
      erlang, yaws, http, json-rpc, yang, jenkins/bitten/lux/katt, multi
      vcs (svn, git, git-svn), multi platform…
 
-2013 - 2016 [32]Tail-f Systems AB, Stockholm, SWE UI Developer
+2013 - 2016 [31]Tail-f Systems AB, Stockholm, SWE UI Developer
 
-     Engineering [33]Tail-f NCS with a mix of frontend/backend duties.
+     Engineering [32]Tail-f NCS with a mix of frontend/backend duties.
 
-     sencha/extjs, coffeescript, node.js, erlang, http, json-rpc, yang,
-     jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi
-     platform…
+     sencha/extjs, coffeescript, node.js
 
-2001 - 2014 [34]Life-Link Friendship-Schools, Uppsala, SWE IT handyman
+2001 - 2014 [33]Life-Link Friendship-Schools, Uppsala, SWE IT handyman
 
      Front- and backoffice duties. Designing and engineering 3 major
      websites.
 
      php, asp, perl, css, js, sencha, photoshop, cms
 
-2011 - 2013 [35]Klarna AB, Stockholm, SWE Developer in FinTech
+2011 - 2013 [34]Klarna AB, Stockholm, SWE Developer in FinTech
 
-     Designed the public REST API of [36]Klarna Checkout - its core still
+     Designed the public REST API of [35]Klarna Checkout - its core still
      60-80% the same today, across 26 markets, 15 years later - and wrote
      the API documentation used by integrating merchants.
 
@@ -263,14 +256,9 @@ Networking
 
 2010 - 2011 Media & News Stockholm AB, Stockholm, SWE System Developer
 
-     Engineering a customized social network on top of [37]SocialEngine.
+     Engineering a customized social network on top of [36]SocialEngine.
 
      php, mysql, css, js, mootools, jquery, zend framework, socialengine
-
-2002 - 2003 Island M.U.N.G.A., Isle of Wight, GBR Media Project Manager,
-Developer
-
-     php, mysql, i18n, l10n, cmd, premiere, delphi
 
 2000 - 2005 miscellaneous Web Developer/Designer
 
@@ -283,26 +271,19 @@ Developer
 
 education
 
-2008 - 2010 [38]Royal Institute of Technology, Stockholm, SWE M.Sc.
+2008 - 2010 [37]Royal Institute of Technology, Stockholm, SWE M.Sc.
 
      Engineering and Management of Information Systems.
 
-     Data Warehousing, Web mining, Logic Programming, Knowledge
-     Management, ERP Systems, Requirements Engineering, etc.
-
-2007 [39]University of Humanities and Economics, Lodz, POL Erasmus
+2007 [38]University of Humanities and Economics, Lodz, POL Erasmus
 
      Corporate Finance Management, H.R. Management, Social Role of Media,
      Public Discourses, Conflicts and International Negotiations
 
-2004 - 2008 [40]Romanian-American University, Bucharest, ROU B.Sc.
+2004 - 2008 [39]Romanian-American University, Bucharest, ROU B.Sc.
 
      Computer Science for Business Management. Graduated with the highest
      GPA in the programme.
-
-     Database, Programming, Web programming, Networking, IT System
-     Design, Expert Systems, Strategic Management, Probability Calculus,
-     Numerical Methods, Statistics, Accounting, Finances, etc.
 
 References
 
@@ -329,20 +310,19 @@ References
   21. https://codento.com/
   22. https://vend.com/
   23. http://ysoftware.se/
-  24. https://www.tobiipro.com/
-  25. https://www.normative.io/
-  26. https://www.tobiipro.com/
-  27. https://www.tobii.com/products/attention-exchange
-  28. https://www.tobiipro.com/
-  29. https://www.cisco.com/
-  30. https://www.tail-f.com/network-control-system/
-  31. https://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems
-  32. https://tail-f.com/
-  33. https://www.tail-f.com/network-control-system/
-  34. http://life-link.org/
-  35. https://klarna.com/
-  36. https://www.klarna.com/se/foretag/products/checkout/
-  37. http://blog.andreineculau.com/2011/01/an-developers-review-on-webligos-socialengine/
-  38. https://www.kth.se/en
-  39. https://www.ahe.lodz.pl/en
-  40. https://www.rau.ro/index.php?newlang=english
+  24. https://www.normative.io/
+  25. https://www.tobiipro.com/
+  26. https://www.tobii.com/products/attention-exchange
+  27. https://www.tobiipro.com/
+  28. https://www.cisco.com/
+  29. https://www.tail-f.com/network-control-system/
+  30. https://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems
+  31. https://tail-f.com/
+  32. https://www.tail-f.com/network-control-system/
+  33. http://life-link.org/
+  34. https://klarna.com/
+  35. https://www.klarna.com/se/foretag/products/checkout/
+  36. http://blog.andreineculau.com/2011/01/an-developers-review-on-webligos-socialengine/
+  37. https://www.kth.se/en
+  38. https://www.ahe.lodz.pl/en
+  39. https://www.rau.ro/index.php?newlang=english
