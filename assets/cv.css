@@ -134,6 +134,26 @@ li {
   line-height:1.25;
 }
 
+/* Featured entry */
+#experience-wrapper > h3.featured {
+  display:flow-root;
+  background:#212529;
+  color:#f8f9fa;
+  padding:0.5rem 0.75rem;
+}
+
+#experience-wrapper > h3.featured + blockquote {
+  background:#212529;
+  color:#f8f9fa;
+  padding:0.75rem;
+  margin-bottom:1rem;
+}
+
+#experience-wrapper > h3.featured a,
+#experience-wrapper > h3.featured + blockquote a {
+  color:#8ab4f8;
+}
+
 /* Company (sub) */
 #experience-wrapper > h3 + blockquote > ul {
 }

@@ -76,20 +76,42 @@ programming
 [17]about me
 
      Senior Engineering Leader | 20+ years building reliable, scalable,
-     and high-impact software systems
+     and high-impact software solutions
      I help teams design, deliver, and operate platforms that make
      software delivery faster, safer, and more reliable. My experience
-     spans companies like Codento, Klarna, Cisco, Tobii and
-     Schibsted/Vend, leading efforts across infrastructure, data, and
-     developer platforms.
-     I care about outcomes — clear goals, strong technical foundations,
+     spans companies like Klarna, Cisco, Tobii and Schibsted/Vend,
+     leading efforts across infrastructure, data, and developer
+     platforms.
+     I code. [18]github.com/andreineculau · [19]github.com/ysoftwareab ·
+     [20]github.com/for-GET
+     I care about outcomes. Clear goals, strong technical foundations,
      and teams that can move with confidence. I focus on reducing
      friction, improving developer productivity, and building systems
-     that scale well without adding unnecessary complexity.
-     Focus areas: engineering leadership, platform strategy, reliability,
-     developer experience, and data-driven delivery.
+     that scale well without adding unnecessary complexity. Engineering
+     leadership, platform strategy, reliability, developer experience,
+     and data-driven delivery are my focus areas.
+     What my team, peers and managers are saying
+     * "I think you are quite unique in being as technical as you are and
+       at the same time being a people manager."
+     * "You manage to balance technical depth with leadership in a way
+       that builds a lot of trust."
+     * "I always feel that expectations are very clear, even when the
+       situation itself is complex."
+     * "You give people space to think and decide on their own, but you
+       are also present when guidance is needed."
+     * "You are very good at creating psychological safety in the team."
+     * "I appreciate that you don't shy away from difficult
+       conversations."
+     * "It feels like you genuinely care about both the delivery and the
+       people."
+       Driving philosophy
+       "A job well done gives inner satisfaction and is the foundation
+       upon which society rests."
+       sv. "Ett väl utfört arbete ger en inre tillfredsställelse och är
+       den grund på vilket samhället vilar." - Karl-Bertil Jonssons
+       julafton
 
-2026 - ____ [18]Codento AB, Stockholm, SWE Lead Cloud Architect
+2026 - ____ [21]Codento AB, Stockholm, SWE Lead Cloud Architect
 
      Google Leads in AI. We Lead in Google Cloud.
 
@@ -108,42 +130,47 @@ programming
      event-driven, data platforms, platform engineering, prompt
      engineering, advisory
 
-2022 - 2026 [19]Vend AB / Blocket AB, Stockholm, SWE Sr Engineering Manager
+2022 - 2026 [22]Vend AB / Blocket AB, Stockholm, SWE Sr Engineering Manager
 
      Tech Data Platform | Vend, formerly known as Schibsted Nordic
      Marketplaces | Blocket is Sweden's biggest marketplace.
 
-     Senior Software Engineering Manager (unofficially also Technical
-     Product Manager) with technical acumen and active contributions for
-     data mesh teams platformizing at scale data related process such as
-     ingestion, transformation, compliance and visualization in cloud
-     providers such as Snowflake, AWS, GCP and Confluent Kafka using
-     tools such as GitHub Actions, Docker, Terraform, dbt, evidence.
-     "Give a man a fish and you feed him for a day; teach a man to fish
-     and you feed him for a lifetime."
-     Vend is a new organization bringing together all marketplaces in
-     Denmark, Finland, Norway and Sweden and brands like Blocket, DBA,
-     Finn, Oikotie and Tori to name a few.
+     Led 4 teams (19 engineers, 7 of them consultants; hired 2) running
+     the data platform behind all Nordic marketplace brands - Blocket,
+     DBA, FINN, Oikotie, Tori, and more.
+     Inherited 5 data warehouses with thinly spread, barely monitored
+     integrations. Left behind a federated, self-serve platform:
+     thousands of dbt models over hundreds of sources (Kafka, multi-cloud
+     blob storage, direct connectors, API snapshots), 200,000+ pipeline
+     runs a year at 97%+ success. Snowflake cataloged the setup as agile
+     and federated. Onboarding a new data source went from days or weeks
+     to 1 hour, via templates and golden paths.
+     Owned a 7-figure yearly Snowflake spend (amplitude's contract even
+     larger) and drove ~4x cost-efficiency gains - spend grew ~5% a year
+     while the platform grew several-fold. Through layoffs and the
+     Schibsted-to-Vend spin-off, the team stayed intact and topped the
+     org's health metrics, the lighthouse among 10 teams.
 
-     people management, servant leadership, data engineering, change
-     management, engineering management, product management
+     people management, servant leadership, change management, data
+     engineering, snowflake, dbt, amplitude, tableau, matillion, kafka,
+     aws, gcp, terraform, docker, evidence
 
-2021 - 2023 [20]Y Software AB, Saltsjöbaden, SWE Founder
+2021 - 2023 [23]Y Software AB, Saltsjöbaden, SWE Founder
 
      Consultant. Self-employed
 
-2020 - 2021 [21]Tobii Pro AB, Stockholm, SWE Senior Software Engineer
+2020 - 2021 [24]Tobii Pro AB, Stockholm, SWE Senior Software Engineer
 
      Consultant
 
-2020 [22]Normative/Meta Mind AB, Stockholm, SWE Lead Backend Engineer
+2020 [25]Normative/Meta Mind AB, Stockholm, SWE Lead Backend Engineer
 
      Normative is about "Sustainability Reporting Made Really Easy".
 
-2016 - 2020 [23]Tobii Pro AB, Stockholm, SWE Software Engineer in AdTech
+2016 - 2020 [26]Tobii Pro AB, Stockholm, SWE Software Engineer in AdTech
 (Lead)
 
-     I'm a core part of [24]Tobii ATTEX (formerly Pro Pulse).
+     I'm a core part of [27]Tobii ATTEX (formerly Pro Pulse).
      Pulse is a unique service that captures >5GB worth of online
      attention data a day,
      from >1200 people that are passively browsing the Swedish online,
@@ -158,20 +185,32 @@ programming
      es6/typescript,
      travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang
 
-2016 - 2020 [25]Tobii Pro AB, Stockholm, SWE Platform Engineer on AWS (Lead)
+2016 - 2020 [28]Tobii Pro AB, Stockholm, SWE Platform Engineer on AWS (Lead)
 
-     Setting up the development architecture of Tobii Pro's Cloud
-     Services.
+     Built Tobii Pro's cloud platform where none existed - previous
+     consultants had failed to deliver one - and carried ~80% of it as we
+     grew from 3 people to almost 30 in 2 teams shipping 3 products on
+     it.
 
-     Tobii Pro is the research solution division within Tobii.
-     We help business and science professionals gain real insights into
-     human behavior with leading eye tracking solutions and services.
+     End-to-end, everything infrastructure as code: browser extension and
+     eye-tracker integration, ingestion (Kinesis Firehose, API Gateway,
+     Lambda), cloud storage and ELT, analysis (Athena), presentation,
+     monitoring. About 3,000 USD/month in cloud costs, thanks to
+     architecture over hardware.
+     Several uneventful deployments a day, for everyone including
+     juniors, across dev/pre/prod. In four years, exactly one incident
+     worth the name - a data-resend bug, caught immediately.
+     Grew the service from 0 to 1,000+ panelists and tens of GB ingested
+     and analyzed daily. Survived multiple product pivots with little
+     effort - the platform bent instead of breaking. The visible result:
+     watching, in real time, where a person actually looks on a website.
 
-     aws, gitops, devops, infrastructure as code, http, node.js,
-     es6/typescript,
+     aws, serverless, lambda, api gateway, kinesis firehose, athena,
+     infrastructure as code, cloudformation, terraform, gitops, devops,
+     http, node.js, es6/typescript,
      travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang
 
-2014 - 2016 [26]Cisco Systems AB, Stockholm, SWE Software Engineer in
+2014 - 2016 [29]Cisco Systems AB, Stockholm, SWE Software Engineer in
 Networking
 
      Switched focus to backend and infrastructure duties, like:
@@ -182,42 +221,49 @@ Networking
      - set up GIT on Atlassian Stash/BitBucket Server and Gitolite
      - tooling
 
-     Still engineering [27]Tail-f NCS, but within Cisco's Cloud &
+     Still engineering [30]Tail-f NCS, but within Cisco's Cloud &
      Virtualization Group.
-     Cisco acquired Tail-f in 2014 - [28]read more.
+     Cisco acquired Tail-f in 2014 - [31]read more.
 
      erlang, yaws, http, json-rpc, yang, jenkins/bitten/lux/katt, multi
      vcs (svn, git, git-svn), multi platform…
 
-2013 - 2016 [29]Tail-f Systems AB, Stockholm, SWE UI Developer
+2013 - 2016 [32]Tail-f Systems AB, Stockholm, SWE UI Developer
 
-     Engineering [30]Tail-f NCS with a mix of frontend/backend duties.
+     Engineering [33]Tail-f NCS with a mix of frontend/backend duties.
 
      sencha/extjs, coffeescript, node.js, erlang, http, json-rpc, yang,
      jenkins/bitten/lux/katt, multi vcs (svn, git, git-svn), multi
      platform…
 
-2001 - 2014 [31]Life-Link Friendship-Schools, Uppsala, SWE IT handyman
+2001 - 2014 [34]Life-Link Friendship-Schools, Uppsala, SWE IT handyman
 
      Front- and backoffice duties. Designing and engineering 3 major
      websites.
 
      php, asp, perl, css, js, sencha, photoshop, cms
 
-2011 - 2013 [32]Klarna AB, Stockholm, SWE Developer in FinTech
+2011 - 2013 [35]Klarna AB, Stockholm, SWE Developer in FinTech
 
-     Engineering [33]Klarna Checkout - full-blown front/backend FSM
-     prototype, interaction and API documentation, GUI.
+     Designed the public REST API of [36]Klarna Checkout - its core still
+     60-80% the same today, across 26 markets, 15 years later - and wrote
+     the API documentation used by integrating merchants.
 
-     Engineering support tools and designing the [34]Klarna Checkout REST
-     API and other backoffice REST APIs.
+     Checkout's whole pitch was "email + postal code, click buy" - so
+     simple merchants couldn't trust it. I built a full front/backend FSM
+     prototype that made the flow legible, and it became the sales tool
+     that won merchant trust over the year the product was being built.
+     As the Checkout team grew from 4 to 20-30 people, I built support
+     tooling for engineers to learn, explore and extend what the API
+     exposed - then moved to a 10-person API team to design the Klarna
+     Backoffice API.
 
-     rest, http, hypermedia, api, js, coffeescript, sdk, gui, ux, i18n,
-     l10n, testing, scripting, erlang
+     rest, http, hypermedia, api, api design, fsm, js, coffeescript, sdk,
+     gui, ux, i18n, l10n, testing, scripting, erlang
 
 2010 - 2011 Media & News Stockholm AB, Stockholm, SWE System Developer
 
-     Engineering a customized social network on top of [35]SocialEngine.
+     Engineering a customized social network on top of [37]SocialEngine.
 
      php, mysql, css, js, mootools, jquery, zend framework, socialengine
 
@@ -237,19 +283,19 @@ Developer
 
 education
 
-2008 - 2010 [36]Royal Institute of Technology, Stockholm, SWE M.Sc.
+2008 - 2010 [38]Royal Institute of Technology, Stockholm, SWE M.Sc.
 
      Engineering and Management of Information Systems.
 
      Data Warehousing, Web mining, Logic Programming, Knowledge
      Management, ERP Systems, Requirements Engineering, etc.
 
-2007 [37]University of Humanities and Economics, Lodz, POL Erasmus
+2007 [39]University of Humanities and Economics, Lodz, POL Erasmus
 
      Corporate Finance Management, H.R. Management, Social Role of Media,
      Public Discourses, Conflicts and International Negotiations
 
-2004 - 2008 [38]Romanian-American University, Bucharest, ROU B.Sc.
+2004 - 2008 [40]Romanian-American University, Bucharest, ROU B.Sc.
 
      Computer Science for Business Management. Graduated with the highest
      GPA in the programme.
@@ -277,24 +323,26 @@ References
   15. https://www.globalnerdy.com/2012/04/24/geeks-and-repetitive-tasks/
   16. https://github.com/andreineculau/cv/blob/gh-pages/assets/do-hard-things.md
   17. http://linkedin.andreineculau.com/
-  18. https://codento.com/
-  19. https://vend.com/
-  20. http://ysoftware.se/
-  21. https://www.tobiipro.com/
-  22. https://www.normative.io/
-  23. https://www.tobiipro.com/
-  24. https://www.tobii.com/products/attention-exchange
-  25. https://www.tobiipro.com/
-  26. https://www.cisco.com/
-  27. https://www.tail-f.com/network-control-system/
-  28. https://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems
-  29. https://tail-f.com/
+  18. https://github.com/andreineculau
+  19. https://github.com/ysoftwareab
+  20. https://github.com/for-GET
+  21. https://codento.com/
+  22. https://vend.com/
+  23. http://ysoftware.se/
+  24. https://www.tobiipro.com/
+  25. https://www.normative.io/
+  26. https://www.tobiipro.com/
+  27. https://www.tobii.com/products/attention-exchange
+  28. https://www.tobiipro.com/
+  29. https://www.cisco.com/
   30. https://www.tail-f.com/network-control-system/
-  31. http://life-link.org/
-  32. https://klarna.com/
-  33. https://www.klarna.com/se/foretag/products/checkout/
-  34. https://docs.klarna.com/api/checkout/
-  35. http://blog.andreineculau.com/2011/01/an-developers-review-on-webligos-socialengine/
-  36. https://www.kth.se/en
-  37. https://www.ahe.lodz.pl/en
-  38. https://www.rau.ro/index.php?newlang=english
+  31. https://newsroom.cisco.com/release/1438152/Cisco-Announces-Intent-to-Acquire-Tail-f-Systems
+  32. https://tail-f.com/
+  33. https://www.tail-f.com/network-control-system/
+  34. http://life-link.org/
+  35. https://klarna.com/
+  36. https://www.klarna.com/se/foretag/products/checkout/
+  37. http://blog.andreineculau.com/2011/01/an-developers-review-on-webligos-socialengine/
+  38. https://www.kth.se/en
+  39. https://www.ahe.lodz.pl/en
+  40. https://www.rau.ro/index.php?newlang=english

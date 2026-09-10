@@ -90,13 +90,27 @@ regenerate index.html and index.lynx with: make build -->
 <!-- split -->
 
 ### **[about me](http://linkedin.andreineculau.com)**
-> Senior Engineering Leader | 20+ years building reliable, scalable, and high-impact software systems<br>
+> **Senior Engineering Leader | 20+ years building reliable, scalable, and high-impact software solutions**<br>
 > <br>
-> I help teams design, deliver, and operate platforms that make software delivery faster, safer, and more reliable. My experience spans companies like Codento, Klarna, Cisco, Tobii and Schibsted/Vend, leading efforts across infrastructure, data, and developer platforms.<br>
+> **I help teams** design, deliver, and operate platforms that make software delivery faster, safer, and more reliable. **My experience** spans companies like Klarna, Cisco, Tobii and Schibsted/Vend, leading efforts across infrastructure, data, and developer platforms.<br>
 > <br>
-> I care about outcomes — clear goals, strong technical foundations, and teams that can move with confidence. I focus on reducing friction, improving developer productivity, and building systems that scale well without adding unnecessary complexity.<br>
+> **I code.** [github.com/andreineculau](https://github.com/andreineculau) · [github.com/ysoftwareab](https://github.com/ysoftwareab) · [github.com/for-GET](https://github.com/for-GET)<br>
 > <br>
-> <strong>Focus areas</strong>: engineering leadership, platform strategy, reliability, developer experience, and data-driven delivery.
+> **I care about outcomes.** Clear goals, strong technical foundations, and teams that can move with confidence. **I focus** on reducing friction, improving developer productivity, and building systems that scale well without adding unnecessary complexity. Engineering leadership, platform strategy, reliability, developer experience, and data-driven delivery are my focus areas.<br>
+> <br>
+> <strong>What my team, peers and managers are saying</strong><br>
+> * *"I think you are quite <strong>unique</strong> in being as <strong>technical</strong> as you are and at the same time being a <strong>people manager</strong>."*<br>
+> * *"You manage to <strong>balance</strong> technical depth with leadership in a way that builds a lot of <strong>trust</strong>."*<br>
+> * *"I always feel that <strong>expectations</strong> are very <strong>clear</strong>, even when the <strong>situation</strong> itself is <strong>complex</strong>."*<br>
+> * *"You give people <strong>space to think and decide on their own</strong>, but you are also present when <strong>guidance</strong> is needed."*<br>
+> * *"You are very good at creating <strong>psychological safety</strong> in the team."*<br>
+> * *"I appreciate that you don't shy away from <strong>difficult conversations</strong>."*<br>
+> * *"It feels like you <strong>genuinely care</strong> about both the <strong>delivery</strong> and the <strong>people</strong>."*<br>
+> <br>
+> <strong>Driving philosophy</strong><br>
+> <br>
+> *"A job well done gives inner satisfaction and is the foundation upon which society rests."*<br>
+> sv. *"Ett väl utfört arbete ger en inre tillfredsställelse och är den grund på vilket samhället vilar."* - Karl-Bertil Jonssons julafton
 
 ### `2026 - ____` **[Codento AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://codento.com)** `Lead Cloud Architect`
 > Google Leads in AI. We Lead in Google Cloud.
@@ -109,14 +123,16 @@ regenerate index.html and index.lynx with: make build -->
 > *gcp, gemini, gemini enterprise, cloud architecture, serverless, event-driven, data platforms, platform engineering, prompt engineering, advisory*
 
 
-### `2022 - 2026` **[Vend AB / Blocket AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://vend.com)** `Sr Engineering Manager`
+<h3 class="featured" id="vend"><code>2022 - 2026</code> <strong><a href="https://vend.com">Vend AB / Blocket AB, Stockholm, <abbr title="Sweden">SWE</abbr></a></strong> <code>Sr Engineering Manager</code></h3>
 > Tech Data Platform | Vend, formerly known as Schibsted Nordic Marketplaces | Blocket is Sweden's biggest marketplace.
 
-> Senior Software Engineering Manager (unofficially also Technical Product Manager) with technical acumen and active contributions for data mesh teams platformizing at scale data related process such as ingestion, transformation, compliance and visualization in cloud providers such as Snowflake, AWS, GCP and Confluent Kafka using tools such as GitHub Actions, Docker, Terraform, dbt, evidence. "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime."<br>
+> Led 4 teams (19 engineers, 7 of them consultants; hired 2) running the data platform behind all Nordic marketplace brands - Blocket, DBA, FINN, Oikotie, Tori, and more.<br>
 > <br>
-> Vend is a new organization bringing together all marketplaces in Denmark, Finland, Norway and Sweden and brands like Blocket, DBA, Finn, Oikotie and Tori to name a few.
+> Inherited 5 data warehouses with thinly spread, barely monitored integrations. Left behind a federated, self-serve platform: thousands of dbt models over hundreds of sources (Kafka, multi-cloud blob storage, direct connectors, API snapshots), 200,000+ pipeline runs a year at 97%+ success. Snowflake cataloged the setup as agile and federated. Onboarding a new data source went from days or weeks to 1 hour, via templates and golden paths.<br>
+> <br>
+> Owned a 7-figure yearly Snowflake spend (amplitude's contract even larger) and drove ~4x cost-efficiency gains - spend grew ~5% a year while the platform grew several-fold. Through layoffs and the Schibsted-to-Vend spin-off, the team stayed intact and topped the org's health metrics, the lighthouse among 10 teams.
 
-> *people management, servant leadership, data engineering, change management, engineering management, product management*
+> *people management, servant leadership, change management, data engineering, snowflake, dbt, amplitude, tableau, matillion, kafka, aws, gcp, terraform, docker, evidence*
 
 
 ### `2021 - 2023` **[Y Software AB, Saltsjöbaden, <abbr title="Sweden">SWE</abbr>](http://ysoftware.se)** `Founder`
@@ -145,12 +161,15 @@ regenerate index.html and index.lynx with: make build -->
 
 
 ### `2016 - 2020` **[Tobii Pro AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://www.tobiipro.com)** `Platform Engineer on AWS (Lead)`
-> Setting up the development architecture of Tobii Pro's Cloud Services.
+> Built Tobii Pro's cloud platform where none existed - previous consultants had failed to deliver one - and carried ~80% of it as we grew from 3 people to almost 30 in 2 teams shipping 3 products on it.
 
-> Tobii Pro is the research solution division within Tobii.<br>
-> We help business and science professionals gain real insights into human behavior with leading eye tracking solutions and services.
+> End-to-end, everything infrastructure as code: browser extension and eye-tracker integration, ingestion (Kinesis Firehose, API Gateway, Lambda), cloud storage and ELT, analysis (Athena), presentation, monitoring. About 3,000 USD/month in cloud costs, thanks to architecture over hardware.<br>
+> <br>
+> Several uneventful deployments a day, for everyone including juniors, across dev/pre/prod. In four years, exactly one incident worth the name - a data-resend bug, caught immediately.<br>
+> <br>
+> Grew the service from 0 to 1,000+ panelists and tens of GB ingested and analyzed daily. Survived multiple product pivots with little effort - the platform bent instead of breaking. The visible result: watching, in real time, where a person actually looks on a website.
 
-> *aws, gitops, devops, infrastructure as code, http, node.js, es6/typescript, travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang*
+> *aws, serverless, lambda, api gateway, kinesis firehose, athena, infrastructure as code, cloudformation, terraform, gitops, devops, http, node.js, es6/typescript, travisci/circleci/github-actions/teamcity/jenkins/katt, git, erlang*
 
 
 ### `2014 - 2016` **[Cisco Systems AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://www.cisco.com)** `Software Engineer in Networking`
@@ -179,13 +198,14 @@ regenerate index.html and index.lynx with: make build -->
 > *php, asp, perl, css, js, sencha, photoshop, cms*
 
 
-### `2011 - 2013` **[Klarna AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://klarna.com)** `Developer in FinTech`
-> Engineering [Klarna Checkout](https://www.klarna.com/se/foretag/products/checkout/) -
-> full-blown front/backend <abbr title="Finite State Machine">FSM</abbr> prototype, interaction and API documentation, GUI.
+<h3 class="featured" id="klarna"><code>2011 - 2013</code> <strong><a href="https://klarna.com">Klarna AB, Stockholm, <abbr title="Sweden">SWE</abbr></a></strong> <code>Developer in FinTech</code></h3>
+> Designed the public REST API of [Klarna Checkout](https://www.klarna.com/se/foretag/products/checkout/) - its core still 60-80% the same today, across 26 markets, 15 years later - and wrote the API documentation used by integrating merchants.
 
-> Engineering support tools and designing the [Klarna Checkout REST API](https://docs.klarna.com/api/checkout/) and other backoffice REST APIs.
+> Checkout's whole pitch was "email + postal code, click buy" - so simple merchants couldn't trust it. I built a full front/backend <abbr title="Finite State Machine">FSM</abbr> prototype that made the flow legible, and it became the sales tool that won merchant trust over the year the product was being built.<br>
+> <br>
+> As the Checkout team grew from 4 to 20-30 people, I built support tooling for engineers to learn, explore and extend what the API exposed - then moved to a 10-person API team to design the Klarna Backoffice API.
 
-> *rest, http, hypermedia, api, js, coffeescript, sdk, gui, ux, i18n, l10n, testing, scripting, erlang*
+> *rest, http, hypermedia, api, api design, fsm, js, coffeescript, sdk, gui, ux, i18n, l10n, testing, scripting, erlang*
 
 
 ### `2010 - 2011` **Media & News Stockholm AB, Stockholm, <abbr title="Sweden">SWE</abbr>** `System Developer`
