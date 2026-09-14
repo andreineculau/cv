@@ -129,9 +129,9 @@ regenerate index.html and index.lynx with: make build -->
 
 > Led 4 teams (19 engineers, 7 of them consultants; hired 2) running the data platform behind all Nordic marketplace brands - Blocket, DBA, FINN, Oikotie, Tori, and more.<br>
 > <br>
-> Inherited 5 data warehouses with thinly spread, barely monitored integrations. Left behind a federated, self-serve platform: thousands of dbt models over hundreds of sources (Kafka, multi-cloud blob storage, direct connectors, API snapshots), 200,000+ pipeline runs a year at 97%+ success. Snowflake cataloged the setup as agile and federated. Onboarding a new data source went from days or weeks to 1 hour, via templates and golden paths.<br>
+> Inherited 5 data warehouses with thinly spread, barely monitored integrations. Left behind a federated, self-serve platform: thousands of dbt models over hundreds of sources (Kafka, multi-cloud blob storage, direct connectors, API snapshots), 200,000+ pipeline runs a year at 97%+ success. Snowflake cataloged the setup as truly agile, federated and self-serve. Onboarding a new data source went from days or weeks to 1 hour, via templates and golden paths.<br>
 > <br>
-> Owned a 7-figure yearly Snowflake spend (amplitude's contract even larger) and drove ~4x cost-efficiency gains - spend grew ~5% a year while the platform grew several-fold. Through layoffs and the Schibsted-to-Vend spin-off, the team stayed intact and topped the org's health metrics, the lighthouse among 10 teams.
+ Owned a 7-figure yearly Snowflake spend (among other analytical tools such as Amplitude, Tableau, etc), and drove ~4x cost-efficiency gains - spend grew ~5% a year while the platform grew several-fold. Despite aggresive org changes, the team stayed focused and topped the org's health metrics, a true lighthouse among many teams.
 
 > *people management, servant leadership, change management, data engineering, snowflake, dbt, amplitude, tableau, matillion, kafka, aws, gcp, terraform, docker, evidence*
 
