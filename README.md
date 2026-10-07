@@ -140,7 +140,7 @@ regenerate index.html and index.lynx with: make build -->
 > Consultant. Self-employed
 
 
-### `2020` **[Normative/Meta Mind AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://www.normative.io)** `Lead Backend Engineer`
+### `2020 - 2020` **[Normative/Meta Mind AB, Stockholm, <abbr title="Sweden">SWE</abbr>](https://www.normative.io)** `Lead Backend Engineer`
 > Normative is about "Sustainability Reporting Made Really Easy".
 
 
@@ -209,7 +209,7 @@ regenerate index.html and index.lynx with: make build -->
 ### `2000 - 2005` **miscellaneous** `Web Developer/Designer`
 > * `2002 - 2005` Island <abbr title="Model of United Nations General Assembly">M.U.N.G.A.</abbr>, Isle of Wight, <abbr title="United Kingdom">GBR</abbr><br>
 > * `2002 - 2004` Romanian Red Cross, Galati, <abbr title="Romania">ROU</abbr><br>
-> * `2004` Data-Soft S.A., Galati, <abbr title="Romania">ROU</abbr><br>
+> * `2004 - 2004` Data-Soft S.A., Galati, <abbr title="Romania">ROU</abbr><br>
 > * `2000 - 2004` Colegiul National "Vasile Alecsandri", Galati, <abbr title="Romania">ROU</abbr>
 
 > *perl, php, css, mysql, js, photoshop*
@@ -222,7 +222,7 @@ regenerate index.html and index.lynx with: make build -->
 > Engineering and Management of Information Systems.
 
 
-### `2007` **[University of Humanities and Economics, Lodz, <abbr title="Poland">POL</abbr>](https://www.ahe.lodz.pl/en)** `Erasmus`
+### `2007 - 2007` **[University of Humanities and Economics, Lodz, <abbr title="Poland">POL</abbr>](https://www.ahe.lodz.pl/en)** `Erasmus`
 > Corporate Finance Management, H.R. Management, Social Role of Media, Public Discourses, Conflicts and International Negotiations
 
 

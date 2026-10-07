@@ -271,14 +271,13 @@ li {
   /* Role */
   #experience-wrapper > h3 > code:first-child + strong + code {
     font-size:0.6rem;
-    clear:both;
-    float:left;
-    margin-left:0;
+    color:#d63384;
   }
 
   /* Period */
   #experience-wrapper > h3 > code:first-child {
     font-size:0.6rem;
+    color:#d63384;
   }
 
   /* Description */
